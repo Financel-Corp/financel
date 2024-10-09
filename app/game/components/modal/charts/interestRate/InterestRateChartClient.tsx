@@ -54,6 +54,13 @@ export function InterestRateChartClient({
       return
     }
 
+    // Remove the date format check since we're now passing a correctly formatted date
+    // if (!/^[A-Z][a-z]{2} \d{2}$/.test(date)) {
+    //   console.error('Invalid date format:', date)
+    //   setError('Invalid date format')
+    //   return
+    // }
+
     const dateIndex = initialData.findIndex((point) => point.date === date)
     console.log('Date Index:', dateIndex)
 

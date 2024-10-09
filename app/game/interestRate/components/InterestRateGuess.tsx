@@ -7,9 +7,35 @@ import { useDisclosure } from '@mantine/hooks'
 import { useForm } from '@mantine/form'
 import { Keyboard } from '../../components/keyboard/Keyboard'
 import { GuessDisplay } from './components/GuessDisplay'
-import { NextModal } from '../../components/NextModal'
+import { NextModal } from '../../components/modal/NextModal'
 import { useUserContext } from '../../../context/user/UserContext'
 import classes from './ui/InterestRateGuess.module.css'
+
+// Add this helper function at the top of the file, outside the component
+function formatDateForChart(date: string): string {
+  try {
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    const [year, month, day] = date.split('-')
+    const monthNames = [
+      'Jan',
+      'Feb',
+      'Mar',
+      'Apr',
+      'May',
+      'Jun',
+      'Jul',
+      'Aug',
+      'Sep',
+      'Oct',
+      'Nov',
+      'Dec',
+    ]
+    return `${monthNames[parseInt(month, 10) - 1]} ${parseInt(day, 10)}`
+  } catch (error) {
+    console.error('Error formatting date:', error)
+    return date
+  }
+}
 
 interface IRmodalProps {
   opened: boolean
@@ -28,7 +54,15 @@ interface Guess {
   isSpinning: boolean
 }
 
-export function InterestRateGuess() {
+interface InterestRateGuessProps {
+  initialData: Array<{ date: string; interestRate: number }>
+  challengeDate: string
+}
+
+export function InterestRateGuess({
+  initialData,
+  challengeDate,
+}: InterestRateGuessProps) {
   const [guesses, setGuesses] = useState<Array<Guess>>([])
   const [isAnimating, setIsAnimating] = useState(false)
   const [resultId, setResultId] = useState<string | null>(null)
@@ -36,6 +70,9 @@ export function InterestRateGuess() {
   const [opened, handlers] = useDisclosure(false)
   const guessCount = useRef(1)
   const { user } = useUserContext()
+  const [finalGuess, setFinalGuess] = useState<number | null>(null)
+  const [formattedChallengeDate, setFormattedChallengeDate] =
+    useState<string>('')
 
   const form = useForm({
     initialValues: {
@@ -56,6 +93,13 @@ export function InterestRateGuess() {
       }
     }
   }, [user])
+
+  useEffect(() => {
+    console.log('Original challenge date:', challengeDate)
+    const formattedDate = formatDateForChart(challengeDate)
+    console.log('Formatted challenge date:', formattedDate)
+    setFormattedChallengeDate(formattedDate)
+  }, [challengeDate])
 
   const handleSubmit = useCallback(
     async (values: { guess: string }) => {
@@ -120,7 +164,8 @@ export function InterestRateGuess() {
         if (
           (isComplete && !isAnimating) ||
           (guessCount.current === 7 && !isAnimating)
-        )
+        ) {
+          setFinalGuess(parseFloat(formattedGuess))
           setTimeout(() => {
             setModalProps({
               opened: true,
@@ -133,6 +178,7 @@ export function InterestRateGuess() {
             })
             handlers.open()
           }, 2500) // 2000 milliseconds = 2 seconds
+        } // Add this closing brace
       } catch (error) {
         console.error('Submission failed:', error)
         setIsAnimating(false)
@@ -147,6 +193,7 @@ export function InterestRateGuess() {
       setIsAnimating,
       setModalProps,
       handlers,
+      setFinalGuess,
     ]
   )
   const memoizedHandleSubmit = useCallback(
@@ -180,8 +227,14 @@ export function InterestRateGuess() {
         )}
       </div>
       <div className={classes.guessBox}>
-        {opened !== undefined && modalProps && (
-          <NextModal {...modalProps} opened={opened} />
+        {opened !== undefined && modalProps && finalGuess !== null && (
+          <NextModal
+            {...modalProps}
+            opened={opened}
+            initialData={initialData}
+            challengeDate={formattedChallengeDate}
+            finalGuess={finalGuess}
+          />
         )}
         {guesses.length < 6 ? (
           <form>

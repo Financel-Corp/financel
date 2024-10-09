@@ -9,18 +9,24 @@ import classes from '../ui/Game.module.css'
 type DayOf = 'image' | 'day' | 'guess'
 
 export default function InterestRatePage() {
-  const [dayOfSlide, setDayOfSlide] = useState<DayOf>('image')
+  const [initialData, setInitialData] = useState<
+    Array<{ date: string; interestRate: number }>
+  >([])
+  const [challengeDate, setChallengeDate] = useState<DayOf>('image')
 
   return (
     <>
       <div className={classes.dayOf}>
         <InterestRateDayOf
-          dayOfSlide={dayOfSlide}
-          setDayOfSlide={setDayOfSlide}
+          setChallengeDate={setChallengeDate}
+          setInitialData={setInitialData}
         />
       </div>
       <div className={classes.guess}>
-        <InterestRateGuess />
+        <InterestRateGuess
+          initialData={initialData}
+          challengeDate={challengeDate}
+        />
       </div>
     </>
   )

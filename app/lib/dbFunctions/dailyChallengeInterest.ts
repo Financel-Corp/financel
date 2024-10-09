@@ -26,52 +26,57 @@ export async function createDailyChallenge() {
 
   const today = new Date()
   const dateOnly = new Date(
-    today.getFullYear(),
-    today.getMonth(),
-    today.getDate()
+    Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), today.getUTCDate())
   )
   console.log(`Today's date: ${dateOnly.toISOString().split('T')[0]}`)
 
-  // Get the total count of dates
-  const totalDates = await prisma.dates.count()
-  console.log(`Total dates in database: ${totalDates}`)
-
-  // Generate a random index
-  const randomIndex = Math.floor(Math.random() * totalDates)
-  console.log(`Random index selected: ${randomIndex}`)
-
-  // Fetch the random date
-  const randomDate = await prisma.dates.findFirst({
-    skip: randomIndex,
+  // Get all dates that have interest rate data
+  const datesWithInterestRates = await prisma.interestRatePrice.findMany({
+    select: {
+      dateId: true,
+      interestId: true,
+    },
+    distinct: ['dateId', 'interestId'],
   })
 
-  if (!randomDate) {
-    console.error('No random date found')
+  if (datesWithInterestRates.length === 0) {
+    console.error('No dates with interest rate data found')
     return
   }
-  console.log(
-    `Random date selected: ${randomDate.date.toISOString().split('T')[0]}`
-  )
 
-  // Find a random interest rate category for the selected date
-  const interestRateCategories = await prisma.interestRate.findMany()
-  console.log(
-    `Available interest rate categories: ${interestRateCategories.map((c) => c.category).join(', ')}`
-  )
-
-  const randomCategory =
-    interestRateCategories[
-      Math.floor(Math.random() * interestRateCategories.length)
+  // Randomly select a date and category combination
+  const randomSelection =
+    datesWithInterestRates[
+      Math.floor(Math.random() * datesWithInterestRates.length)
     ]
-  console.log(
-    `Randomly selected interest rate category: ${randomCategory.category}`
-  )
+
+  // Fetch the selected date
+  const selectedDate = await prisma.dates.findUnique({
+    where: { id: randomSelection.dateId },
+  })
+
+  if (!selectedDate) {
+    console.error('Selected date not found')
+    return
+  }
+  console.log(`Selected date: ${selectedDate.date.toISOString().split('T')[0]}`)
+
+  // Fetch the selected interest rate category
+  const selectedCategory = await prisma.interestRate.findUnique({
+    where: { id: randomSelection.interestId },
+  })
+
+  if (!selectedCategory) {
+    console.error('Selected interest rate category not found')
+    return
+  }
+  console.log(`Selected interest rate category: ${selectedCategory.category}`)
 
   // Find the interest rate for the selected date and category
   const interestRate = await prisma.interestRatePrice.findFirst({
     where: {
-      dateId: randomDate.id,
-      interestId: randomCategory.id,
+      dateId: selectedDate.id,
+      interestId: selectedCategory.id,
     },
   })
 
@@ -84,15 +89,15 @@ export async function createDailyChallenge() {
   )
 
   // Fetch year data (365 days surrounding the chosen date)
-  const startDate = addDays(randomDate.date, -182)
-  const endDate = addDays(randomDate.date, 182)
+  const startDate = addDays(selectedDate.date, -182)
+  const endDate = addDays(selectedDate.date, 182)
   console.log(
     `Fetching data for date range: ${startDate.toISOString().split('T')[0]} to ${endDate.toISOString().split('T')[0]}`
   )
 
   const yearData = await prisma.interestRatePrice.findMany({
     where: {
-      rateType: { id: randomCategory.id },
+      rateType: { id: selectedCategory.id },
       date: {
         date: {
           gte: startDate,
@@ -124,7 +129,7 @@ export async function createDailyChallenge() {
   const challenge = await prisma.dailyChallenge.create({
     data: {
       challengeDate: dateOnly,
-      date: { connect: { id: randomDate.id } },
+      date: { connect: { id: selectedDate.id } },
       interestRate: { connect: { id: interestRate.id } },
       interestRateYearData: {
         create: {
@@ -153,8 +158,8 @@ export async function createDailyChallenge() {
     JSON.stringify(
       {
         id: typedChallenge.id,
-        challengeDate: typedChallenge.challengeDate.toISOString().split('T')[0],
-        historicalDate: typedChallenge.date.date.toISOString().split('T')[0],
+        challengeDate: typedChallenge.challengeDate.toISOString(),
+        historicalDate: typedChallenge.date.date.toISOString(),
         interestRateCategory: typedChallenge.interestRate.rateType.category,
         interestRate: typedChallenge.interestRate.rate,
         yearDataId: typedChallenge.interestRateYearData?.id,

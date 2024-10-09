@@ -9,20 +9,25 @@ import classes from './ui/InterestRateDayOf.module.css'
 import { DayOfInfo } from './components/DayOfInfo'
 
 interface InterestRateDayOfProps {
-  dayOfSlide: 'image' | 'day' | 'guess'
-  // eslint-disable-next-line react/no-unused-prop-types
-  setDayOfSlide: Dispatch<SetStateAction<'image' | 'day' | 'guess'>>
+  setChallengeDate: Dispatch<SetStateAction<'image' | 'day' | 'guess'>>
+  setInitialData: Dispatch<
+    SetStateAction<Array<{ date: string; interestRate: number }>>
+  >
 }
+type DayOf = 'image' | 'day' | 'guess'
 interface DayOfInfo {
   date: string
   category: string
+  chartData: Array<{ date: string; interestRate: number }>
 }
 
 export function InterestRateDayOf({
-  dayOfSlide,
-  setDayOfSlide,
+  setChallengeDate,
+  setInitialData,
 }: InterestRateDayOfProps) {
   const [dayOfInfo, setDayOfInfo] = useState<DayOfInfo | null>(null)
+  const [dayOfSlide, setDayOfSlide] = useState<DayOf>('image')
+
   useEffect(() => {
     if (dayOfSlide === 'image') {
       const timeoutId = setTimeout(() => {
@@ -31,9 +36,11 @@ export function InterestRateDayOf({
         })
           .then((response) => response.json())
           .then((data) => {
-            const { date, category } = data // Destructure directly from data
-            console.log(date, category)
-            setDayOfInfo({ date, category }) // Update this line
+            const { date, category, chartData } = data
+            console.log('Challenge date:', date)
+            setDayOfInfo({ date, category, chartData })
+            setInitialData(chartData)
+            setChallengeDate(date)
           })
           .then(() => {
             setDayOfSlide('day')
@@ -45,7 +52,8 @@ export function InterestRateDayOf({
 
       return () => clearTimeout(timeoutId)
     }
-  }, [dayOfSlide, setDayOfSlide]) // Add setDayOfSlide to dependency array
+  }, [dayOfSlide, setChallengeDate, setDayOfSlide, setInitialData])
+
   return (
     <Container className={classes.dayOfContainer}>
       <div className={classes.slideWrapper}>

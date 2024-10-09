@@ -22,3 +22,7 @@
   margin: 0 auto;
   overflow: hidden;
 }
+
+.nextButton {
+  margin-top: 1vh;
+}

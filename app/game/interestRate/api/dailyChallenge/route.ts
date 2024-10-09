@@ -1,11 +1,10 @@
 import { NextResponse } from 'next/server'
 import prisma from '../../../../lib/prisma/prisma'
+import { getChartDataForDailyChallenge } from '../../../../lib/dbFunctions/getChartDataForDailyChallenge'
 
 export async function GET() {
-  let dailyChallenge
-
   try {
-    dailyChallenge = await prisma.dailyChallenge.findFirst({
+    const dailyChallenge = await prisma.dailyChallenge.findFirst({
       orderBy: { challengeDate: 'desc' },
       select: {
         date: {
@@ -31,10 +30,12 @@ export async function GET() {
         { status: 404 }
       )
 
-    // Transform the data to return only date and category
+    const chartData = await getChartDataForDailyChallenge()
+
     const response = {
       date: dailyChallenge.date.date,
       category: dailyChallenge.interestRate.rateType.category,
+      chartData,
     }
 
     return NextResponse.json(response, { status: 200 })

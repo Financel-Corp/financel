@@ -25,12 +25,24 @@ const getDuration = (rateType: string) => {
 }
 
 const formatDate = (dateString: string): string => {
-  const date = new Date(dateString)
-  return date.toLocaleDateString('en-US', {
-    month: 'long',
-    day: 'numeric',
-    year: 'numeric',
-  })
+  const [year, month, day] = dateString.split('-')
+  const monthNames = [
+    'January',
+    'February',
+    'March',
+    'April',
+    'May',
+    'June',
+    'July',
+    'August',
+    'September',
+    'October',
+    'November',
+    'December',
+  ]
+  const monthIndex = parseInt(month, 10) - 1
+  const dayNumber = parseInt(day, 10)
+  return `${monthNames[monthIndex]} ${dayNumber}, ${year}`
 }
 
 const addOrdinalSuffix = (day: number): string => {
@@ -51,8 +63,9 @@ export function DayOfInfo({ date, category }: DayOfInfoProps) {
   const duration = getDuration(category)
 
   const formattedDate = formatDate(date)
-  const [month, day, year] = formattedDate.split(' ')
-  const dayWithSuffix = addOrdinalSuffix(parseInt(day, 10))
+  const [month, dayWithComma, year] = formattedDate.split(' ')
+  const day = parseInt(dayWithComma, 10)
+  const dayWithSuffix = addOrdinalSuffix(day)
   const finalDate = `${month} ${dayWithSuffix}, ${year}`
 
   return (

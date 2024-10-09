@@ -1,6 +1,6 @@
 # Financel
 
-Hello please use the development branch "dev" for local development and operations.
+Hello please use the development branch "dev" for local development and operations. It uses the local Postgres database. You will not be able to connect with the S3 bucket on your local machine.
 
 ### 1. Introduction
 

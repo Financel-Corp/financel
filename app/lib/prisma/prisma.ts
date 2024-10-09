@@ -1,25 +1,20 @@
-/* eslint-disable no-use-before-define */
-/* eslint-disable no-var */
 /* eslint-disable vars-on-top */
-// prisma.ts
 import { PrismaClient } from '@prisma/client'
-import { withOptimize } from '@prisma/extension-optimize'
 
 declare global {
-  var prisma: ReturnType<typeof createPrismaClient> | undefined
+  // eslint-disable-next-line no-var
+  var prisma: PrismaClient | undefined
 }
 
-function createPrismaClient() {
-  if (!process.env.OPTIMIZE_API_KEY)
-    throw new Error('OPTIMIZE_API_KEY environment variable is not set')
+function createPrismaClient(): PrismaClient {
+  if (process.env.NODE_ENV === 'production') return new PrismaClient()
 
-  return new PrismaClient().$extends(
-    withOptimize({ apiKey: process.env.OPTIMIZE_API_KEY })
-  )
+  if (!global.prisma) global.prisma = new PrismaClient()
+
+  return global.prisma
 }
 
-const prisma = global.prisma || createPrismaClient()
-
-if (process.env.NODE_ENV === 'development') global.prisma = prisma
+const prisma =
+  typeof window === 'undefined' ? createPrismaClient() : ({} as PrismaClient)
 
 export default prisma
