@@ -5,7 +5,7 @@ import { importCurrencyDataChunk } from './importCurrencyDataChunk'
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url)
   const offset = 0
-  const limit = 100
+  const limit = 10000
 
   try {
     const result = await importCurrencyDataChunk(offset, limit)

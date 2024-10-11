@@ -24,6 +24,7 @@
     "@mantine/hooks": "^7.9.0",
     "@mantinex/dev-icons": "^1.0.2",
     "@prisma/client": "^5.20.0",
+    "@prisma/extension-accelerate": "^1.2.1",
     "@prisma/extension-optimize": "^1.0.1",
     "@react-spring/web": "^9.7.3",
     "@types/node-cron": "^3.0.11",
