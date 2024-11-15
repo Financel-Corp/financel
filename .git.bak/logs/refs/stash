@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 f2a4a847cec9edcc838779ab0da494e2d029b4aa tweezerchef <ltomblock@gmail.com> 1715553487 -0500	WIP on utilityFuncQuick: 5f064b3 Merge pull request #25 from tweezerchef/new
+f2a4a847cec9edcc838779ab0da494e2d029b4aa e342053f5fa360a46694f099472b3e900a598d31 tweezerchef <ltomblock@gmail.com> 1715979647 -0500	WIP on reactUpgrade: e4ff484 Merge pull request #35 from tweezerchef/layoutIsh
+e342053f5fa360a46694f099472b3e900a598d31 a6fb65bb19eacc9a759c575339806f8e7fee6ae9 tweezerchef <ltomblock@gmail.com> 1726696162 -0500	WIP on docker: cb7ef4c docker finally working HELLS YEAH
+a6fb65bb19eacc9a759c575339806f8e7fee6ae9 6527a93bc3ac0fc56eaeb9db4c457d01c03eebad tweezerchef <ltomblock@gmail.com> 1726696228 -0500	WIP on docker: cb7ef4c docker finally working HELLS YEAH
+6527a93bc3ac0fc56eaeb9db4c457d01c03eebad 65b606d9df5583117eb46563a44fb252542b5e02 tweezerchef <ltomblock@gmail.com> 1727729659 -0500	WIP on displayRewrite: fd4e20e production version of last push to dev
+65b606d9df5583117eb46563a44fb252542b5e02 727c8650f8241f2efe0e24ce5f3e4624495fe891 tweezerchef <ltomblock@gmail.com> 1728333691 -0500	WIP on dev: f41299a aligning dev with main
+727c8650f8241f2efe0e24ce5f3e4624495fe891 8f9ea1e6cfeb333172dd13260d22db815946eaf5 tweezerchef <ltomblock@gmail.com> 1728416701 -0500	WIP on dev: 184f7f8 Merge pull request #120 from tweezerchef/main
+8f9ea1e6cfeb333172dd13260d22db815946eaf5 b4c1c6120758278f6f108320ca8c962670b9c38d tweezerchef <ltomblock@gmail.com> 1728416919 -0500	WIP on main: 184f7f8 Merge pull request #120 from tweezerchef/main
+b4c1c6120758278f6f108320ca8c962670b9c38d 057341dd86c143a1a4351dc3c86a2417ac8d1532 tweezerchef <ltomblock@gmail.com> 1728417037 -0500	WIP on dev: 184f7f8 Merge pull request #120 from tweezerchef/main
+057341dd86c143a1a4351dc3c86a2417ac8d1532 3d95a720df9d1854834e5c15a5baf5cfb0f957a9 tweezerchef <ltomblock@gmail.com> 1728578797 -0500	filter-branch: rewrite
+3d95a720df9d1854834e5c15a5baf5cfb0f957a9 c462f05a734b06c780d24fc3627c9ba28566abea tweezerchef <ltomblock@gmail.com> 1729379290 -0500	WIP on nAuth: 9e79ba2 loging with guest or regular login seems to be working with session and nextAuth
+c462f05a734b06c780d24fc3627c9ba28566abea 724f4c5d604e49a8abbb668cd2a8fe8a5972080e tweezerchef <ltomblock@gmail.com> 1730758084 -0600	WIP on UI: a002f7b adjusted size of single display and animation UI
+724f4c5d604e49a8abbb668cd2a8fe8a5972080e 8a10fe4f63577c601759963d38b4a1d1ec6d8488 tweezerchef <ltomblock@gmail.com> 1731094600 -0600	WIP on UI: af8c60d Merge pull request #222 from tweezerchef/twitterFix
+8a10fe4f63577c601759963d38b4a1d1ec6d8488 e3ef72048f542dcadc4feb99abb92fc05aff24ea tweezerchef <ltomblock@gmail.com> 1731095087 -0600	WIP on main: af8c60d Merge pull request #222 from tweezerchef/twitterFix
+e3ef72048f542dcadc4feb99abb92fc05aff24ea bfb1ca74c18e8bfdfdb3684d8e6a40b3dd6e5661 tweezerchef <ltomblock@gmail.com> 1731099539 -0600	WIP on final: af8c60d Merge pull request #222 from tweezerchef/twitterFix
+bfb1ca74c18e8bfdfdb3684d8e6a40b3dd6e5661 a95efd760ee2d80165590b214ef2f78b965348b2 tweezerchef <ltomblock@gmail.com> 1731274433 -0600	WIP on login: 6cfc47c db working again, need to figure out problem with routing to game page
+a95efd760ee2d80165590b214ef2f78b965348b2 c0a997c0fcf9af941078678cea23d9d66126603f tweezerchef <ltomblock@gmail.com> 1731524647 -0600	WIP on moreLogin: 6d3b37b Merge pull request #237 from tweezerchef/Log

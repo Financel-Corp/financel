@@ -31,7 +31,11 @@ yarn-error.log*
 .env
 .env.production
 
-
+# SQL files
+financel_backup.sql
+financel_data.sql
+financel_data_inserts.sql
+local_dump.sql
 
 # vercel
 .vercel

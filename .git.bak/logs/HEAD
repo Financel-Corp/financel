@@ -1,0 +1,1015 @@
+0000000000000000000000000000000000000000 4d55efcaa07c5a66479815a2d4cd2e650e29b258 Tom Block <tom@Toms-MBP.(none)> 1715206989 -0500	clone: from https://github.com/tweezerchef/financel
+4d55efcaa07c5a66479815a2d4cd2e650e29b258 59b3ebb780dccd1ecda048a7ea0ee1b610725ee4 Tom Block <tom@mac.(none)> 1715285608 -0500	pull upstream main: Fast-forward
+59b3ebb780dccd1ecda048a7ea0ee1b610725ee4 71ef4ab25f529523cf8366bb17561a40d1f0b5f7 tweezerchef <ltomblock@gmail.com> 1715290757 -0500	commit: for Hao to see
+71ef4ab25f529523cf8366bb17561a40d1f0b5f7 0b55da5ef7b301577d52d6c067452a7f5919235c tweezerchef <ltomblock@gmail.com> 1715370173 -0500	pull upstream main: Fast-forward
+0b55da5ef7b301577d52d6c067452a7f5919235c 0b55da5ef7b301577d52d6c067452a7f5919235c tweezerchef <ltomblock@gmail.com> 1715370218 -0500	checkout: moving from main to IRinteractive
+0b55da5ef7b301577d52d6c067452a7f5919235c bfe0e56caaa0c6dd991bf445ed818ef9b22bc8d0 tweezerchef <ltomblock@gmail.com> 1715372006 -0500	commit: updated file structure
+bfe0e56caaa0c6dd991bf445ed818ef9b22bc8d0 bf04bac54468c0ec0bb8f79f9d17beba361ad092 tweezerchef <ltomblock@gmail.com> 1715374147 -0500	commit: fixing more folder stuff. Prisma is initiated and schema moved to /app/lib/prisma
+bf04bac54468c0ec0bb8f79f9d17beba361ad092 0b55da5ef7b301577d52d6c067452a7f5919235c tweezerchef <ltomblock@gmail.com> 1715376176 -0500	checkout: moving from IRinteractive to main
+0b55da5ef7b301577d52d6c067452a7f5919235c cce4305804919c10572f8ae7b43b161a51414a1c tweezerchef <ltomblock@gmail.com> 1715376185 -0500	pull upstream main: Fast-forward
+cce4305804919c10572f8ae7b43b161a51414a1c 460f9f4458b870c061487a0633b063418df3932a tweezerchef <ltomblock@gmail.com> 1715377061 -0500	commit: fixed stuff for build, now is building
+460f9f4458b870c061487a0633b063418df3932a d8b6a8e9d11c949c05dd2645109a867a37944f86 tweezerchef <ltomblock@gmail.com> 1715377537 -0500	pull upstream main: Fast-forward
+d8b6a8e9d11c949c05dd2645109a867a37944f86 d8b6a8e9d11c949c05dd2645109a867a37944f86 tweezerchef <ltomblock@gmail.com> 1715377912 -0500	checkout: moving from main to SetupVercelPostGres
+d8b6a8e9d11c949c05dd2645109a867a37944f86 0404f425d5eb4e70733cae7f51f6ab09925af2f2 tweezerchef <ltomblock@gmail.com> 1715378632 -0500	commit: vercel Postgres Linked
+0404f425d5eb4e70733cae7f51f6ab09925af2f2 d8b6a8e9d11c949c05dd2645109a867a37944f86 tweezerchef <ltomblock@gmail.com> 1715378824 -0500	checkout: moving from SetupVercelPostGres to main
+d8b6a8e9d11c949c05dd2645109a867a37944f86 0404f425d5eb4e70733cae7f51f6ab09925af2f2 tweezerchef <ltomblock@gmail.com> 1715379016 -0500	checkout: moving from main to SetupVercelPostGres
+0404f425d5eb4e70733cae7f51f6ab09925af2f2 d8b6a8e9d11c949c05dd2645109a867a37944f86 tweezerchef <ltomblock@gmail.com> 1715379116 -0500	checkout: moving from SetupVercelPostGres to main
+d8b6a8e9d11c949c05dd2645109a867a37944f86 87461f1d5f36dcf5e6cd7a59a826a63d44c5fdd2 tweezerchef <ltomblock@gmail.com> 1715379127 -0500	pull upstream main: Fast-forward
+87461f1d5f36dcf5e6cd7a59a826a63d44c5fdd2 5bd77c478b8e132e2450c3e81cc9938d5b190322 tweezerchef <ltomblock@gmail.com> 1715380979 -0500	commit: switching branch
+5bd77c478b8e132e2450c3e81cc9938d5b190322 5bd77c478b8e132e2450c3e81cc9938d5b190322 tweezerchef <ltomblock@gmail.com> 1715381032 -0500	checkout: moving from main to PrismaConnect
+5bd77c478b8e132e2450c3e81cc9938d5b190322 8136b70a2d8dc440522523e09c12ee93f3ef3a8b tweezerchef <ltomblock@gmail.com> 1715381671 -0500	commit: connected and generated Prisma
+8136b70a2d8dc440522523e09c12ee93f3ef3a8b 5bd77c478b8e132e2450c3e81cc9938d5b190322 tweezerchef <ltomblock@gmail.com> 1715381957 -0500	checkout: moving from PrismaConnect to main
+5bd77c478b8e132e2450c3e81cc9938d5b190322 21d5813479fe288c6e2ce065535cca875d68db58 tweezerchef <ltomblock@gmail.com> 1715382007 -0500	pull upstream main: Fast-forward
+21d5813479fe288c6e2ce065535cca875d68db58 21d5813479fe288c6e2ce065535cca875d68db58 tweezerchef <ltomblock@gmail.com> 1715383338 -0500	checkout: moving from main to speed
+21d5813479fe288c6e2ce065535cca875d68db58 7c07b8b9ea0c1a4e810baf45ca2bf7ba5b30362b tweezerchef <ltomblock@gmail.com> 1715383545 -0500	commit: added speed insights
+7c07b8b9ea0c1a4e810baf45ca2bf7ba5b30362b 21d5813479fe288c6e2ce065535cca875d68db58 tweezerchef <ltomblock@gmail.com> 1715383708 -0500	checkout: moving from speed to main
+21d5813479fe288c6e2ce065535cca875d68db58 2b013b1930f3513ae8bf9e139d213d7656191342 tweezerchef <ltomblock@gmail.com> 1715383715 -0500	pull upstream main: Fast-forward
+2b013b1930f3513ae8bf9e139d213d7656191342 2b013b1930f3513ae8bf9e139d213d7656191342 tweezerchef <ltomblock@gmail.com> 1715469196 -0500	checkout: moving from main to new
+2b013b1930f3513ae8bf9e139d213d7656191342 9eaf62f04e97f046ad333e59882a3b3d7c62ec05 tweezerchef <ltomblock@gmail.com> 1715469324 -0500	commit: demo
+9eaf62f04e97f046ad333e59882a3b3d7c62ec05 2b013b1930f3513ae8bf9e139d213d7656191342 tweezerchef <ltomblock@gmail.com> 1715469756 -0500	checkout: moving from new to main
+2b013b1930f3513ae8bf9e139d213d7656191342 5f064b3428f26fb21ffdd0cc36a2cdb87bdb9919 tweezerchef <ltomblock@gmail.com> 1715469804 -0500	pull upstream main: Fast-forward
+5f064b3428f26fb21ffdd0cc36a2cdb87bdb9919 5f064b3428f26fb21ffdd0cc36a2cdb87bdb9919 tweezerchef <ltomblock@gmail.com> 1715543553 -0500	checkout: moving from main to utilityFuncQuick
+5f064b3428f26fb21ffdd0cc36a2cdb87bdb9919 5f064b3428f26fb21ffdd0cc36a2cdb87bdb9919 tweezerchef <ltomblock@gmail.com> 1715553487 -0500	reset: moving to HEAD
+5f064b3428f26fb21ffdd0cc36a2cdb87bdb9919 406f215633810907cb2c06b790a7dacddcd6a1b4 tweezerchef <ltomblock@gmail.com> 1715636188 -0500	commit: trying to fix types, pre change ts-cofing
+406f215633810907cb2c06b790a7dacddcd6a1b4 6824a787e017c8618f6b014daafd222d7de33c98 tweezerchef <ltomblock@gmail.com> 1715637531 -0500	commit: updated global types and linter options
+6824a787e017c8618f6b014daafd222d7de33c98 856ccb647e81c560f273a9713c6f85139fcb2ce0 tweezerchef <ltomblock@gmail.com> 1715637856 -0500	commit: updated global types and linter options
+856ccb647e81c560f273a9713c6f85139fcb2ce0 7a4cc31fbb798459ecfb59347312b3a554932508 tweezerchef <ltomblock@gmail.com> 1715638498 -0500	commit: Resolved merge conflicts merging main into utilityFuncQuick
+7a4cc31fbb798459ecfb59347312b3a554932508 5f064b3428f26fb21ffdd0cc36a2cdb87bdb9919 tweezerchef <ltomblock@gmail.com> 1715638533 -0500	checkout: moving from utilityFuncQuick to main
+5f064b3428f26fb21ffdd0cc36a2cdb87bdb9919 7a4cc31fbb798459ecfb59347312b3a554932508 tweezerchef <ltomblock@gmail.com> 1715638533 -0500	merge utilityFuncQuick: Fast-forward
+7a4cc31fbb798459ecfb59347312b3a554932508 7a4cc31fbb798459ecfb59347312b3a554932508 tweezerchef <ltomblock@gmail.com> 1715638962 -0500	checkout: moving from main to utilityFuncQuick
+7a4cc31fbb798459ecfb59347312b3a554932508 29ee79efbe20ac22cf850daa686364da85dfc53f tweezerchef <ltomblock@gmail.com> 1715639986 -0500	commit: fuck Git
+29ee79efbe20ac22cf850daa686364da85dfc53f 7a4cc31fbb798459ecfb59347312b3a554932508 tweezerchef <ltomblock@gmail.com> 1715640286 -0500	checkout: moving from utilityFuncQuick to main
+7a4cc31fbb798459ecfb59347312b3a554932508 1877f031f7da6e23068cead2b5fdf31afc2ede26 tweezerchef <ltomblock@gmail.com> 1715640294 -0500	pull origin main: Fast-forward
+1877f031f7da6e23068cead2b5fdf31afc2ede26 7078b3bdd7e0f42bf658e04e97cb47b034b2091f tweezerchef <ltomblock@gmail.com> 1715640345 -0500	commit: think I've got it
+7078b3bdd7e0f42bf658e04e97cb47b034b2091f 7078b3bdd7e0f42bf658e04e97cb47b034b2091f tweezerchef <ltomblock@gmail.com> 1715646377 -0500	reset: moving to HEAD
+7078b3bdd7e0f42bf658e04e97cb47b034b2091f 7078b3bdd7e0f42bf658e04e97cb47b034b2091f tweezerchef <ltomblock@gmail.com> 1715646377 -0500	reset: moving to HEAD
+7078b3bdd7e0f42bf658e04e97cb47b034b2091f 7078b3bdd7e0f42bf658e04e97cb47b034b2091f tweezerchef <ltomblock@gmail.com> 1715646402 -0500	reset: moving to HEAD
+7078b3bdd7e0f42bf658e04e97cb47b034b2091f 7078b3bdd7e0f42bf658e04e97cb47b034b2091f tweezerchef <ltomblock@gmail.com> 1715646402 -0500	reset: moving to HEAD
+7078b3bdd7e0f42bf658e04e97cb47b034b2091f 7078b3bdd7e0f42bf658e04e97cb47b034b2091f tweezerchef <ltomblock@gmail.com> 1715646438 -0500	checkout: moving from main to changeInputs
+7078b3bdd7e0f42bf658e04e97cb47b034b2091f c36b04910ad6f9e719230579bd81d383134e3d68 tweezerchef <ltomblock@gmail.com> 1715652162 -0500	commit: start of better UI and interactivity
+c36b04910ad6f9e719230579bd81d383134e3d68 7078b3bdd7e0f42bf658e04e97cb47b034b2091f tweezerchef <ltomblock@gmail.com> 1715725633 -0500	checkout: moving from changeInputs to main
+7078b3bdd7e0f42bf658e04e97cb47b034b2091f 8db6b41343c6c4cd9532ac4e37ec008cfbb5bfc1 tweezerchef <ltomblock@gmail.com> 1715725642 -0500	pull upstream main: Fast-forward
+8db6b41343c6c4cd9532ac4e37ec008cfbb5bfc1 8db6b41343c6c4cd9532ac4e37ec008cfbb5bfc1 tweezerchef <ltomblock@gmail.com> 1715725741 -0500	checkout: moving from main to makeGuessDisplayBetter
+8db6b41343c6c4cd9532ac4e37ec008cfbb5bfc1 e19d66dfc4d3e8a40a4955b2dee2e3ca55a165c0 tweezerchef <ltomblock@gmail.com> 1715883272 -0500	commit: workign on integrating API route to IR guess
+e19d66dfc4d3e8a40a4955b2dee2e3ca55a165c0 bcbe577d93d405e49670fc28bae6d7c77ab231d1 tweezerchef <ltomblock@gmail.com> 1715902273 -0500	commit: IR guess working with api bitches
+bcbe577d93d405e49670fc28bae6d7c77ab231d1 8db6b41343c6c4cd9532ac4e37ec008cfbb5bfc1 tweezerchef <ltomblock@gmail.com> 1715907396 -0500	checkout: moving from makeGuessDisplayBetter to main
+8db6b41343c6c4cd9532ac4e37ec008cfbb5bfc1 ccdeb98a0f408c4dd163b1d32b98073bb105f397 tweezerchef <ltomblock@gmail.com> 1715907407 -0500	pull upstream main: Fast-forward
+ccdeb98a0f408c4dd163b1d32b98073bb105f397 ccdeb98a0f408c4dd163b1d32b98073bb105f397 tweezerchef <ltomblock@gmail.com> 1715972358 -0500	checkout: moving from main to layoutIsh
+ccdeb98a0f408c4dd163b1d32b98073bb105f397 ccdeb98a0f408c4dd163b1d32b98073bb105f397 tweezerchef <ltomblock@gmail.com> 1715974500 -0500	reset: moving to HEAD
+ccdeb98a0f408c4dd163b1d32b98073bb105f397 ccdeb98a0f408c4dd163b1d32b98073bb105f397 tweezerchef <ltomblock@gmail.com> 1715974500 -0500	reset: moving to HEAD
+ccdeb98a0f408c4dd163b1d32b98073bb105f397 3aba0f5f551e4f3171f1c42c75b6f65d6c9ddfce tweezerchef <ltomblock@gmail.com> 1715974525 -0500	commit: improved but still needs work login/home page
+3aba0f5f551e4f3171f1c42c75b6f65d6c9ddfce 97b536430a6e1b411999d64ef7a8361756d7214a tweezerchef <ltomblock@gmail.com> 1715975381 -0500	commit: improved but still needs work login/home page
+97b536430a6e1b411999d64ef7a8361756d7214a ccdeb98a0f408c4dd163b1d32b98073bb105f397 tweezerchef <ltomblock@gmail.com> 1715976163 -0500	checkout: moving from layoutIsh to main
+ccdeb98a0f408c4dd163b1d32b98073bb105f397 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715976172 -0500	pull upstream main: Fast-forward
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715976249 -0500	checkout: moving from main to reactUpgrade
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715979647 -0500	reset: moving to HEAD
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715979653 -0500	checkout: moving from reactUpgrade to main
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715980192 -0500	checkout: moving from main to reactComp
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715980652 -0500	reset: moving to HEAD
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715980652 -0500	reset: moving to HEAD
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715980866 -0500	reset: moving to HEAD
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715980866 -0500	reset: moving to HEAD
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715981379 -0500	reset: moving to HEAD
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715981379 -0500	reset: moving to HEAD
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715981491 -0500	reset: moving to HEAD
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715981491 -0500	reset: moving to HEAD
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715981579 -0500	reset: moving to HEAD
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715981579 -0500	reset: moving to HEAD
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 c57c03c5d23244be9cead8e7a85b3e4f684e332f tweezerchef <ltomblock@gmail.com> 1715981728 -0500	commit: try this again
+c57c03c5d23244be9cead8e7a85b3e4f684e332f b8ee2bf75c0803d5354ec2672e9aa1628a59c438 tweezerchef <ltomblock@gmail.com> 1715982227 -0500	commit: legacyPeerdeps
+b8ee2bf75c0803d5354ec2672e9aa1628a59c438 3e6eddd0a618c31b46d80092ad32f6b0e15bfef5 tweezerchef <ltomblock@gmail.com> 1715982235 -0500	commit: legacyPeerdeps
+3e6eddd0a618c31b46d80092ad32f6b0e15bfef5 f02f8ed39c26d6c35125e90d12ec6260a5b33af2 tweezerchef <ltomblock@gmail.com> 1715983265 -0500	commit: help me
+f02f8ed39c26d6c35125e90d12ec6260a5b33af2 13a65c3015ab7531413deeadd0886d221d947a52 tweezerchef <ltomblock@gmail.com> 1715983716 -0500	commit: removed script from package.json
+13a65c3015ab7531413deeadd0886d221d947a52 640dc18e7ecef91818a39622bbf4105069fc4fcf tweezerchef <ltomblock@gmail.com> 1715984663 -0500	commit (merge): merge
+640dc18e7ecef91818a39622bbf4105069fc4fcf e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715985535 -0500	checkout: moving from reactComp to main
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 tweezerchef <ltomblock@gmail.com> 1715985868 -0500	checkout: moving from main to main
+e4ff484e5a52e6e5e9cd2e07a300b8c2d24cf297 aadebd19934e1c3f751948c5365671297288ade6 tweezerchef <ltomblock@gmail.com> 1715985875 -0500	pull upstream main: Fast-forward
+aadebd19934e1c3f751948c5365671297288ade6 aadebd19934e1c3f751948c5365671297288ade6 tweezerchef <ltomblock@gmail.com> 1715986280 -0500	checkout: moving from main to gameLayout
+aadebd19934e1c3f751948c5365671297288ade6 a9ab1a33c82ef659f109d83a1870e7c5a5de1811 tweezerchef <ltomblock@gmail.com> 1715989725 -0500	commit: improvements to game layout
+a9ab1a33c82ef659f109d83a1870e7c5a5de1811 aadebd19934e1c3f751948c5365671297288ade6 tweezerchef <ltomblock@gmail.com> 1715991328 -0500	checkout: moving from gameLayout to main
+aadebd19934e1c3f751948c5365671297288ade6 e6a4f4bacb1b8140417b6195e942980dddb6abc5 tweezerchef <ltomblock@gmail.com> 1715991336 -0500	pull upstream main: Fast-forward
+e6a4f4bacb1b8140417b6195e942980dddb6abc5 e6a4f4bacb1b8140417b6195e942980dddb6abc5 tweezerchef <ltomblock@gmail.com> 1716229521 -0500	checkout: moving from main to changingState
+e6a4f4bacb1b8140417b6195e942980dddb6abc5 5386815d59f5abf0ea6571725aa95934e96efc02 tweezerchef <ltomblock@gmail.com> 1716230826 -0500	commit: flippedState pre build
+5386815d59f5abf0ea6571725aa95934e96efc02 8f7a1430b9674b92028bdb25da5e220b39c60fc2 tweezerchef <ltomblock@gmail.com> 1716231044 -0500	commit: build works
+8f7a1430b9674b92028bdb25da5e220b39c60fc2 2322537fcb954732755376739a7119aeb8a6b28b tweezerchef <ltomblock@gmail.com> 1716231316 -0500	commit: flipBetter set react strict mode
+2322537fcb954732755376739a7119aeb8a6b28b bc63d228016302b1ecfe23c5b485458d104c533b tweezerchef <ltomblock@gmail.com> 1716235132 -0500	commit: testing UI
+bc63d228016302b1ecfe23c5b485458d104c533b e12a9f0e3726db10d4d72c1ebd30c6c2b83d5fa6 tweezerchef <ltomblock@gmail.com> 1716236328 -0500	commit: some real changes boy
+e12a9f0e3726db10d4d72c1ebd30c6c2b83d5fa6 6f235f198b897fda7dc1ca2cd547178acadcce14 tweezerchef <ltomblock@gmail.com> 1716236832 -0500	commit: lots of changes hell yeah
+6f235f198b897fda7dc1ca2cd547178acadcce14 e6a4f4bacb1b8140417b6195e942980dddb6abc5 tweezerchef <ltomblock@gmail.com> 1716237815 -0500	checkout: moving from changingState to main
+e6a4f4bacb1b8140417b6195e942980dddb6abc5 f0e00b29934aa4d8b9acb529bc4241f701f583c9 tweezerchef <ltomblock@gmail.com> 1716237885 -0500	pull upstream main: Fast-forward
+f0e00b29934aa4d8b9acb529bc4241f701f583c9 f0e00b29934aa4d8b9acb529bc4241f701f583c9 tweezerchef <ltomblock@gmail.com> 1716322304 -0500	checkout: moving from main to prismaChanges
+f0e00b29934aa4d8b9acb529bc4241f701f583c9 f0e00b29934aa4d8b9acb529bc4241f701f583c9 tweezerchef <ltomblock@gmail.com> 1716328166 -0500	reset: moving to HEAD
+f0e00b29934aa4d8b9acb529bc4241f701f583c9 f0e00b29934aa4d8b9acb529bc4241f701f583c9 tweezerchef <ltomblock@gmail.com> 1716328166 -0500	reset: moving to HEAD
+f0e00b29934aa4d8b9acb529bc4241f701f583c9 9e1f84aba1c3b35ca0d238dc5c0beefd65ff5787 tweezerchef <ltomblock@gmail.com> 1716328537 -0500	commit: newSchema
+9e1f84aba1c3b35ca0d238dc5c0beefd65ff5787 11d2deca455e5d8781c5b76464f8c8feba9500d6 tweezerchef <ltomblock@gmail.com> 1716330370 -0500	commit: prisma hell
+11d2deca455e5d8781c5b76464f8c8feba9500d6 f0e00b29934aa4d8b9acb529bc4241f701f583c9 tweezerchef <ltomblock@gmail.com> 1716330728 -0500	checkout: moving from prismaChanges to main
+f0e00b29934aa4d8b9acb529bc4241f701f583c9 d27ab92f1c3108852c16c6b53ff85753655cc0d7 tweezerchef <ltomblock@gmail.com> 1716330734 -0500	pull upstream main: Fast-forward
+d27ab92f1c3108852c16c6b53ff85753655cc0d7 d27ab92f1c3108852c16c6b53ff85753655cc0d7 tweezerchef <ltomblock@gmail.com> 1716401506 -0500	checkout: moving from main to widthStuff
+d27ab92f1c3108852c16c6b53ff85753655cc0d7 2ab4fb9710ea579e722280e88df9c8e864f0139c tweezerchef <ltomblock@gmail.com> 1716402771 -0500	commit: padding issues maybe a little better?
+2ab4fb9710ea579e722280e88df9c8e864f0139c d27ab92f1c3108852c16c6b53ff85753655cc0d7 tweezerchef <ltomblock@gmail.com> 1716403611 -0500	checkout: moving from widthStuff to main
+d27ab92f1c3108852c16c6b53ff85753655cc0d7 23848d0fe0b7cea8c430250edbfaf7350bd39690 tweezerchef <ltomblock@gmail.com> 1716403619 -0500	pull upstream main: Fast-forward
+23848d0fe0b7cea8c430250edbfaf7350bd39690 23848d0fe0b7cea8c430250edbfaf7350bd39690 tweezerchef <ltomblock@gmail.com> 1716491948 -0500	checkout: moving from main to keyboard
+23848d0fe0b7cea8c430250edbfaf7350bd39690 6e654bf16108888f97cd8a1e940648025a1718b3 tweezerchef <ltomblock@gmail.com> 1716493623 -0500	commit: temp navbar but burger no good
+6e654bf16108888f97cd8a1e940648025a1718b3 0cbb93cf17c5bc58a91b3953b6d305beca43e8e9 tweezerchef <ltomblock@gmail.com> 1716494218 -0500	commit: changed burger to temp logo, fixed menu issues when opened
+0cbb93cf17c5bc58a91b3953b6d305beca43e8e9 23848d0fe0b7cea8c430250edbfaf7350bd39690 tweezerchef <ltomblock@gmail.com> 1716495750 -0500	checkout: moving from keyboard to main
+23848d0fe0b7cea8c430250edbfaf7350bd39690 78dd8e93c8a92ca886b1c7df0aa822091d575541 tweezerchef <ltomblock@gmail.com> 1716495798 -0500	pull upstream main: Fast-forward
+78dd8e93c8a92ca886b1c7df0aa822091d575541 78dd8e93c8a92ca886b1c7df0aa822091d575541 tweezerchef <ltomblock@gmail.com> 1716495862 -0500	checkout: moving from main to keyboardForReal
+78dd8e93c8a92ca886b1c7df0aa822091d575541 9141bd8cbd5184d8dd43b05f55d978f45a1e22b7 tweezerchef <ltomblock@gmail.com> 1716497861 -0500	commit: keyboard prototype
+9141bd8cbd5184d8dd43b05f55d978f45a1e22b7 9141bd8cbd5184d8dd43b05f55d978f45a1e22b7 tweezerchef <ltomblock@gmail.com> 1716502498 -0500	reset: moving to HEAD
+9141bd8cbd5184d8dd43b05f55d978f45a1e22b7 9141bd8cbd5184d8dd43b05f55d978f45a1e22b7 tweezerchef <ltomblock@gmail.com> 1716502498 -0500	reset: moving to HEAD
+9141bd8cbd5184d8dd43b05f55d978f45a1e22b7 9141bd8cbd5184d8dd43b05f55d978f45a1e22b7 tweezerchef <ltomblock@gmail.com> 1716504236 -0500	reset: moving to HEAD
+9141bd8cbd5184d8dd43b05f55d978f45a1e22b7 9141bd8cbd5184d8dd43b05f55d978f45a1e22b7 tweezerchef <ltomblock@gmail.com> 1716504236 -0500	reset: moving to HEAD
+9141bd8cbd5184d8dd43b05f55d978f45a1e22b7 66b22fc909b2995c4706632243865e638dde244b tweezerchef <ltomblock@gmail.com> 1716585991 -0500	commit: hell yeah
+66b22fc909b2995c4706632243865e638dde244b ae8444e114a14f520761589e3a0e697b0eba1080 tweezerchef <ltomblock@gmail.com> 1716588053 -0500	commit: hell yeah but better
+ae8444e114a14f520761589e3a0e697b0eba1080 78dd8e93c8a92ca886b1c7df0aa822091d575541 tweezerchef <ltomblock@gmail.com> 1716589838 -0500	checkout: moving from keyboardForReal to main
+78dd8e93c8a92ca886b1c7df0aa822091d575541 8d46c90385c4e64a12d8e8edcb92e8c9afb5e519 tweezerchef <ltomblock@gmail.com> 1716589853 -0500	pull upstream main: Fast-forward
+8d46c90385c4e64a12d8e8edcb92e8c9afb5e519 8d46c90385c4e64a12d8e8edcb92e8c9afb5e519 tweezerchef <ltomblock@gmail.com> 1716591484 -0500	checkout: moving from main to meticIntegration
+8d46c90385c4e64a12d8e8edcb92e8c9afb5e519 51a612469b3f6230758e1b8bbab0f0272ab98356 tweezerchef <ltomblock@gmail.com> 1716592126 -0500	commit: ai Testing integrated
+51a612469b3f6230758e1b8bbab0f0272ab98356 8d46c90385c4e64a12d8e8edcb92e8c9afb5e519 tweezerchef <ltomblock@gmail.com> 1716592278 -0500	checkout: moving from meticIntegration to main
+8d46c90385c4e64a12d8e8edcb92e8c9afb5e519 958f720d860ed1425998a9a90926fa33b97c6780 tweezerchef <ltomblock@gmail.com> 1716592286 -0500	pull upstream main: Fast-forward
+958f720d860ed1425998a9a90926fa33b97c6780 958f720d860ed1425998a9a90926fa33b97c6780 tweezerchef <ltomblock@gmail.com> 1716593363 -0500	checkout: moving from main to colors
+958f720d860ed1425998a9a90926fa33b97c6780 1ff312e3624060d164c4584bc77999a0dbe40593 tweezerchef <ltomblock@gmail.com> 1716596963 -0500	commit: lots of color changes
+1ff312e3624060d164c4584bc77999a0dbe40593 958f720d860ed1425998a9a90926fa33b97c6780 tweezerchef <ltomblock@gmail.com> 1716597059 -0500	checkout: moving from colors to main
+958f720d860ed1425998a9a90926fa33b97c6780 53f100097413044d28f2e4633a7f701c6d6013f7 tweezerchef <ltomblock@gmail.com> 1716597066 -0500	pull upstream main: Fast-forward
+53f100097413044d28f2e4633a7f701c6d6013f7 53f100097413044d28f2e4633a7f701c6d6013f7 tweezerchef <ltomblock@gmail.com> 1716678953 -0500	checkout: moving from main to titleKeyboard
+53f100097413044d28f2e4633a7f701c6d6013f7 c88e66dc22bc110572651c63b85216d3c7a73711 tweezerchef <ltomblock@gmail.com> 1716682873 -0500	commit: bigly changes in header, footer and keyboard
+c88e66dc22bc110572651c63b85216d3c7a73711 53f100097413044d28f2e4633a7f701c6d6013f7 tweezerchef <ltomblock@gmail.com> 1716690795 -0500	checkout: moving from titleKeyboard to main
+53f100097413044d28f2e4633a7f701c6d6013f7 8d713a98abb3e306b3881f3dec98a479525c68b9 tweezerchef <ltomblock@gmail.com> 1716690802 -0500	pull upstream main: Fast-forward
+8d713a98abb3e306b3881f3dec98a479525c68b9 8d713a98abb3e306b3881f3dec98a479525c68b9 tweezerchef <ltomblock@gmail.com> 1719219188 +0900	checkout: moving from main to regFormAuth
+8d713a98abb3e306b3881f3dec98a479525c68b9 59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a tweezerchef <ltomblock@gmail.com> 1719220366 +0900	commit: basic backed for registration done
+59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a 59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a tweezerchef <ltomblock@gmail.com> 1719220934 +0900	reset: moving to HEAD
+59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a 59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a tweezerchef <ltomblock@gmail.com> 1719220934 +0900	reset: moving to HEAD
+59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a 59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a tweezerchef <ltomblock@gmail.com> 1719221035 +0900	reset: moving to HEAD
+59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a 59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a tweezerchef <ltomblock@gmail.com> 1719221035 +0900	reset: moving to HEAD
+59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a 59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a tweezerchef <ltomblock@gmail.com> 1719221045 +0900	reset: moving to HEAD
+59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a 59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a tweezerchef <ltomblock@gmail.com> 1719221045 +0900	reset: moving to HEAD
+59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a 59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a tweezerchef <ltomblock@gmail.com> 1719221082 +0900	reset: moving to HEAD
+59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a 59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a tweezerchef <ltomblock@gmail.com> 1719221083 +0900	reset: moving to HEAD
+59ab52dbe1d41ee7b9eb2e700b35dab804df5e6a 93237b08d599ca452050019f3c86b83135b4d7b1 tweezerchef <ltomblock@gmail.com> 1719221174 +0900	commit: added uuidv4 for future use
+93237b08d599ca452050019f3c86b83135b4d7b1 8d713a98abb3e306b3881f3dec98a479525c68b9 tweezerchef <ltomblock@gmail.com> 1719221382 +0900	checkout: moving from regFormAuth to main
+8d713a98abb3e306b3881f3dec98a479525c68b9 93237b08d599ca452050019f3c86b83135b4d7b1 tweezerchef <ltomblock@gmail.com> 1719221398 +0900	merge regFormAuth: Fast-forward
+93237b08d599ca452050019f3c86b83135b4d7b1 aba767734eb1ed67d33a35b942442f7a6ad947f0 tweezerchef <ltomblock@gmail.com> 1719274713 +0900	commit: forgot new branch
+aba767734eb1ed67d33a35b942442f7a6ad947f0 aba767734eb1ed67d33a35b942442f7a6ad947f0 tweezerchef <ltomblock@gmail.com> 1719274756 +0900	checkout: moving from main to login
+aba767734eb1ed67d33a35b942442f7a6ad947f0 aba767734eb1ed67d33a35b942442f7a6ad947f0 tweezerchef <ltomblock@gmail.com> 1719277196 +0900	reset: moving to HEAD
+aba767734eb1ed67d33a35b942442f7a6ad947f0 aba767734eb1ed67d33a35b942442f7a6ad947f0 tweezerchef <ltomblock@gmail.com> 1719277196 +0900	reset: moving to HEAD
+aba767734eb1ed67d33a35b942442f7a6ad947f0 7478337cd443a95bc72e067f5be85cd93a8e121e tweezerchef <ltomblock@gmail.com> 1719277552 +0900	commit: login back end partial, jwt, uuid, and prisma change
+7478337cd443a95bc72e067f5be85cd93a8e121e cfd4af2036c05731a441de193a0e48dbac3ac6c0 tweezerchef <ltomblock@gmail.com> 1719277804 +0900	commit: login back end partial, jwt, uuid, and prisma change 2nd time
+cfd4af2036c05731a441de193a0e48dbac3ac6c0 6b9630817095c81315f19f95b868a74e217acf38 tweezerchef <ltomblock@gmail.com> 1719278267 +0900	commit: had to remove react from and convert utility function
+6b9630817095c81315f19f95b868a74e217acf38 da7d2be911318a2d640d3dd164d4aceb0c7a6e09 tweezerchef <ltomblock@gmail.com> 1719278571 +0900	commit: had to remove react from and convert utility function
+da7d2be911318a2d640d3dd164d4aceb0c7a6e09 e04c2804f13d11ff5f839ab653633b4b2378b6ac tweezerchef <ltomblock@gmail.com> 1719278737 +0900	commit: had to remove react from and convert utility function
+e04c2804f13d11ff5f839ab653633b4b2378b6ac 136c7ae4a7e7a7df7def66a3eace545b7cf1afca tweezerchef <ltomblock@gmail.com> 1719278972 +0900	commit: had to remove react from and convert utility function
+136c7ae4a7e7a7df7def66a3eace545b7cf1afca 2d04700016a1069ae7d4d6068bfc8a83ef97a508 tweezerchef <ltomblock@gmail.com> 1719279539 +0900	commit: had to remove react from and convert utility function v 6?
+2d04700016a1069ae7d4d6068bfc8a83ef97a508 aba767734eb1ed67d33a35b942442f7a6ad947f0 tweezerchef <ltomblock@gmail.com> 1719280013 +0900	checkout: moving from login to main
+aba767734eb1ed67d33a35b942442f7a6ad947f0 1487fa4a1fd6a5ca25077665993e52540e89238e tweezerchef <ltomblock@gmail.com> 1719280022 +0900	pull upstream main: Fast-forward
+1487fa4a1fd6a5ca25077665993e52540e89238e 1487fa4a1fd6a5ca25077665993e52540e89238e tweezerchef <ltomblock@gmail.com> 1719292806 +0900	checkout: moving from main to regLogin
+1487fa4a1fd6a5ca25077665993e52540e89238e 7953aac79b41f416b1e2f773aafabd0b4aade5dc tweezerchef <ltomblock@gmail.com> 1719293662 +0900	commit: small UI changes, overflow-x set to auto (so can scroll) small amount of padding across app on sides
+7953aac79b41f416b1e2f773aafabd0b4aade5dc 4842e5c896fb7279066c37231f824f1788e1a895 tweezerchef <ltomblock@gmail.com> 1719295626 +0900	commit: form console logging
+4842e5c896fb7279066c37231f824f1788e1a895 c1d051c58d4e0d320468a835e71240c873bde162 tweezerchef <ltomblock@gmail.com> 1719456425 +0900	commit: basic login/reg test + max width on login page
+c1d051c58d4e0d320468a835e71240c873bde162 c1d051c58d4e0d320468a835e71240c873bde162 tweezerchef <ltomblock@gmail.com> 1719458672 +0900	reset: moving to HEAD
+c1d051c58d4e0d320468a835e71240c873bde162 c1d051c58d4e0d320468a835e71240c873bde162 tweezerchef <ltomblock@gmail.com> 1719458672 +0900	reset: moving to HEAD
+c1d051c58d4e0d320468a835e71240c873bde162 b440786b46ea797582b760c6f70934703ae653c3 tweezerchef <ltomblock@gmail.com> 1719459026 +0900	commit: registration and login working, site protected against unautherized users.
+b440786b46ea797582b760c6f70934703ae653c3 1487fa4a1fd6a5ca25077665993e52540e89238e tweezerchef <ltomblock@gmail.com> 1719460225 +0900	checkout: moving from regLogin to main
+1487fa4a1fd6a5ca25077665993e52540e89238e 148156173915384e4d54ebe3bc95f0c1b9ed1a07 tweezerchef <ltomblock@gmail.com> 1719460239 +0900	pull upstream main: Fast-forward
+148156173915384e4d54ebe3bc95f0c1b9ed1a07 148156173915384e4d54ebe3bc95f0c1b9ed1a07 tweezerchef <ltomblock@gmail.com> 1726097759 -0500	checkout: moving from main to login
+148156173915384e4d54ebe3bc95f0c1b9ed1a07 c4949fce1bff5e675adedefb6b05cc6e60d808ad tweezerchef <ltomblock@gmail.com> 1726102416 -0500	commit: db working again, need to figure out problem with routing to game page
+c4949fce1bff5e675adedefb6b05cc6e60d808ad 148156173915384e4d54ebe3bc95f0c1b9ed1a07 tweezerchef <ltomblock@gmail.com> 1726102866 -0500	checkout: moving from login to main
+148156173915384e4d54ebe3bc95f0c1b9ed1a07 e9f675b77bfad062591b6a30f2931adc2b95170f tweezerchef <ltomblock@gmail.com> 1726102875 -0500	pull upstream main: Fast-forward
+e9f675b77bfad062591b6a30f2931adc2b95170f e9f675b77bfad062591b6a30f2931adc2b95170f tweezerchef <ltomblock@gmail.com> 1726103017 -0500	checkout: moving from main to route
+e9f675b77bfad062591b6a30f2931adc2b95170f b0881c6c2345b5f24b7be4620bdb6d2ad2d8f23e tweezerchef <ltomblock@gmail.com> 1726181392 -0500	commit: finally fixed db
+b0881c6c2345b5f24b7be4620bdb6d2ad2d8f23e e9f675b77bfad062591b6a30f2931adc2b95170f tweezerchef <ltomblock@gmail.com> 1726181610 -0500	checkout: moving from route to main
+e9f675b77bfad062591b6a30f2931adc2b95170f 50696e7d5685c626017131e0f8035a160ed4e908 tweezerchef <ltomblock@gmail.com> 1726181621 -0500	pull upstream main: Fast-forward
+50696e7d5685c626017131e0f8035a160ed4e908 50696e7d5685c626017131e0f8035a160ed4e908 tweezerchef <ltomblock@gmail.com> 1726185940 -0500	checkout: moving from main to game
+50696e7d5685c626017131e0f8035a160ed4e908 76636ce70e3a410ed515fcd5a3da6420bc9c25c3 tweezerchef <ltomblock@gmail.com> 1726266756 -0500	commit: prisma/guestlogin recording
+76636ce70e3a410ed515fcd5a3da6420bc9c25c3 50696e7d5685c626017131e0f8035a160ed4e908 tweezerchef <ltomblock@gmail.com> 1726267221 -0500	checkout: moving from game to main
+50696e7d5685c626017131e0f8035a160ed4e908 2455ad4829664f649d6ee24c153036e2e16536ac tweezerchef <ltomblock@gmail.com> 1726267231 -0500	pull upstream main: Fast-forward
+2455ad4829664f649d6ee24c153036e2e16536ac 2455ad4829664f649d6ee24c153036e2e16536ac tweezerchef <ltomblock@gmail.com> 1726357758 -0500	checkout: moving from main to guestGame
+2455ad4829664f649d6ee24c153036e2e16536ac c07d03f54ca3d2147c097af408564b0d22e43511 tweezerchef <ltomblock@gmail.com> 1726362081 -0500	commit: localDBworkign
+c07d03f54ca3d2147c097af408564b0d22e43511 650d5bb1f87225f1fd6b33442a576193ef448fae tweezerchef <ltomblock@gmail.com> 1726516181 -0500	commit: guest into context
+650d5bb1f87225f1fd6b33442a576193ef448fae 96e29d2622943483a20481b9945ec941bed9d831 tweezerchef <ltomblock@gmail.com> 1726516642 -0500	commit: usersPutInContext
+96e29d2622943483a20481b9945ec941bed9d831 96e29d2622943483a20481b9945ec941bed9d831 tweezerchef <ltomblock@gmail.com> 1726518251 -0500	checkout: moving from guestGame to dev
+96e29d2622943483a20481b9945ec941bed9d831 0b04696e868673488d87d658807722ef47c12c57 tweezerchef <ltomblock@gmail.com> 1726518257 -0500	pull upstream dev: Fast-forward
+0b04696e868673488d87d658807722ef47c12c57 0b04696e868673488d87d658807722ef47c12c57 tweezerchef <ltomblock@gmail.com> 1726519947 -0500	checkout: moving from dev to docker
+0b04696e868673488d87d658807722ef47c12c57 0b04696e868673488d87d658807722ef47c12c57 tweezerchef <ltomblock@gmail.com> 1726522588 -0500	checkout: moving from docker to dev
+0b04696e868673488d87d658807722ef47c12c57 0b04696e868673488d87d658807722ef47c12c57 tweezerchef <ltomblock@gmail.com> 1726523381 -0500	checkout: moving from dev to readme
+0b04696e868673488d87d658807722ef47c12c57 8456659d3cc57b933e70004d0b63666c3ae20997 tweezerchef <ltomblock@gmail.com> 1726523473 -0500	commit: updated ReadMe and updated React to 19RC
+8456659d3cc57b933e70004d0b63666c3ae20997 0b04696e868673488d87d658807722ef47c12c57 tweezerchef <ltomblock@gmail.com> 1726523531 -0500	checkout: moving from readme to dev
+0b04696e868673488d87d658807722ef47c12c57 dbab00ff086b95f79ad657fa33feae1955b6d462 tweezerchef <ltomblock@gmail.com> 1726523538 -0500	pull upstream dev: Fast-forward
+dbab00ff086b95f79ad657fa33feae1955b6d462 8456659d3cc57b933e70004d0b63666c3ae20997 tweezerchef <ltomblock@gmail.com> 1726523629 -0500	checkout: moving from dev to readme
+8456659d3cc57b933e70004d0b63666c3ae20997 0cd14236eb868adf7d3bd48a7f6b9f4c9dc127e6 tweezerchef <ltomblock@gmail.com> 1726523774 -0500	commit: added .env example
+0cd14236eb868adf7d3bd48a7f6b9f4c9dc127e6 dbab00ff086b95f79ad657fa33feae1955b6d462 tweezerchef <ltomblock@gmail.com> 1726523819 -0500	checkout: moving from readme to dev
+dbab00ff086b95f79ad657fa33feae1955b6d462 3fa787ca1560455b6e51022a8679af4a72bc30f6 tweezerchef <ltomblock@gmail.com> 1726523831 -0500	pull upstream dev: Fast-forward
+3fa787ca1560455b6e51022a8679af4a72bc30f6 3fa787ca1560455b6e51022a8679af4a72bc30f6 tweezerchef <ltomblock@gmail.com> 1726590863 -0500	checkout: moving from dev to numberFlip
+3fa787ca1560455b6e51022a8679af4a72bc30f6 41a7a631a201c6ee602a0dd9674f1926fbafeeba tweezerchef <ltomblock@gmail.com> 1726591272 -0500	commit: number flip component made, need to alter and intigrate into game page
+41a7a631a201c6ee602a0dd9674f1926fbafeeba ed4106b42adc26cf545214faf260bed061ecdbfa tweezerchef <ltomblock@gmail.com> 1726594296 -0500	commit: flip basic component in dev and start of DB input
+ed4106b42adc26cf545214faf260bed061ecdbfa 3fa787ca1560455b6e51022a8679af4a72bc30f6 tweezerchef <ltomblock@gmail.com> 1726595745 -0500	checkout: moving from numberFlip to dev
+3fa787ca1560455b6e51022a8679af4a72bc30f6 a463a7bf33d806cd58c2aca0b50ee0e6125faf44 tweezerchef <ltomblock@gmail.com> 1726595751 -0500	pull upstream dev: Fast-forward
+a463a7bf33d806cd58c2aca0b50ee0e6125faf44 a463a7bf33d806cd58c2aca0b50ee0e6125faf44 tweezerchef <ltomblock@gmail.com> 1726595960 -0500	checkout: moving from dev to dbDock
+a463a7bf33d806cd58c2aca0b50ee0e6125faf44 43128f30406114ee767ff692ba0248906a2a720a tweezerchef <ltomblock@gmail.com> 1726601084 -0500	commit: api route for populating IR added
+43128f30406114ee767ff692ba0248906a2a720a a463a7bf33d806cd58c2aca0b50ee0e6125faf44 tweezerchef <ltomblock@gmail.com> 1726601138 -0500	checkout: moving from dbDock to dev
+a463a7bf33d806cd58c2aca0b50ee0e6125faf44 cb42e878d98e4dde22caa669d0f395d0059fe110 tweezerchef <ltomblock@gmail.com> 1726601146 -0500	pull upstream dev: Fast-forward
+cb42e878d98e4dde22caa669d0f395d0059fe110 cb42e878d98e4dde22caa669d0f395d0059fe110 tweezerchef <ltomblock@gmail.com> 1726610948 -0500	checkout: moving from dev to docker
+cb42e878d98e4dde22caa669d0f395d0059fe110 25450b61b5c8affe262f0f36edf08d77a657228d tweezerchef <ltomblock@gmail.com> 1726682901 -0500	commit: dbstillnotreallyworkign
+25450b61b5c8affe262f0f36edf08d77a657228d cb42e878d98e4dde22caa669d0f395d0059fe110 tweezerchef <ltomblock@gmail.com> 1726682931 -0500	checkout: moving from docker to dev
+cb42e878d98e4dde22caa669d0f395d0059fe110 cb42e878d98e4dde22caa669d0f395d0059fe110 tweezerchef <ltomblock@gmail.com> 1726683897 -0500	checkout: moving from dev to renderGame
+cb42e878d98e4dde22caa669d0f395d0059fe110 1aa708a48a23e9f4833974ae2cf6c80d938c5c70 tweezerchef <ltomblock@gmail.com> 1726683940 -0500	commit: improved rendering of the game page
+1aa708a48a23e9f4833974ae2cf6c80d938c5c70 cb42e878d98e4dde22caa669d0f395d0059fe110 tweezerchef <ltomblock@gmail.com> 1726683989 -0500	checkout: moving from renderGame to dev
+cb42e878d98e4dde22caa669d0f395d0059fe110 af5c4150ab71640a9433d5c1dd9106f7669ab11c tweezerchef <ltomblock@gmail.com> 1726684030 -0500	pull upstream dev: Fast-forward
+af5c4150ab71640a9433d5c1dd9106f7669ab11c 25450b61b5c8affe262f0f36edf08d77a657228d tweezerchef <ltomblock@gmail.com> 1726688731 -0500	checkout: moving from dev to docker
+25450b61b5c8affe262f0f36edf08d77a657228d f623ecd14276318ff60b60987d39bd01e48f5feb tweezerchef <ltomblock@gmail.com> 1726695512 -0500	commit: docker finally working HELLS YEAH
+f623ecd14276318ff60b60987d39bd01e48f5feb cb7ef4cad845856f7e818c11cb7edab85107db9b tweezerchef <ltomblock@gmail.com> 1726695753 -0500	commit: docker finally working HELLS YEAH
+cb7ef4cad845856f7e818c11cb7edab85107db9b cb7ef4cad845856f7e818c11cb7edab85107db9b tweezerchef <ltomblock@gmail.com> 1726696162 -0500	reset: moving to HEAD
+cb7ef4cad845856f7e818c11cb7edab85107db9b cb7ef4cad845856f7e818c11cb7edab85107db9b tweezerchef <ltomblock@gmail.com> 1726696228 -0500	reset: moving to HEAD
+cb7ef4cad845856f7e818c11cb7edab85107db9b b35bdafa692515845caf2c2886a4df1c4d72992e tweezerchef <ltomblock@gmail.com> 1726696294 -0500	commit: poop
+b35bdafa692515845caf2c2886a4df1c4d72992e 2455ad4829664f649d6ee24c153036e2e16536ac tweezerchef <ltomblock@gmail.com> 1726696548 -0500	checkout: moving from docker to main
+2455ad4829664f649d6ee24c153036e2e16536ac b539f83fb7bab7818b54423270468df84829920e tweezerchef <ltomblock@gmail.com> 1726696563 -0500	pull upstream main: Fast-forward
+b539f83fb7bab7818b54423270468df84829920e b539f83fb7bab7818b54423270468df84829920e tweezerchef <ltomblock@gmail.com> 1726776991 -0500	checkout: moving from main to keyUI
+b539f83fb7bab7818b54423270468df84829920e 9257059fc3dec9d73f4a213b56234dcd233ec6e3 tweezerchef <ltomblock@gmail.com> 1726777386 -0500	commit: key UI improved
+9257059fc3dec9d73f4a213b56234dcd233ec6e3 9257059fc3dec9d73f4a213b56234dcd233ec6e3 tweezerchef <ltomblock@gmail.com> 1726777528 -0500	checkout: moving from keyUI to dev
+9257059fc3dec9d73f4a213b56234dcd233ec6e3 451de7cb370c06978b86e7f6fcef1d4be0a29ca7 tweezerchef <ltomblock@gmail.com> 1726777538 -0500	pull upstream dev: Fast-forward
+451de7cb370c06978b86e7f6fcef1d4be0a29ca7 451de7cb370c06978b86e7f6fcef1d4be0a29ca7 tweezerchef <ltomblock@gmail.com> 1726777585 -0500	checkout: moving from dev to newNumberDisplay
+451de7cb370c06978b86e7f6fcef1d4be0a29ca7 b8e29536808470bcc445e38782ab643e9738c681 tweezerchef <ltomblock@gmail.com> 1726778145 -0500	commit: forgot to save Key file
+b8e29536808470bcc445e38782ab643e9738c681 821495a6d41a43b3eae96d4f995626b1ce0d686c tweezerchef <ltomblock@gmail.com> 1726780877 -0500	commit: new display working functionally, but bad UI etc
+821495a6d41a43b3eae96d4f995626b1ce0d686c d5d54fa6835806ff9144e512366bbfe01e3329eb tweezerchef <ltomblock@gmail.com> 1726781544 -0500	commit: number display workign with lots of issues
+d5d54fa6835806ff9144e512366bbfe01e3329eb 451de7cb370c06978b86e7f6fcef1d4be0a29ca7 tweezerchef <ltomblock@gmail.com> 1726781806 -0500	checkout: moving from newNumberDisplay to dev
+451de7cb370c06978b86e7f6fcef1d4be0a29ca7 13f8441dadd27d306cb0c50f136d034673062d63 tweezerchef <ltomblock@gmail.com> 1726781811 -0500	pull upstream dev: Fast-forward
+13f8441dadd27d306cb0c50f136d034673062d63 13f8441dadd27d306cb0c50f136d034673062d63 tweezerchef <ltomblock@gmail.com> 1726781933 -0500	checkout: moving from dev to flip
+13f8441dadd27d306cb0c50f136d034673062d63 303765ed72662f70cd976881a4946c40ebd62b4c tweezerchef <ltomblock@gmail.com> 1726783349 -0500	commit: small update flipping but not 100%
+303765ed72662f70cd976881a4946c40ebd62b4c 68c7cf8088fc792fcf6efbbb39d9c182b29c75a2 tweezerchef <ltomblock@gmail.com> 1726784337 -0500	commit: progress but still lots of work
+68c7cf8088fc792fcf6efbbb39d9c182b29c75a2 096987dc476674c9c8fa39586582d8d3e49916d0 tweezerchef <ltomblock@gmail.com> 1726863909 -0500	commit: progress on flipping
+096987dc476674c9c8fa39586582d8d3e49916d0 36b9cde1e69142acad78050ad972a24a83e3dd00 tweezerchef <ltomblock@gmail.com> 1726864838 -0500	commit: end of afternoon friday, working on rendering for flip
+36b9cde1e69142acad78050ad972a24a83e3dd00 46f4d068dfc6cfad4ec6ee07e3b33b2162655ac0 tweezerchef <ltomblock@gmail.com> 1726945535 -0500	commit: still some UI bugs but ready for alpha deployment
+46f4d068dfc6cfad4ec6ee07e3b33b2162655ac0 b539f83fb7bab7818b54423270468df84829920e tweezerchef <ltomblock@gmail.com> 1726945778 -0500	checkout: moving from flip to main
+b539f83fb7bab7818b54423270468df84829920e eff2c1fc12783414a49a7b0b86d4befcb8459546 tweezerchef <ltomblock@gmail.com> 1726945788 -0500	pull upstream main: Fast-forward
+eff2c1fc12783414a49a7b0b86d4befcb8459546 eff2c1fc12783414a49a7b0b86d4befcb8459546 tweezerchef <ltomblock@gmail.com> 1726946339 -0500	checkout: moving from main to fixAuth
+eff2c1fc12783414a49a7b0b86d4befcb8459546 f82db67b198178ed6f703e3a75851a1df8fdbd7d tweezerchef <ltomblock@gmail.com> 1726946641 -0500	commit: errorlogs
+f82db67b198178ed6f703e3a75851a1df8fdbd7d 983436c603980d0763f5bcdce3cd27cc2506c2c8 tweezerchef <ltomblock@gmail.com> 1726946866 -0500	commit: changed nextConfig for Vercel deployment
+983436c603980d0763f5bcdce3cd27cc2506c2c8 be58e1ed3ec56b6764c56eae54fc5a12e680311f tweezerchef <ltomblock@gmail.com> 1726947871 -0500	commit: changed authfor guest
+be58e1ed3ec56b6764c56eae54fc5a12e680311f eff2c1fc12783414a49a7b0b86d4befcb8459546 tweezerchef <ltomblock@gmail.com> 1726947958 -0500	checkout: moving from fixAuth to main
+eff2c1fc12783414a49a7b0b86d4befcb8459546 3872f0367edf9edddeffd5c315c8a1fcfe77122c tweezerchef <ltomblock@gmail.com> 1726947966 -0500	pull upstream main: Fast-forward
+3872f0367edf9edddeffd5c315c8a1fcfe77122c 3872f0367edf9edddeffd5c315c8a1fcfe77122c tweezerchef <ltomblock@gmail.com> 1726948003 -0500	checkout: moving from main to fixAuth2
+3872f0367edf9edddeffd5c315c8a1fcfe77122c e26f3539e86fcfc1201e3fded90ce6f3d023fe85 tweezerchef <ltomblock@gmail.com> 1726948274 -0500	commit: changedAuth
+e26f3539e86fcfc1201e3fded90ce6f3d023fe85 3872f0367edf9edddeffd5c315c8a1fcfe77122c tweezerchef <ltomblock@gmail.com> 1726948665 -0500	checkout: moving from fixAuth2 to main
+3872f0367edf9edddeffd5c315c8a1fcfe77122c 2332343018a728e0b5f054c85295f0e8405a97d9 tweezerchef <ltomblock@gmail.com> 1726948671 -0500	pull upstream main: Fast-forward
+2332343018a728e0b5f054c85295f0e8405a97d9 2332343018a728e0b5f054c85295f0e8405a97d9 tweezerchef <ltomblock@gmail.com> 1726950525 -0500	checkout: moving from main to dev
+2332343018a728e0b5f054c85295f0e8405a97d9 7642f0757bdf27e64ca419c92ac55b18089b6b22 tweezerchef <ltomblock@gmail.com> 1726950561 -0500	commit: changed Postgres back to dev server
+7642f0757bdf27e64ca419c92ac55b18089b6b22 7642f0757bdf27e64ca419c92ac55b18089b6b22 tweezerchef <ltomblock@gmail.com> 1727297877 -0500	checkout: moving from dev to prisOpt
+7642f0757bdf27e64ca419c92ac55b18089b6b22 7642f0757bdf27e64ca419c92ac55b18089b6b22 tweezerchef <ltomblock@gmail.com> 1727299968 -0500	reset: moving to HEAD
+7642f0757bdf27e64ca419c92ac55b18089b6b22 7642f0757bdf27e64ca419c92ac55b18089b6b22 tweezerchef <ltomblock@gmail.com> 1727299968 -0500	reset: moving to HEAD
+7642f0757bdf27e64ca419c92ac55b18089b6b22 db30273b7996795cf7af29b39a133ce221649882 tweezerchef <ltomblock@gmail.com> 1727300036 -0500	commit: primsma optimize installed, created function to create daily challenge for testing and only uses interest rate table
+db30273b7996795cf7af29b39a133ce221649882 091ff24522b23c9ef553ebc8b8cbf8cda1df78e4 tweezerchef <ltomblock@gmail.com> 1727367044 -0500	commit: added guesscount to IR client, need to update api on server side
+091ff24522b23c9ef553ebc8b8cbf8cda1df78e4 091ff24522b23c9ef553ebc8b8cbf8cda1df78e4 tweezerchef <ltomblock@gmail.com> 1727462261 -0500	reset: moving to HEAD
+091ff24522b23c9ef553ebc8b8cbf8cda1df78e4 091ff24522b23c9ef553ebc8b8cbf8cda1df78e4 tweezerchef <ltomblock@gmail.com> 1727462261 -0500	reset: moving to HEAD
+091ff24522b23c9ef553ebc8b8cbf8cda1df78e4 091ff24522b23c9ef553ebc8b8cbf8cda1df78e4 tweezerchef <ltomblock@gmail.com> 1727462314 -0500	reset: moving to HEAD
+091ff24522b23c9ef553ebc8b8cbf8cda1df78e4 091ff24522b23c9ef553ebc8b8cbf8cda1df78e4 tweezerchef <ltomblock@gmail.com> 1727462314 -0500	reset: moving to HEAD
+091ff24522b23c9ef553ebc8b8cbf8cda1df78e4 93a6e06b7f0ec2aaf4f6e00b7bf92b0abc26126f tweezerchef <ltomblock@gmail.com> 1727462406 -0500	commit: result Id now put in context
+93a6e06b7f0ec2aaf4f6e00b7bf92b0abc26126f 381e14e939f9a7140bbccbcf8c2925f4b6abb65e tweezerchef <ltomblock@gmail.com> 1727462415 -0500	commit: result Id now put in context
+381e14e939f9a7140bbccbcf8c2925f4b6abb65e 7642f0757bdf27e64ca419c92ac55b18089b6b22 tweezerchef <ltomblock@gmail.com> 1727462596 -0500	checkout: moving from prisOpt to dev
+7642f0757bdf27e64ca419c92ac55b18089b6b22 4d51233845a860f95619954a494a205995e8dc82 tweezerchef <ltomblock@gmail.com> 1727462605 -0500	pull upstream dev: Fast-forward
+4d51233845a860f95619954a494a205995e8dc82 4d51233845a860f95619954a494a205995e8dc82 tweezerchef <ltomblock@gmail.com> 1727462675 -0500	checkout: moving from dev to backendResult
+4d51233845a860f95619954a494a205995e8dc82 bd18a51d23318331aaa1019410d3375124d7bfb6 tweezerchef <ltomblock@gmail.com> 1727466740 -0500	commit: interestRate route now gets actual rate from DB and is properly cached
+bd18a51d23318331aaa1019410d3375124d7bfb6 fd8d3d7d0ebf1d5f0f8a45e3ea3a9a61fd589891 tweezerchef <ltomblock@gmail.com> 1727468445 -0500	commit: interest rate backend looks to be working need to test
+fd8d3d7d0ebf1d5f0f8a45e3ea3a9a61fd589891 ba12ace18967c1755437b45f1597ed7b24ac3556 tweezerchef <ltomblock@gmail.com> 1727472202 -0500	commit: date changed
+ba12ace18967c1755437b45f1597ed7b24ac3556 db9eb6dded89970129c3bc9b0e31400c79243652 tweezerchef <ltomblock@gmail.com> 1727472961 -0500	commit: backend for guest creation, play and result working
+db9eb6dded89970129c3bc9b0e31400c79243652 4d51233845a860f95619954a494a205995e8dc82 tweezerchef <ltomblock@gmail.com> 1727473101 -0500	checkout: moving from backendResult to dev
+4d51233845a860f95619954a494a205995e8dc82 152cff5748ed7bcafaee154b82241373faa7d500 tweezerchef <ltomblock@gmail.com> 1727473109 -0500	pull upstream dev: Fast-forward
+152cff5748ed7bcafaee154b82241373faa7d500 152cff5748ed7bcafaee154b82241373faa7d500 tweezerchef <ltomblock@gmail.com> 1727473485 -0500	checkout: moving from dev to readMe
+152cff5748ed7bcafaee154b82241373faa7d500 606b4dab42f23533efb327f3f449d39b419dc206 tweezerchef <ltomblock@gmail.com> 1727473783 -0500	commit: readme
+606b4dab42f23533efb327f3f449d39b419dc206 152cff5748ed7bcafaee154b82241373faa7d500 tweezerchef <ltomblock@gmail.com> 1727473835 -0500	checkout: moving from readMe to dev
+152cff5748ed7bcafaee154b82241373faa7d500 15abd2ca246982adc5b17c5618f1d42128c01c81 tweezerchef <ltomblock@gmail.com> 1727473839 -0500	pull upstream dev: Fast-forward
+15abd2ca246982adc5b17c5618f1d42128c01c81 15abd2ca246982adc5b17c5618f1d42128c01c81 tweezerchef <ltomblock@gmail.com> 1727556449 -0500	checkout: moving from dev to updateLogin
+15abd2ca246982adc5b17c5618f1d42128c01c81 9008ed44307bc3e00210289f36869ddbbd9d764c tweezerchef <ltomblock@gmail.com> 1727558634 -0500	commit: updated login + login api's to reflect updated guest paths, updated read.me
+9008ed44307bc3e00210289f36869ddbbd9d764c 032bc02a01110ee5b20a31edcdce70f0234d1162 tweezerchef <ltomblock@gmail.com> 1727558775 -0500	commit: changed postgres schema for production
+032bc02a01110ee5b20a31edcdce70f0234d1162 37efdde5929bf2920578ebf08766bb9af9eccf5a tweezerchef <ltomblock@gmail.com> 1727559173 -0500	commit: changed config in route to deploy to edge
+37efdde5929bf2920578ebf08766bb9af9eccf5a d5961b14451d77784cde450c1f3c26308257d648 tweezerchef <ltomblock@gmail.com> 1727559766 -0500	commit: removed edge runtime
+d5961b14451d77784cde450c1f3c26308257d648 2332343018a728e0b5f054c85295f0e8405a97d9 tweezerchef <ltomblock@gmail.com> 1727560015 -0500	checkout: moving from updateLogin to main
+2332343018a728e0b5f054c85295f0e8405a97d9 f27031ccbed6a964c074fcecc7cc67b4b34a610d tweezerchef <ltomblock@gmail.com> 1727560021 -0500	pull upstream main: Fast-forward
+f27031ccbed6a964c074fcecc7cc67b4b34a610d f27031ccbed6a964c074fcecc7cc67b4b34a610d tweezerchef <ltomblock@gmail.com> 1727560092 -0500	checkout: moving from main to dev
+f27031ccbed6a964c074fcecc7cc67b4b34a610d 5787261ff221d19fc98779747d492c849e5d7b7e tweezerchef <ltomblock@gmail.com> 1727560164 -0500	commit: change db back to local
+5787261ff221d19fc98779747d492c849e5d7b7e f27031ccbed6a964c074fcecc7cc67b4b34a610d tweezerchef <ltomblock@gmail.com> 1727560820 -0500	checkout: moving from dev to main
+f27031ccbed6a964c074fcecc7cc67b4b34a610d f27031ccbed6a964c074fcecc7cc67b4b34a610d tweezerchef <ltomblock@gmail.com> 1727560844 -0500	checkout: moving from main to cronJobs
+f27031ccbed6a964c074fcecc7cc67b4b34a610d 3a817db99d82c129e9e175a28e108de4a759133a tweezerchef <ltomblock@gmail.com> 1727562075 -0500	commit: cronJob for daily challenge
+3a817db99d82c129e9e175a28e108de4a759133a f27031ccbed6a964c074fcecc7cc67b4b34a610d tweezerchef <ltomblock@gmail.com> 1727562810 -0500	checkout: moving from cronJobs to main
+f27031ccbed6a964c074fcecc7cc67b4b34a610d 0e248b062c3f2c2b9cc3ac51da0047b91cbb91a4 tweezerchef <ltomblock@gmail.com> 1727562816 -0500	pull upstream main: Fast-forward
+0e248b062c3f2c2b9cc3ac51da0047b91cbb91a4 0e248b062c3f2c2b9cc3ac51da0047b91cbb91a4 tweezerchef <ltomblock@gmail.com> 1727563195 -0500	checkout: moving from main to interestInputAPI
+0e248b062c3f2c2b9cc3ac51da0047b91cbb91a4 bc54af982e1d62f5ca1e4246d320e08a25579324 tweezerchef <ltomblock@gmail.com> 1727563535 -0500	commit: api for populating interest rate and dates table
+bc54af982e1d62f5ca1e4246d320e08a25579324 0e248b062c3f2c2b9cc3ac51da0047b91cbb91a4 tweezerchef <ltomblock@gmail.com> 1727563862 -0500	checkout: moving from interestInputAPI to main
+0e248b062c3f2c2b9cc3ac51da0047b91cbb91a4 4ac3d7dd35b598f8c737a08a534b956a7d8891fa tweezerchef <ltomblock@gmail.com> 1727563872 -0500	pull upstream main: Fast-forward
+4ac3d7dd35b598f8c737a08a534b956a7d8891fa 13d5007ec31e9f1a73312dcc8ec9c687ad1922ad tweezerchef <ltomblock@gmail.com> 1727566275 -0500	commit: chunkDBRequest
+13d5007ec31e9f1a73312dcc8ec9c687ad1922ad f90fc9b136a57a3791069646f65e758d7794b672 tweezerchef <ltomblock@gmail.com> 1727625899 -0500	pull upstream main: Fast-forward
+f90fc9b136a57a3791069646f65e758d7794b672 f90fc9b136a57a3791069646f65e758d7794b672 tweezerchef <ltomblock@gmail.com> 1727625986 -0500	checkout: moving from main to dev
+f90fc9b136a57a3791069646f65e758d7794b672 25140b280bb4b5e37a13f80fec235354dc27b1e0 tweezerchef <ltomblock@gmail.com> 1727626042 -0500	commit: aligned dev with main, changed prisma schema to local dev server
+25140b280bb4b5e37a13f80fec235354dc27b1e0 f90fc9b136a57a3791069646f65e758d7794b672 tweezerchef <ltomblock@gmail.com> 1727626106 -0500	checkout: moving from dev to main
+f90fc9b136a57a3791069646f65e758d7794b672 f90fc9b136a57a3791069646f65e758d7794b672 tweezerchef <ltomblock@gmail.com> 1727626249 -0500	checkout: moving from main to dev
+f90fc9b136a57a3791069646f65e758d7794b672 6eabb64163d3a0f62ea044178c0e8d760d451a5f tweezerchef <ltomblock@gmail.com> 1727626387 -0500	commit: aligned main and dev, changed schema to use local db
+6eabb64163d3a0f62ea044178c0e8d760d451a5f 6eabb64163d3a0f62ea044178c0e8d760d451a5f tweezerchef <ltomblock@gmail.com> 1727627295 -0500	checkout: moving from dev to displayIR
+6eabb64163d3a0f62ea044178c0e8d760d451a5f 6eabb64163d3a0f62ea044178c0e8d760d451a5f tweezerchef <ltomblock@gmail.com> 1727630885 -0500	reset: moving to HEAD
+6eabb64163d3a0f62ea044178c0e8d760d451a5f 6eabb64163d3a0f62ea044178c0e8d760d451a5f tweezerchef <ltomblock@gmail.com> 1727630885 -0500	reset: moving to HEAD
+6eabb64163d3a0f62ea044178c0e8d760d451a5f d65ab33ebd4edc6be02e30113699521c6f44e6b8 tweezerchef <ltomblock@gmail.com> 1727630992 -0500	commit: slide on IR day of in progress, first slide done
+d65ab33ebd4edc6be02e30113699521c6f44e6b8 dc269d776a7bfa07ce858315c045baaa0854161b tweezerchef <ltomblock@gmail.com> 1727638777 -0500	commit: transitioning from picture of JP to day of info, working on transition
+dc269d776a7bfa07ce858315c045baaa0854161b 0f94303db70ac3063dd51a532ebf6147bf7da60d tweezerchef <ltomblock@gmail.com> 1727642856 -0500	commit: Transition needs work but working
+0f94303db70ac3063dd51a532ebf6147bf7da60d 6eabb64163d3a0f62ea044178c0e8d760d451a5f tweezerchef <ltomblock@gmail.com> 1727642998 -0500	checkout: moving from displayIR to dev
+6eabb64163d3a0f62ea044178c0e8d760d451a5f a3145391732f8069aad0c88fcbac032b1120cad5 tweezerchef <ltomblock@gmail.com> 1727643004 -0500	pull upstream dev: Fast-forward
+a3145391732f8069aad0c88fcbac032b1120cad5 a3145391732f8069aad0c88fcbac032b1120cad5 tweezerchef <ltomblock@gmail.com> 1727643124 -0500	checkout: moving from dev to persistID
+a3145391732f8069aad0c88fcbac032b1120cad5 67b7bfebe11b3f978fdf139a8e3babf6d622c35f tweezerchef <ltomblock@gmail.com> 1727643671 -0500	commit: as temp measure user info is being stored in local storage
+67b7bfebe11b3f978fdf139a8e3babf6d622c35f 6a861bee229924eeae550f0ebdde03a6fe204fdc tweezerchef <ltomblock@gmail.com> 1727644392 -0500	commit: ready to deploy to production
+6a861bee229924eeae550f0ebdde03a6fe204fdc 9637ec6b085e622684087d42dffe29ccbf2c253f tweezerchef <ltomblock@gmail.com> 1727645042 -0500	commit: small change in prisma
+9637ec6b085e622684087d42dffe29ccbf2c253f 23127b21a556a379606f4203abb224ccb4fa1ffb tweezerchef <ltomblock@gmail.com> 1727645345 -0500	commit: changes to prisma client
+23127b21a556a379606f4203abb224ccb4fa1ffb f90fc9b136a57a3791069646f65e758d7794b672 tweezerchef <ltomblock@gmail.com> 1727646430 -0500	checkout: moving from persistID to main
+f90fc9b136a57a3791069646f65e758d7794b672 4946e526fda9c009db326126e659a0f7f05ad074 tweezerchef <ltomblock@gmail.com> 1727646434 -0500	pull upstream main: Fast-forward
+4946e526fda9c009db326126e659a0f7f05ad074 4946e526fda9c009db326126e659a0f7f05ad074 tweezerchef <ltomblock@gmail.com> 1727648566 -0500	checkout: moving from main to dev
+4946e526fda9c009db326126e659a0f7f05ad074 13de9561dc03f8912496b64b69249e96ea34840d tweezerchef <ltomblock@gmail.com> 1727649544 -0500	commit: small changes with UI in DayOfInfo
+13de9561dc03f8912496b64b69249e96ea34840d af30b0fda5cf1f06405b6e903a1afd469b1c91f2 tweezerchef <ltomblock@gmail.com> 1727649625 -0500	pull upstream dev: Fast-forward
+af30b0fda5cf1f06405b6e903a1afd469b1c91f2 fd4e20efd49b9fac732e6d83e97e84b95c4aa9e1 tweezerchef <ltomblock@gmail.com> 1727649697 -0500	commit: production version of last push to dev
+fd4e20efd49b9fac732e6d83e97e84b95c4aa9e1 fd4e20efd49b9fac732e6d83e97e84b95c4aa9e1 tweezerchef <ltomblock@gmail.com> 1727722898 -0500	checkout: moving from dev to displayRewrite
+fd4e20efd49b9fac732e6d83e97e84b95c4aa9e1 fd4e20efd49b9fac732e6d83e97e84b95c4aa9e1 tweezerchef <ltomblock@gmail.com> 1727729660 -0500	reset: moving to HEAD
+fd4e20efd49b9fac732e6d83e97e84b95c4aa9e1 fd4e20efd49b9fac732e6d83e97e84b95c4aa9e1 tweezerchef <ltomblock@gmail.com> 1727729665 -0500	checkout: moving from displayRewrite to dev
+fd4e20efd49b9fac732e6d83e97e84b95c4aa9e1 fd4e20efd49b9fac732e6d83e97e84b95c4aa9e1 tweezerchef <ltomblock@gmail.com> 1727730440 -0500	checkout: moving from dev to Flip
+fd4e20efd49b9fac732e6d83e97e84b95c4aa9e1 9dfa0b441d134c59c115d1f9a082677d90382a0d tweezerchef <ltomblock@gmail.com> 1727733492 -0500	commit: rendering much better, need to fix the issue of user data disapearing again
+9dfa0b441d134c59c115d1f9a082677d90382a0d ff07cb0cb7475c26b6eb0cf81999e97ab2460cf6 tweezerchef <ltomblock@gmail.com> 1727736525 -0500	commit: flipping UI much improved
+ff07cb0cb7475c26b6eb0cf81999e97ab2460cf6 c9c8ead3fd879386b348fb21a5895c5e3ea226cc tweezerchef <ltomblock@gmail.com> 1727736624 -0500	commit: flipping UI much improved
+c9c8ead3fd879386b348fb21a5895c5e3ea226cc 3d3191592beacae622a2893dd08385a609d8fd52 tweezerchef <ltomblock@gmail.com> 1727736797 -0500	commit: flipping UI much improved
+3d3191592beacae622a2893dd08385a609d8fd52 4946e526fda9c009db326126e659a0f7f05ad074 tweezerchef <ltomblock@gmail.com> 1727737963 -0500	checkout: moving from Flip to main
+4946e526fda9c009db326126e659a0f7f05ad074 1626ecd32ca943c816cf1279dfcbb6600c56d4cf tweezerchef <ltomblock@gmail.com> 1727737978 -0500	pull upstream main: Fast-forward
+1626ecd32ca943c816cf1279dfcbb6600c56d4cf 1626ecd32ca943c816cf1279dfcbb6600c56d4cf tweezerchef <ltomblock@gmail.com> 1727738012 -0500	checkout: moving from main to dev
+1626ecd32ca943c816cf1279dfcbb6600c56d4cf 254d236a801522f11f8e25d620122351c7b393fc tweezerchef <ltomblock@gmail.com> 1727738929 -0500	commit: forgot to save schema
+254d236a801522f11f8e25d620122351c7b393fc 254d236a801522f11f8e25d620122351c7b393fc tweezerchef <ltomblock@gmail.com> 1727793781 -0500	checkout: moving from dev to middleware
+254d236a801522f11f8e25d620122351c7b393fc da7656d1a8697e75b502ccad20dd61160d56c932 tweezerchef <ltomblock@gmail.com> 1727797161 -0500	commit: no middleware instead all done in route
+da7656d1a8697e75b502ccad20dd61160d56c932 1626ecd32ca943c816cf1279dfcbb6600c56d4cf tweezerchef <ltomblock@gmail.com> 1727799185 -0500	checkout: moving from middleware to main
+1626ecd32ca943c816cf1279dfcbb6600c56d4cf 1512a57caa9c2cefb6f4df14bd1ad1c3ebfef042 tweezerchef <ltomblock@gmail.com> 1727799193 -0500	pull upstream main: Fast-forward
+1512a57caa9c2cefb6f4df14bd1ad1c3ebfef042 1512a57caa9c2cefb6f4df14bd1ad1c3ebfef042 tweezerchef <ltomblock@gmail.com> 1727799232 -0500	checkout: moving from main to dev
+1512a57caa9c2cefb6f4df14bd1ad1c3ebfef042 01323b5dd256fcf03efae2bef6182c13a025416e tweezerchef <ltomblock@gmail.com> 1727799276 -0500	commit: align main and dev
+01323b5dd256fcf03efae2bef6182c13a025416e 0bfd938a76f8ac431ff285a28668b47b9f5116e9 tweezerchef <ltomblock@gmail.com> 1727800448 -0500	commit: dsa
+0bfd938a76f8ac431ff285a28668b47b9f5116e9 01323b5dd256fcf03efae2bef6182c13a025416e tweezerchef <ltomblock@gmail.com> 1727800667 -0500	reset: moving to HEAD~1
+01323b5dd256fcf03efae2bef6182c13a025416e 01323b5dd256fcf03efae2bef6182c13a025416e tweezerchef <ltomblock@gmail.com> 1727807609 -0500	checkout: moving from dev to mobileReactive
+01323b5dd256fcf03efae2bef6182c13a025416e 9a03c121327851ca7240198ba89d074b6d53a9ff tweezerchef <ltomblock@gmail.com> 1727809250 -0500	commit: keyboard and keys reactive
+9a03c121327851ca7240198ba89d074b6d53a9ff 602c6d85f586bee0b207dfc965dbd48dd7969cd5 tweezerchef <ltomblock@gmail.com> 1727810379 -0500	commit: key's and footer reactive and working on it looks like all screen sizes
+602c6d85f586bee0b207dfc965dbd48dd7969cd5 0b3c7bbe33563b7e553b8e81c914f6f33e36c5bb tweezerchef <ltomblock@gmail.com> 1727811578 -0500	commit: small changes with header
+0b3c7bbe33563b7e553b8e81c914f6f33e36c5bb 0f7e07b7064ab7ee016972a55b88eabce22d149e tweezerchef <ltomblock@gmail.com> 1727811673 -0500	commit: ready for deploy
+0f7e07b7064ab7ee016972a55b88eabce22d149e 1512a57caa9c2cefb6f4df14bd1ad1c3ebfef042 tweezerchef <ltomblock@gmail.com> 1727811905 -0500	checkout: moving from mobileReactive to main
+1512a57caa9c2cefb6f4df14bd1ad1c3ebfef042 aa4c33249ee73c4fe01ec34ec76f4c79ae161692 tweezerchef <ltomblock@gmail.com> 1727812691 -0500	pull upstream main: Fast-forward
+aa4c33249ee73c4fe01ec34ec76f4c79ae161692 aa4c33249ee73c4fe01ec34ec76f4c79ae161692 tweezerchef <ltomblock@gmail.com> 1727812730 -0500	checkout: moving from main to dev
+aa4c33249ee73c4fe01ec34ec76f4c79ae161692 4ac7b4739760cf434677f5521703eab49fda9d12 tweezerchef <ltomblock@gmail.com> 1727812873 -0500	commit: modified read.me align with main
+4ac7b4739760cf434677f5521703eab49fda9d12 4ac7b4739760cf434677f5521703eab49fda9d12 tweezerchef <ltomblock@gmail.com> 1727814471 -0500	checkout: moving from dev to flipUpdate
+4ac7b4739760cf434677f5521703eab49fda9d12 2f11c398d6c603beb7f656e89d7e1f5088060597 tweezerchef <ltomblock@gmail.com> 1727818839 -0500	commit: flipping much better
+2f11c398d6c603beb7f656e89d7e1f5088060597 c76ef97487559454d710a1f437fa44b3ec94986e tweezerchef <ltomblock@gmail.com> 1727820179 -0500	commit: getting closer with flipping
+c76ef97487559454d710a1f437fa44b3ec94986e 68e0e3e95cf242982e0786caa126e4337ef2818b tweezerchef <ltomblock@gmail.com> 1727820302 -0500	commit: ready for prod deployment
+68e0e3e95cf242982e0786caa126e4337ef2818b aa4c33249ee73c4fe01ec34ec76f4c79ae161692 tweezerchef <ltomblock@gmail.com> 1727820523 -0500	checkout: moving from flipUpdate to main
+aa4c33249ee73c4fe01ec34ec76f4c79ae161692 3934255099a282c1c417185db318f6e9a1a7ce17 tweezerchef <ltomblock@gmail.com> 1727820532 -0500	pull upstream main: Fast-forward
+3934255099a282c1c417185db318f6e9a1a7ce17 3934255099a282c1c417185db318f6e9a1a7ce17 tweezerchef <ltomblock@gmail.com> 1727820600 -0500	checkout: moving from main to dev
+3934255099a282c1c417185db318f6e9a1a7ce17 3934255099a282c1c417185db318f6e9a1a7ce17 tweezerchef <ltomblock@gmail.com> 1727984161 -0500	checkout: moving from dev to finishedModal
+3934255099a282c1c417185db318f6e9a1a7ce17 da017e848280dfedc2c1c97447af8a4a3c07cd48 tweezerchef <ltomblock@gmail.com> 1727985513 -0500	commit: modal built time to test
+da017e848280dfedc2c1c97447af8a4a3c07cd48 3934255099a282c1c417185db318f6e9a1a7ce17 tweezerchef <ltomblock@gmail.com> 1727985759 -0500	checkout: moving from finishedModal to dev
+3934255099a282c1c417185db318f6e9a1a7ce17 18cb3c3cf2bc38a3f4c9a1e2778bd00a38c1ef6c tweezerchef <ltomblock@gmail.com> 1727985764 -0500	pull origin dev: Fast-forward
+18cb3c3cf2bc38a3f4c9a1e2778bd00a38c1ef6c 18cb3c3cf2bc38a3f4c9a1e2778bd00a38c1ef6c tweezerchef <ltomblock@gmail.com> 1727985802 -0500	checkout: moving from dev to restruc
+18cb3c3cf2bc38a3f4c9a1e2778bd00a38c1ef6c 18cb3c3cf2bc38a3f4c9a1e2778bd00a38c1ef6c tweezerchef <ltomblock@gmail.com> 1727989066 -0500	reset: moving to HEAD
+18cb3c3cf2bc38a3f4c9a1e2778bd00a38c1ef6c 18cb3c3cf2bc38a3f4c9a1e2778bd00a38c1ef6c tweezerchef <ltomblock@gmail.com> 1727989066 -0500	reset: moving to HEAD
+18cb3c3cf2bc38a3f4c9a1e2778bd00a38c1ef6c 90a8e48cc5d7533ccb8f861c70c0d12432f80901 tweezerchef <ltomblock@gmail.com> 1727989525 -0500	commit: updated login auth route to reflect changes in guess
+90a8e48cc5d7533ccb8f861c70c0d12432f80901 18cb3c3cf2bc38a3f4c9a1e2778bd00a38c1ef6c tweezerchef <ltomblock@gmail.com> 1727990817 -0500	checkout: moving from restruc to dev
+18cb3c3cf2bc38a3f4c9a1e2778bd00a38c1ef6c 16dd9c27387077115778fe1989fd6a91897feaac tweezerchef <ltomblock@gmail.com> 1727990831 -0500	pull origin dev: Fast-forward
+16dd9c27387077115778fe1989fd6a91897feaac 16dd9c27387077115778fe1989fd6a91897feaac tweezerchef <ltomblock@gmail.com> 1727990860 -0500	checkout: moving from dev to modalTest
+16dd9c27387077115778fe1989fd6a91897feaac 780dc45992b6bd89de1eef15bce63a210863c996 tweezerchef <ltomblock@gmail.com> 1727992873 -0500	commit: modal is rendering center finally
+780dc45992b6bd89de1eef15bce63a210863c996 98f373f455f4a94bdaa2c29b4cae582dea8762e0 tweezerchef <ltomblock@gmail.com> 1727993670 -0500	commit: set fake props for modal so that it is closed
+98f373f455f4a94bdaa2c29b4cae582dea8762e0 3934255099a282c1c417185db318f6e9a1a7ce17 tweezerchef <ltomblock@gmail.com> 1727993812 -0500	checkout: moving from modalTest to main
+3934255099a282c1c417185db318f6e9a1a7ce17 16dd9c27387077115778fe1989fd6a91897feaac tweezerchef <ltomblock@gmail.com> 1727993859 -0500	checkout: moving from main to dev
+16dd9c27387077115778fe1989fd6a91897feaac f8241cf92b0f088887b859a59be6ad07db29458c tweezerchef <ltomblock@gmail.com> 1727993896 -0500	pull upstream dev: Fast-forward
+f8241cf92b0f088887b859a59be6ad07db29458c f8241cf92b0f088887b859a59be6ad07db29458c tweezerchef <ltomblock@gmail.com> 1728054958 -0500	checkout: moving from dev to modalActive
+f8241cf92b0f088887b859a59be6ad07db29458c 0567111b11dae59d65e4edd4d79c5c8ce0f022d8 tweezerchef <ltomblock@gmail.com> 1728061156 -0500	commit: modal working with confetti if correct
+0567111b11dae59d65e4edd4d79c5c8ce0f022d8 3934255099a282c1c417185db318f6e9a1a7ce17 tweezerchef <ltomblock@gmail.com> 1728061969 -0500	checkout: moving from modalActive to main
+3934255099a282c1c417185db318f6e9a1a7ce17 0567111b11dae59d65e4edd4d79c5c8ce0f022d8 tweezerchef <ltomblock@gmail.com> 1728062013 -0500	checkout: moving from main to modalActive
+0567111b11dae59d65e4edd4d79c5c8ce0f022d8 3934255099a282c1c417185db318f6e9a1a7ce17 tweezerchef <ltomblock@gmail.com> 1728062111 -0500	checkout: moving from modalActive to main
+3934255099a282c1c417185db318f6e9a1a7ce17 3f4bffe143c5eb0e29d375d30eef8ce17cadbd27 tweezerchef <ltomblock@gmail.com> 1728062139 -0500	pull upstream main: Fast-forward
+3f4bffe143c5eb0e29d375d30eef8ce17cadbd27 3f4bffe143c5eb0e29d375d30eef8ce17cadbd27 tweezerchef <ltomblock@gmail.com> 1728062237 -0500	checkout: moving from main to dev
+3f4bffe143c5eb0e29d375d30eef8ce17cadbd27 2b8aef9c563d6440c2a0119ec6abf596016464fa tweezerchef <ltomblock@gmail.com> 1728062268 -0500	commit: aligned with main
+2b8aef9c563d6440c2a0119ec6abf596016464fa 2b8aef9c563d6440c2a0119ec6abf596016464fa tweezerchef <ltomblock@gmail.com> 1728072184 -0500	checkout: moving from dev to s3
+2b8aef9c563d6440c2a0119ec6abf596016464fa df7325b5213af01b1484e17aeee246160d2b6e97 tweezerchef <ltomblock@gmail.com> 1728075482 -0500	commit: basicS3 set up, need to test
+df7325b5213af01b1484e17aeee246160d2b6e97 2b8aef9c563d6440c2a0119ec6abf596016464fa tweezerchef <ltomblock@gmail.com> 1728075745 -0500	checkout: moving from s3 to dev
+2b8aef9c563d6440c2a0119ec6abf596016464fa 4044352c4e0a64156bd6b2f134c1cc64dcabc9ef tweezerchef <ltomblock@gmail.com> 1728075754 -0500	pull origin dev: Fast-forward
+4044352c4e0a64156bd6b2f134c1cc64dcabc9ef 4044352c4e0a64156bd6b2f134c1cc64dcabc9ef tweezerchef <ltomblock@gmail.com> 1728077621 -0500	checkout: moving from dev to minorUI
+4044352c4e0a64156bd6b2f134c1cc64dcabc9ef 9b95240bff8df54c8980af8a7c6a1eb009cc0dc3 tweezerchef <ltomblock@gmail.com> 1728079116 -0500	commit: fixed the issue with the previous results arrows re-rendering when new guess is entered
+9b95240bff8df54c8980af8a7c6a1eb009cc0dc3 09e9e708ce74b5d8d72e29499b3d7eed20a59b93 tweezerchef <ltomblock@gmail.com> 1728079724 -0500	commit: created folders for new pages, put a default page on currency
+09e9e708ce74b5d8d72e29499b3d7eed20a59b93 4044352c4e0a64156bd6b2f134c1cc64dcabc9ef tweezerchef <ltomblock@gmail.com> 1728079824 -0500	checkout: moving from minorUI to dev
+4044352c4e0a64156bd6b2f134c1cc64dcabc9ef 4ce3702ffd006d1bfa0cd2217aa6f25c21bee4e0 tweezerchef <ltomblock@gmail.com> 1728079831 -0500	pull origin dev: Fast-forward
+4ce3702ffd006d1bfa0cd2217aa6f25c21bee4e0 4ce3702ffd006d1bfa0cd2217aa6f25c21bee4e0 tweezerchef <ltomblock@gmail.com> 1728151148 -0500	checkout: moving from dev to prismaAlt
+4ce3702ffd006d1bfa0cd2217aa6f25c21bee4e0 550d8babf7451c4e88ec961dfa9ea34ba354e791 tweezerchef <ltomblock@gmail.com> 1728151467 -0500	commit: deleted guest plays from prisma and guest route
+550d8babf7451c4e88ec961dfa9ea34ba354e791 4ce3702ffd006d1bfa0cd2217aa6f25c21bee4e0 tweezerchef <ltomblock@gmail.com> 1728151554 -0500	checkout: moving from prismaAlt to dev
+4ce3702ffd006d1bfa0cd2217aa6f25c21bee4e0 6ae62cee1c662ba4b6c9cb355e54fd5dc8d43fee tweezerchef <ltomblock@gmail.com> 1728151577 -0500	pull origin dev: Fast-forward
+6ae62cee1c662ba4b6c9cb355e54fd5dc8d43fee 6ae62cee1c662ba4b6c9cb355e54fd5dc8d43fee tweezerchef <ltomblock@gmail.com> 1728152004 -0500	checkout: moving from dev to routeOptimization
+6ae62cee1c662ba4b6c9cb355e54fd5dc8d43fee 7cc078ab5e778f7830a3ecc6c37d628f8c91b830 tweezerchef <ltomblock@gmail.com> 1728153398 -0500	commit: optimized all existing routes
+7cc078ab5e778f7830a3ecc6c37d628f8c91b830 9742e6549ec9002bcc0ac90421bfaaeeb99011d6 tweezerchef <ltomblock@gmail.com> 1728153810 -0500	commit: optimized all existing routes
+9742e6549ec9002bcc0ac90421bfaaeeb99011d6 cbe4639c317d93f4483af92b8c3bb77f0c3c8dc1 tweezerchef <ltomblock@gmail.com> 1728154256 -0500	commit: minor mod in aws upload avi route
+cbe4639c317d93f4483af92b8c3bb77f0c3c8dc1 ce2ff766358141f30e6402f8afc452a111d7f05f tweezerchef <ltomblock@gmail.com> 1728154710 -0500	commit: changed prisma to deployment db
+ce2ff766358141f30e6402f8afc452a111d7f05f 3f4bffe143c5eb0e29d375d30eef8ce17cadbd27 tweezerchef <ltomblock@gmail.com> 1728155079 -0500	checkout: moving from routeOptimization to main
+3f4bffe143c5eb0e29d375d30eef8ce17cadbd27 de0bf2dff0717c916f03904fa8ee29c75dfd3c88 tweezerchef <ltomblock@gmail.com> 1728155108 -0500	pull upstream main: Fast-forward
+de0bf2dff0717c916f03904fa8ee29c75dfd3c88 de0bf2dff0717c916f03904fa8ee29c75dfd3c88 tweezerchef <ltomblock@gmail.com> 1728155120 -0500	checkout: moving from main to dev
+de0bf2dff0717c916f03904fa8ee29c75dfd3c88 14253368f58256e0d7591cb0e6bbcc4f11810520 tweezerchef <ltomblock@gmail.com> 1728155184 -0500	commit: dev/main in sync with dev prisma settings
+14253368f58256e0d7591cb0e6bbcc4f11810520 14253368f58256e0d7591cb0e6bbcc4f11810520 tweezerchef <ltomblock@gmail.com> 1728161424 -0500	checkout: moving from dev to reg
+14253368f58256e0d7591cb0e6bbcc4f11810520 a42a07fe946d1cfcc396b22691d11f190cb68298 tweezerchef <ltomblock@gmail.com> 1728164671 -0500	commit: registration beta FE done, need to test
+a42a07fe946d1cfcc396b22691d11f190cb68298 6b0b91bec3a523f7451e89ff40bb190075fa3054 tweezerchef <ltomblock@gmail.com> 1728165849 -0500	commit: step 1 and 2 registration FE working, but need to change UI
+6b0b91bec3a523f7451e89ff40bb190075fa3054 89adb77751cde210bb8656e7195647e8207df7c7 tweezerchef <ltomblock@gmail.com> 1728313018 -0500	commit: UI in just ok state for registration, submit console log correct
+89adb77751cde210bb8656e7195647e8207df7c7 9021d0240ded6309fdf1d5a17922bee4f5110737 tweezerchef <ltomblock@gmail.com> 1728316562 -0500	commit: more minor UI changes
+9021d0240ded6309fdf1d5a17922bee4f5110737 c93ddb9a47d43d2ea62390f1bc7765b7a5d86fbf tweezerchef <ltomblock@gmail.com> 1728319049 -0500	commit: be for register built, need to modify FE logic and test
+c93ddb9a47d43d2ea62390f1bc7765b7a5d86fbf c8510b129ba1e2b7e443a6283e0565e107e24989 tweezerchef <ltomblock@gmail.com> 1728325267 -0500	commit: registration back end working, fixed issues with getting signed s3 and uploading them, next need to inigrate login on FE for login and reg
+c8510b129ba1e2b7e443a6283e0565e107e24989 bd7b55cdb97155da85a6ba6f6f9fca293697837d tweezerchef <ltomblock@gmail.com> 1728328618 -0500	commit: logic for signedURL built into login, stored in context and new URL is retrieved in context when expired
+bd7b55cdb97155da85a6ba6f6f9fca293697837d 14253368f58256e0d7591cb0e6bbcc4f11810520 tweezerchef <ltomblock@gmail.com> 1728328838 -0500	checkout: moving from reg to dev
+14253368f58256e0d7591cb0e6bbcc4f11810520 d7a6284387d651b62f0c38f85c03f6b4d839f648 tweezerchef <ltomblock@gmail.com> 1728328851 -0500	pull upstream dev: Fast-forward
+d7a6284387d651b62f0c38f85c03f6b4d839f648 6f34b607d70518decdac40045495b13d8013ba14 tweezerchef <ltomblock@gmail.com> 1728329260 -0500	commit: avatar added
+6f34b607d70518decdac40045495b13d8013ba14 c5751e2480ea80e86ee5c30ca6dad4924521db21 tweezerchef <ltomblock@gmail.com> 1728329343 -0500	commit: avatar added
+c5751e2480ea80e86ee5c30ca6dad4924521db21 5b8414dfb43a81c5375cb0a87928b80781dbe942 tweezerchef <ltomblock@gmail.com> 1728331158 -0500	commit: optimized jp image, ready to merge with production branch
+5b8414dfb43a81c5375cb0a87928b80781dbe942 de0bf2dff0717c916f03904fa8ee29c75dfd3c88 tweezerchef <ltomblock@gmail.com> 1728331378 -0500	checkout: moving from dev to main
+de0bf2dff0717c916f03904fa8ee29c75dfd3c88 6e3cff2991d237d4bfa333aba191bd4ba94b960f tweezerchef <ltomblock@gmail.com> 1728331387 -0500	pull upstream main: Fast-forward
+6e3cff2991d237d4bfa333aba191bd4ba94b960f 6e3cff2991d237d4bfa333aba191bd4ba94b960f tweezerchef <ltomblock@gmail.com> 1728331415 -0500	checkout: moving from main to dev
+6e3cff2991d237d4bfa333aba191bd4ba94b960f f41299a07db58dec2866ade5c8781d76acf97ed8 tweezerchef <ltomblock@gmail.com> 1728331452 -0500	commit: aligning dev with main
+f41299a07db58dec2866ade5c8781d76acf97ed8 6e3cff2991d237d4bfa333aba191bd4ba94b960f tweezerchef <ltomblock@gmail.com> 1728332413 -0500	checkout: moving from dev to main
+6e3cff2991d237d4bfa333aba191bd4ba94b960f 87ee5a13ec3421fae3523e9e1852a21608103945 tweezerchef <ltomblock@gmail.com> 1728332495 -0500	commit: readme
+87ee5a13ec3421fae3523e9e1852a21608103945 f41299a07db58dec2866ade5c8781d76acf97ed8 tweezerchef <ltomblock@gmail.com> 1728333101 -0500	checkout: moving from main to dev
+f41299a07db58dec2866ade5c8781d76acf97ed8 87ee5a13ec3421fae3523e9e1852a21608103945 tweezerchef <ltomblock@gmail.com> 1728333118 -0500	checkout: moving from dev to main
+87ee5a13ec3421fae3523e9e1852a21608103945 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728333124 -0500	pull upstream main: Fast-forward
+184f7f8e724aaa644dc842a714b101a983e30d81 f41299a07db58dec2866ade5c8781d76acf97ed8 tweezerchef <ltomblock@gmail.com> 1728333144 -0500	checkout: moving from main to dev
+f41299a07db58dec2866ade5c8781d76acf97ed8 f41299a07db58dec2866ade5c8781d76acf97ed8 tweezerchef <ltomblock@gmail.com> 1728333691 -0500	reset: moving to HEAD
+f41299a07db58dec2866ade5c8781d76acf97ed8 f41299a07db58dec2866ade5c8781d76acf97ed8 tweezerchef <ltomblock@gmail.com> 1728333742 -0500	checkout: moving from dev to regButton
+f41299a07db58dec2866ade5c8781d76acf97ed8 f41299a07db58dec2866ade5c8781d76acf97ed8 tweezerchef <ltomblock@gmail.com> 1728338083 -0500	reset: moving to HEAD
+f41299a07db58dec2866ade5c8781d76acf97ed8 f41299a07db58dec2866ade5c8781d76acf97ed8 tweezerchef <ltomblock@gmail.com> 1728338083 -0500	reset: moving to HEAD
+f41299a07db58dec2866ade5c8781d76acf97ed8 c101b74e2c3dd1906bdb50cec4b814d887ece158 tweezerchef <ltomblock@gmail.com> 1728338109 -0500	commit: loading on buttons
+c101b74e2c3dd1906bdb50cec4b814d887ece158 ae5ace2db6ea45f33d5b17f22b0523744a9611de tweezerchef <ltomblock@gmail.com> 1728339042 -0500	commit: changed some minor css in the root layout
+ae5ace2db6ea45f33d5b17f22b0523744a9611de 7dd2b8bcf6f8b51fd370727d1077048d307bdecd tweezerchef <ltomblock@gmail.com> 1728346246 -0500	commit: prisma migrate
+7dd2b8bcf6f8b51fd370727d1077048d307bdecd d5e5968b0beedd0a28dfd5a4ff64dd77ebb975b4 tweezerchef <ltomblock@gmail.com> 1728403318 -0500	commit: changed schema and create daily challenge to add interest rate year of data
+d5e5968b0beedd0a28dfd5a4ff64dd77ebb975b4 d3e4aeca2eb3af8acd1e196166829b509d2f28b2 tweezerchef <ltomblock@gmail.com> 1728404383 -0500	commit: created function to retrieve data points for chart
+d3e4aeca2eb3af8acd1e196166829b509d2f28b2 d3e4aeca2eb3af8acd1e196166829b509d2f28b2 tweezerchef <ltomblock@gmail.com> 1728410851 -0500	reset: moving to HEAD
+d3e4aeca2eb3af8acd1e196166829b509d2f28b2 d3e4aeca2eb3af8acd1e196166829b509d2f28b2 tweezerchef <ltomblock@gmail.com> 1728410851 -0500	reset: moving to HEAD
+d3e4aeca2eb3af8acd1e196166829b509d2f28b2 d3e4aeca2eb3af8acd1e196166829b509d2f28b2 tweezerchef <ltomblock@gmail.com> 1728411237 -0500	reset: moving to HEAD
+d3e4aeca2eb3af8acd1e196166829b509d2f28b2 d3e4aeca2eb3af8acd1e196166829b509d2f28b2 tweezerchef <ltomblock@gmail.com> 1728411237 -0500	reset: moving to HEAD
+d3e4aeca2eb3af8acd1e196166829b509d2f28b2 dc8747d7361b7792eee02ac7945dd02303bc471a tweezerchef <ltomblock@gmail.com> 1728411578 -0500	commit: rechart installed and working
+dc8747d7361b7792eee02ac7945dd02303bc471a fa998c67e8b0cb163d4c935bf96005f401c81a64 tweezerchef <ltomblock@gmail.com> 1728416329 -0500	commit: chart is done in development folder needs to be added to actual component with real guess
+fa998c67e8b0cb163d4c935bf96005f401c81a64 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728416628 -0500	checkout: moving from regButton to main
+184f7f8e724aaa644dc842a714b101a983e30d81 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728416668 -0500	checkout: moving from main to dev
+184f7f8e724aaa644dc842a714b101a983e30d81 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728416701 -0500	reset: moving to HEAD
+184f7f8e724aaa644dc842a714b101a983e30d81 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728416729 -0500	checkout: moving from dev to main
+184f7f8e724aaa644dc842a714b101a983e30d81 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728416751 -0500	checkout: moving from main to dev
+184f7f8e724aaa644dc842a714b101a983e30d81 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728416758 -0500	pull upstream dev: updating HEAD
+184f7f8e724aaa644dc842a714b101a983e30d81 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728416867 -0500	checkout: moving from dev to main
+184f7f8e724aaa644dc842a714b101a983e30d81 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728416889 -0500	pull upstream dev: updating HEAD
+184f7f8e724aaa644dc842a714b101a983e30d81 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728416919 -0500	reset: moving to HEAD
+184f7f8e724aaa644dc842a714b101a983e30d81 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728416926 -0500	checkout: moving from main to dev
+184f7f8e724aaa644dc842a714b101a983e30d81 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728417037 -0500	reset: moving to HEAD
+184f7f8e724aaa644dc842a714b101a983e30d81 c01701c53f1edc0a64961b0c330d5706a422395b tweezerchef <ltomblock@gmail.com> 1728417042 -0500	pull upstream dev: Merge made by the 'ort' strategy.
+c01701c53f1edc0a64961b0c330d5706a422395b 0021a40e9795843aa4e721635b45c86067a77c24 tweezerchef <ltomblock@gmail.com> 1728417531 -0500	commit: removed deps
+0021a40e9795843aa4e721635b45c86067a77c24 0021a40e9795843aa4e721635b45c86067a77c24 tweezerchef <ltomblock@gmail.com> 1728420719 -0500	checkout: moving from dev to inlineChart
+0021a40e9795843aa4e721635b45c86067a77c24 105629a4315e5465054ebb112c61ebc4b9b2f684 tweezerchef <ltomblock@gmail.com> 1728425850 -0500	commit: chart is loading in the modal, but need to put correct day and date
+105629a4315e5465054ebb112c61ebc4b9b2f684 0fc139b9eaa1d0479cd93a1e1e50d056a4c2f4a2 tweezerchef <ltomblock@gmail.com> 1728431172 -0500	commit: actually workign
+0fc139b9eaa1d0479cd93a1e1e50d056a4c2f4a2 457ea2e9ed2923f395a592d02505e683bb36f419 tweezerchef <ltomblock@gmail.com> 1728432792 -0500	commit: fixed daily challenge?
+457ea2e9ed2923f395a592d02505e683bb36f419 14dea7a512f73f9e9b83aa0999a0b519758402d7 tweezerchef <ltomblock@gmail.com> 1728433871 -0500	commit: one more time
+14dea7a512f73f9e9b83aa0999a0b519758402d7 f84d296d96e21426b9f66e41d27e2306f190a56e tweezerchef <ltomblock@gmail.com> 1728434606 -0500	commit: actuall one more time
+f84d296d96e21426b9f66e41d27e2306f190a56e 184f7f8e724aaa644dc842a714b101a983e30d81 tweezerchef <ltomblock@gmail.com> 1728434811 -0500	checkout: moving from inlineChart to main
+184f7f8e724aaa644dc842a714b101a983e30d81 12501dc220b7b74ba8abd5a79596b26a37e9d7b8 tweezerchef <ltomblock@gmail.com> 1728434819 -0500	pull upstream main: Fast-forward
+12501dc220b7b74ba8abd5a79596b26a37e9d7b8 1449f43fcd23518f072579d1adfe06ec76a7551f tweezerchef <ltomblock@gmail.com> 1728434831 -0500	commit: actuall one more time
+1449f43fcd23518f072579d1adfe06ec76a7551f dc611d2c0914a579a2baaff818385bad13553bb3 tweezerchef <ltomblock@gmail.com> 1728435130 -0500	commit: actuall one more time times two
+dc611d2c0914a579a2baaff818385bad13553bb3 c0e7b71b50bc67fb3cd73ba7204425c4b6b37b75 tweezerchef <ltomblock@gmail.com> 1728435856 -0500	pull upstream main: Fast-forward
+c0e7b71b50bc67fb3cd73ba7204425c4b6b37b75 c0e7b71b50bc67fb3cd73ba7204425c4b6b37b75 tweezerchef <ltomblock@gmail.com> 1728494699 -0500	checkout: moving from main to dev
+c0e7b71b50bc67fb3cd73ba7204425c4b6b37b75 5b94c772ff7c4d6a554acb05a75d1ae177967c14 tweezerchef <ltomblock@gmail.com> 1728496393 -0500	commit: problem with wrong date in DayOf display fixed. fixed some UI in modal to center text and button, Link is now only on button so modal doesn't close when you click/press anywhere else
+5b94c772ff7c4d6a554acb05a75d1ae177967c14 c0e7b71b50bc67fb3cd73ba7204425c4b6b37b75 tweezerchef <ltomblock@gmail.com> 1728497203 -0500	checkout: moving from dev to main
+c0e7b71b50bc67fb3cd73ba7204425c4b6b37b75 46cf3e15c7e7420d81a117fad4b37b12b38b08d2 tweezerchef <ltomblock@gmail.com> 1728497213 -0500	pull upstream main: Fast-forward
+46cf3e15c7e7420d81a117fad4b37b12b38b08d2 46cf3e15c7e7420d81a117fad4b37b12b38b08d2 tweezerchef <ltomblock@gmail.com> 1728497252 -0500	checkout: moving from main to dev
+46cf3e15c7e7420d81a117fad4b37b12b38b08d2 6635d24f0f87b410f042124a5e43b667d889be84 tweezerchef <ltomblock@gmail.com> 1728497286 -0500	commit: align dev with main
+6635d24f0f87b410f042124a5e43b667d889be84 6635d24f0f87b410f042124a5e43b667d889be84 tweezerchef <ltomblock@gmail.com> 1728498116 -0500	checkout: moving from dev to mobileIssue
+6635d24f0f87b410f042124a5e43b667d889be84 c07bd65bce17537d638b3d742f67287d81edb39b tweezerchef <ltomblock@gmail.com> 1728498805 -0500	commit: mobile issue fixed and maxheight on desktop
+c07bd65bce17537d638b3d742f67287d81edb39b 6635d24f0f87b410f042124a5e43b667d889be84 tweezerchef <ltomblock@gmail.com> 1728498856 -0500	checkout: moving from mobileIssue to dev
+6635d24f0f87b410f042124a5e43b667d889be84 08ca528756dfeca5977bc49d290e159fb179250f tweezerchef <ltomblock@gmail.com> 1728498866 -0500	pull origin dev: Fast-forward
+08ca528756dfeca5977bc49d290e159fb179250f 08ca528756dfeca5977bc49d290e159fb179250f tweezerchef <ltomblock@gmail.com> 1728499413 -0500	checkout: moving from dev to loginHeader
+08ca528756dfeca5977bc49d290e159fb179250f c9adff64a75ef7d1f07595dd46414fcdd96dacf4 tweezerchef <ltomblock@gmail.com> 1728501688 -0500	commit: UI changes in login
+c9adff64a75ef7d1f07595dd46414fcdd96dacf4 46cf3e15c7e7420d81a117fad4b37b12b38b08d2 tweezerchef <ltomblock@gmail.com> 1728504409 -0500	checkout: moving from loginHeader to main
+46cf3e15c7e7420d81a117fad4b37b12b38b08d2 64002919b0252ef7e2a0a80fc537b5c4470dd40a tweezerchef <ltomblock@gmail.com> 1728504416 -0500	pull upstream main: Fast-forward
+64002919b0252ef7e2a0a80fc537b5c4470dd40a 64002919b0252ef7e2a0a80fc537b5c4470dd40a tweezerchef <ltomblock@gmail.com> 1728504452 -0500	checkout: moving from main to dev
+64002919b0252ef7e2a0a80fc537b5c4470dd40a c94676332969301d6608c03d91982723b7940c86 tweezerchef <ltomblock@gmail.com> 1728504478 -0500	commit: aligned with main
+c94676332969301d6608c03d91982723b7940c86 c94676332969301d6608c03d91982723b7940c86 tweezerchef <ltomblock@gmail.com> 1728504628 -0500	checkout: moving from dev to modalPoop
+c94676332969301d6608c03d91982723b7940c86 30d7070ee210997650cac035df7279c3ae5aec30 tweezerchef <ltomblock@gmail.com> 1728508957 -0500	commit: we have poop
+30d7070ee210997650cac035df7279c3ae5aec30 64002919b0252ef7e2a0a80fc537b5c4470dd40a tweezerchef <ltomblock@gmail.com> 1728509638 -0500	checkout: moving from modalPoop to main
+64002919b0252ef7e2a0a80fc537b5c4470dd40a 4d3b5a1ad71d327c7cf1b1a59e045fbde3bb1d4a tweezerchef <ltomblock@gmail.com> 1728509650 -0500	pull upstream main: Fast-forward
+4d3b5a1ad71d327c7cf1b1a59e045fbde3bb1d4a 4d3b5a1ad71d327c7cf1b1a59e045fbde3bb1d4a tweezerchef <ltomblock@gmail.com> 1728509700 -0500	checkout: moving from main to dev
+4d3b5a1ad71d327c7cf1b1a59e045fbde3bb1d4a 8a722bd7b0e8d12243d41ce522e1f9fe1a076301 tweezerchef <ltomblock@gmail.com> 1728509729 -0500	commit: dev => main
+8a722bd7b0e8d12243d41ce522e1f9fe1a076301 8a722bd7b0e8d12243d41ce522e1f9fe1a076301 tweezerchef <ltomblock@gmail.com> 1728509810 -0500	checkout: moving from dev to flipAnimation
+8a722bd7b0e8d12243d41ce522e1f9fe1a076301 d185c1c73f9555259ad617ff483e53512b8e4880 tweezerchef <ltomblock@gmail.com> 1728512522 -0500	commit: flip animation improved and dividers to make look like flip board
+d185c1c73f9555259ad617ff483e53512b8e4880 4d3b5a1ad71d327c7cf1b1a59e045fbde3bb1d4a tweezerchef <ltomblock@gmail.com> 1728513094 -0500	checkout: moving from flipAnimation to main
+4d3b5a1ad71d327c7cf1b1a59e045fbde3bb1d4a a3f2a514232257420cce3573794b1538b5400702 tweezerchef <ltomblock@gmail.com> 1728513102 -0500	pull upstream main: Fast-forward
+a3f2a514232257420cce3573794b1538b5400702 a3f2a514232257420cce3573794b1538b5400702 tweezerchef <ltomblock@gmail.com> 1728514020 -0500	checkout: moving from main to dev
+a3f2a514232257420cce3573794b1538b5400702 93afb5c09875eba077d1ca5e8e40cabac4f08d6b tweezerchef <ltomblock@gmail.com> 1728514059 -0500	commit: main => dev
+93afb5c09875eba077d1ca5e8e40cabac4f08d6b 5048dc2d86079c6e0ee14cce079df646d5f09a85 tweezerchef <ltomblock@gmail.com> 1728518665 -0500	commit: I think that the issue with dates is in the array that gets passed to the chart
+5048dc2d86079c6e0ee14cce079df646d5f09a85 124583cf0674d130ed53d286b34d10599fdef5db tweezerchef <ltomblock@gmail.com> 1728569982 -0500	commit: merge review
+124583cf0674d130ed53d286b34d10599fdef5db 124583cf0674d130ed53d286b34d10599fdef5db tweezerchef <ltomblock@gmail.com> 1728569996 -0500	checkout: moving from dev to merge
+124583cf0674d130ed53d286b34d10599fdef5db 75bb2b044fb0aff032d9efde98976a66c0727b2b tweezerchef <ltomblock@gmail.com> 1728570116 -0500	commit: merge review
+75bb2b044fb0aff032d9efde98976a66c0727b2b a3f2a514232257420cce3573794b1538b5400702 tweezerchef <ltomblock@gmail.com> 1728570498 -0500	checkout: moving from merge to main
+a3f2a514232257420cce3573794b1538b5400702 3a69580938d127b5101f190760eea58ea10784be tweezerchef <ltomblock@gmail.com> 1728570505 -0500	pull upstream main: Fast-forward
+3a69580938d127b5101f190760eea58ea10784be 3a69580938d127b5101f190760eea58ea10784be tweezerchef <ltomblock@gmail.com> 1728570548 -0500	checkout: moving from main to dev
+3a69580938d127b5101f190760eea58ea10784be 7b5792e3cb93d61a957b4a675439d3ba02500a94 tweezerchef <ltomblock@gmail.com> 1728570597 -0500	commit: main => dev
+7b5792e3cb93d61a957b4a675439d3ba02500a94 3a69580938d127b5101f190760eea58ea10784be tweezerchef <ltomblock@gmail.com> 1728571066 -0500	checkout: moving from dev to main
+3a69580938d127b5101f190760eea58ea10784be 3a69580938d127b5101f190760eea58ea10784be tweezerchef <ltomblock@gmail.com> 1728572118 -0500	checkout: moving from main to dev
+3a69580938d127b5101f190760eea58ea10784be 3a69580938d127b5101f190760eea58ea10784be tweezerchef <ltomblock@gmail.com> 1728572763 -0500	checkout: moving from dev to dayOfDisplayLegend
+3a69580938d127b5101f190760eea58ea10784be 67ba4038b4173212b637a8db6813e57ee3c07f52 tweezerchef <ltomblock@gmail.com> 1728575734 -0500	commit: first version of legend created using static data
+67ba4038b4173212b637a8db6813e57ee3c07f52 de26c5e3ddd9197db499581e21e09984853529f7 tweezerchef <ltomblock@gmail.com> 1728578457 -0500	commit: colorChange
+de26c5e3ddd9197db499581e21e09984853529f7 8107b4eb53ba0f7c6611d1410a36c1429a6f7ffc tweezerchef <ltomblock@gmail.com> 1728578558 -0500	commit: colorChange
+8107b4eb53ba0f7c6611d1410a36c1429a6f7ffc 15c36d2484ad92dc6717ae4e156f71721625edf2 tweezerchef <ltomblock@gmail.com> 1728578694 -0500	commit: change ignore again
+15c36d2484ad92dc6717ae4e156f71721625edf2 a1161580903270fa520f5f799f92de968f3ea26b tweezerchef <ltomblock@gmail.com> 1728578797 -0500	commit: trying to ignore
+a1161580903270fa520f5f799f92de968f3ea26b 202f4c14d6159f458287d417281a49272abe1d19 tweezerchef <ltomblock@gmail.com> 1728578797 -0500	filter-branch: rewrite
+202f4c14d6159f458287d417281a49272abe1d19 6f4f5697e1d43a3d0388ac43e1e9716a477639d8 tweezerchef <ltomblock@gmail.com> 1728579391 -0500	checkout: moving from dayOfDisplayLegend to main
+6f4f5697e1d43a3d0388ac43e1e9716a477639d8 89aebc66a0b3676ce2611c095293e13aa3ba9575 tweezerchef <ltomblock@gmail.com> 1728579399 -0500	pull origin main: Fast-forward
+89aebc66a0b3676ce2611c095293e13aa3ba9575 18e8cf4e051feb683f2ed07744f9e7bf9f360a3b tweezerchef <ltomblock@gmail.com> 1728579689 -0500	commit: fixed some bugs that happened with merge
+18e8cf4e051feb683f2ed07744f9e7bf9f360a3b 18e8cf4e051feb683f2ed07744f9e7bf9f360a3b tweezerchef <ltomblock@gmail.com> 1728580003 -0500	checkout: moving from main to dev
+18e8cf4e051feb683f2ed07744f9e7bf9f360a3b 18e8cf4e051feb683f2ed07744f9e7bf9f360a3b tweezerchef <ltomblock@gmail.com> 1728580100 -0500	checkout: moving from dev to liveGuessData
+18e8cf4e051feb683f2ed07744f9e7bf9f360a3b b1ca5f60370cc71c5507a031196e7c3c0371b431 tweezerchef <ltomblock@gmail.com> 1728583174 -0500	commit: using live data, UI made more reactive/dynamic
+b1ca5f60370cc71c5507a031196e7c3c0371b431 18e8cf4e051feb683f2ed07744f9e7bf9f360a3b tweezerchef <ltomblock@gmail.com> 1728584181 -0500	checkout: moving from liveGuessData to main
+18e8cf4e051feb683f2ed07744f9e7bf9f360a3b 50eeaeeb9a281d516e2cbb7f7777c4686a7ec265 tweezerchef <ltomblock@gmail.com> 1728584186 -0500	pull upstream main: Fast-forward
+50eeaeeb9a281d516e2cbb7f7777c4686a7ec265 50eeaeeb9a281d516e2cbb7f7777c4686a7ec265 tweezerchef <ltomblock@gmail.com> 1728584226 -0500	checkout: moving from main to dev
+50eeaeeb9a281d516e2cbb7f7777c4686a7ec265 9e0017132d83daa8172c4f4ad543210cf0cbae11 tweezerchef <ltomblock@gmail.com> 1728603290 -0500	commit: newB
+9e0017132d83daa8172c4f4ad543210cf0cbae11 9e0017132d83daa8172c4f4ad543210cf0cbae11 tweezerchef <ltomblock@gmail.com> 1728664417 -0500	checkout: moving from dev to accelerate
+9e0017132d83daa8172c4f4ad543210cf0cbae11 723e5cad3e691b0668c1820c6d33d9cb95e98d48 tweezerchef <ltomblock@gmail.com> 1728664630 -0500	commit: with accelerate
+723e5cad3e691b0668c1820c6d33d9cb95e98d48 e80787c5791907c52e2007e28c9cc89faa1b6e8b tweezerchef <ltomblock@gmail.com> 1728665517 -0500	commit: directURL
+e80787c5791907c52e2007e28c9cc89faa1b6e8b e80787c5791907c52e2007e28c9cc89faa1b6e8b tweezerchef <ltomblock@gmail.com> 1728665622 -0500	checkout: moving from accelerate to ac2
+e80787c5791907c52e2007e28c9cc89faa1b6e8b 9e0017132d83daa8172c4f4ad543210cf0cbae11 tweezerchef <ltomblock@gmail.com> 1728667167 -0500	checkout: moving from ac2 to dev
+9e0017132d83daa8172c4f4ad543210cf0cbae11 4c43f6e02997edefc9bd52e5245a2ccf2fae15e3 tweezerchef <ltomblock@gmail.com> 1728668852 -0500	commit: back to square one
+4c43f6e02997edefc9bd52e5245a2ccf2fae15e3 9e2989234e8edc18483d87a9ca55716ae8c01502 tweezerchef <ltomblock@gmail.com> 1728678843 -0500	commit: daily challenge
+9e2989234e8edc18483d87a9ca55716ae8c01502 6b7d723760ac2da78d1d869148d9d8a6bb9d767d tweezerchef <ltomblock@gmail.com> 1728678991 -0500	commit: p
+6b7d723760ac2da78d1d869148d9d8a6bb9d767d 6b7d723760ac2da78d1d869148d9d8a6bb9d767d tweezerchef <ltomblock@gmail.com> 1728679001 -0500	checkout: moving from dev to p
+6b7d723760ac2da78d1d869148d9d8a6bb9d767d c3a2a040ef00f39fb2fd6fba33ee7b33386f73f4 tweezerchef <ltomblock@gmail.com> 1728682699 -0500	commit: vh => dvh
+c3a2a040ef00f39fb2fd6fba33ee7b33386f73f4 6d1edf7e45c0239f2deee405de6c683cf3a2290c tweezerchef <ltomblock@gmail.com> 1728692442 -0500	commit: ready to merge
+6d1edf7e45c0239f2deee405de6c683cf3a2290c 50eeaeeb9a281d516e2cbb7f7777c4686a7ec265 tweezerchef <ltomblock@gmail.com> 1728692704 -0500	checkout: moving from p to main
+50eeaeeb9a281d516e2cbb7f7777c4686a7ec265 b8e6c6991e7347e0eea20caf3f8e3500c4fa9c7d tweezerchef <ltomblock@gmail.com> 1728692713 -0500	pull upstream main: Fast-forward
+b8e6c6991e7347e0eea20caf3f8e3500c4fa9c7d b8e6c6991e7347e0eea20caf3f8e3500c4fa9c7d tweezerchef <ltomblock@gmail.com> 1728753343 -0500	checkout: moving from main to vh
+b8e6c6991e7347e0eea20caf3f8e3500c4fa9c7d 51f19c20c268f7ce850200daa422b775f6f9855f tweezerchef <ltomblock@gmail.com> 1728753502 -0500	commit: fixed more dvh
+51f19c20c268f7ce850200daa422b775f6f9855f 51f19c20c268f7ce850200daa422b775f6f9855f tweezerchef <ltomblock@gmail.com> 1728757509 -0500	reset: moving to HEAD
+51f19c20c268f7ce850200daa422b775f6f9855f 51f19c20c268f7ce850200daa422b775f6f9855f tweezerchef <ltomblock@gmail.com> 1728757509 -0500	reset: moving to HEAD
+51f19c20c268f7ce850200daa422b775f6f9855f 51f19c20c268f7ce850200daa422b775f6f9855f tweezerchef <ltomblock@gmail.com> 1728757641 -0500	reset: moving to HEAD
+51f19c20c268f7ce850200daa422b775f6f9855f 51f19c20c268f7ce850200daa422b775f6f9855f tweezerchef <ltomblock@gmail.com> 1728757641 -0500	reset: moving to HEAD
+51f19c20c268f7ce850200daa422b775f6f9855f aa3ce9b420f67c6e4583dedd5db1c51015ecbd30 tweezerchef <ltomblock@gmail.com> 1728757852 -0500	commit: DailyChallengeContext
+aa3ce9b420f67c6e4583dedd5db1c51015ecbd30 aa3ce9b420f67c6e4583dedd5db1c51015ecbd30 tweezerchef <ltomblock@gmail.com> 1728761240 -0500	reset: moving to HEAD
+aa3ce9b420f67c6e4583dedd5db1c51015ecbd30 aa3ce9b420f67c6e4583dedd5db1c51015ecbd30 tweezerchef <ltomblock@gmail.com> 1728761240 -0500	reset: moving to HEAD
+aa3ce9b420f67c6e4583dedd5db1c51015ecbd30 ac178d796ef238283201d067755a227a07cac8b2 tweezerchef <ltomblock@gmail.com> 1728766025 -0500	commit: ?
+ac178d796ef238283201d067755a227a07cac8b2 5e450e74f1d625bf5eea8df230fd2014a0f2e42c tweezerchef <ltomblock@gmail.com> 1728766971 -0500	commit: chart data normilized
+5e450e74f1d625bf5eea8df230fd2014a0f2e42c 5e450e74f1d625bf5eea8df230fd2014a0f2e42c tweezerchef <ltomblock@gmail.com> 1728766987 -0500	checkout: moving from vh to curency
+5e450e74f1d625bf5eea8df230fd2014a0f2e42c b8e6c6991e7347e0eea20caf3f8e3500c4fa9c7d tweezerchef <ltomblock@gmail.com> 1728767378 -0500	checkout: moving from curency to main
+b8e6c6991e7347e0eea20caf3f8e3500c4fa9c7d e380e11ad732e7bdbd0e117ed66746850fff9bdd tweezerchef <ltomblock@gmail.com> 1728767385 -0500	pull upstream main: Fast-forward
+e380e11ad732e7bdbd0e117ed66746850fff9bdd e380e11ad732e7bdbd0e117ed66746850fff9bdd tweezerchef <ltomblock@gmail.com> 1728773261 -0500	checkout: moving from main to currencyDayOf
+e380e11ad732e7bdbd0e117ed66746850fff9bdd 61ba3fe73ead037e82aad143066dd95f24082d40 tweezerchef <ltomblock@gmail.com> 1728773283 -0500	commit: currencyDayOf data loading and displaying
+61ba3fe73ead037e82aad143066dd95f24082d40 e380e11ad732e7bdbd0e117ed66746850fff9bdd tweezerchef <ltomblock@gmail.com> 1728773746 -0500	checkout: moving from currencyDayOf to main
+e380e11ad732e7bdbd0e117ed66746850fff9bdd 79e4a0813852bd94e05585095e7928d732478665 tweezerchef <ltomblock@gmail.com> 1728773761 -0500	pull upstream main: Fast-forward
+79e4a0813852bd94e05585095e7928d732478665 79e4a0813852bd94e05585095e7928d732478665 tweezerchef <ltomblock@gmail.com> 1728773806 -0500	checkout: moving from main to currencyGuess
+79e4a0813852bd94e05585095e7928d732478665 94195f76ec2eb88a7d752bc896cd1c35d443f4c7 tweezerchef <ltomblock@gmail.com> 1728774244 -0500	commit: added image to day of
+94195f76ec2eb88a7d752bc896cd1c35d443f4c7 e53836c251684b336807159f5e458a66c6beb383 tweezerchef <ltomblock@gmail.com> 1728776948 -0500	commit: currency arrow decider function done, range and chart values returning correctly
+e53836c251684b336807159f5e458a66c6beb383 8a9e034286e96872a502bab234389ec03ca8e6cd tweezerchef <ltomblock@gmail.com> 1728777013 -0500	commit: currency arrow decider function done, range and chart values returning correctly
+8a9e034286e96872a502bab234389ec03ca8e6cd 32cc457198d38dbd33a13a016b818a5d56c5b186 tweezerchef <ltomblock@gmail.com> 1728855528 -0500	commit: BE for currency Guess built, need to work on FE
+32cc457198d38dbd33a13a016b818a5d56c5b186 579445591b93320f7002adfa2b44af871e156b1c tweezerchef <ltomblock@gmail.com> 1728857180 -0500	commit: dates normilized on chart data
+579445591b93320f7002adfa2b44af871e156b1c d08b5e937d66c5c8071512309e673e7723770874 tweezerchef <ltomblock@gmail.com> 1728862219 -0500	commit: currencyguess rendering, need to fix problem with modal
+d08b5e937d66c5c8071512309e673e7723770874 85e8965cb41a50d7c2106eb3437012022c1e2564 tweezerchef <ltomblock@gmail.com> 1728863964 -0500	commit: currencyGuess working, need to work on chart
+85e8965cb41a50d7c2106eb3437012022c1e2564 1f4efe3a477d24dec6e65ef6557c3157d8b50bf4 tweezerchef <ltomblock@gmail.com> 1728924159 -0500	commit: test for new DB
+1f4efe3a477d24dec6e65ef6557c3157d8b50bf4 7e48b3e41b9ec31c11cac0e313e8078b6d9cad88 tweezerchef <ltomblock@gmail.com> 1728934022 -0500	commit: currency chart working
+7e48b3e41b9ec31c11cac0e313e8078b6d9cad88 79e4a0813852bd94e05585095e7928d732478665 tweezerchef <ltomblock@gmail.com> 1728934263 -0500	checkout: moving from currencyGuess to main
+79e4a0813852bd94e05585095e7928d732478665 6db89d8c8da1dbddc7da80c9959acff053cb116c tweezerchef <ltomblock@gmail.com> 1728934271 -0500	pull upstream main: Fast-forward
+6db89d8c8da1dbddc7da80c9959acff053cb116c 6db89d8c8da1dbddc7da80c9959acff053cb116c tweezerchef <ltomblock@gmail.com> 1728934322 -0500	checkout: moving from main to currDayOfTicker
+6db89d8c8da1dbddc7da80c9959acff053cb116c dc03a7cb8996bfaea6eb0f2671fd2c40e30fb3f0 tweezerchef <ltomblock@gmail.com> 1728943225 -0500	commit: working better but still sucks
+dc03a7cb8996bfaea6eb0f2671fd2c40e30fb3f0 49a07494a0332e5322a706ae1715ed74441874d0 tweezerchef <ltomblock@gmail.com> 1728945762 -0500	commit: deleted unused files, and reorginzed to make more sense
+49a07494a0332e5322a706ae1715ed74441874d0 8e895de6d3eddc02cd05d41feecb386210554f4c tweezerchef <ltomblock@gmail.com> 1728946605 -0500	commit: currency day of ticker is working
+8e895de6d3eddc02cd05d41feecb386210554f4c 98f97c296e68bde217d0eec68976e82f3f4104cd tweezerchef <ltomblock@gmail.com> 1728949337 -0500	commit: ticker 100%
+98f97c296e68bde217d0eec68976e82f3f4104cd 98a97ba82e6ed6014320c81ce9330171afd58c07 tweezerchef <ltomblock@gmail.com> 1728949767 -0500	commit: cleaned up console logs and got rid of unneccesary variables in currency guess
+98a97ba82e6ed6014320c81ce9330171afd58c07 7156d64b8a58f563b0319a942cb9c8c36d4e5224 tweezerchef <ltomblock@gmail.com> 1728951374 -0500	commit: ready to push
+7156d64b8a58f563b0319a942cb9c8c36d4e5224 7156d64b8a58f563b0319a942cb9c8c36d4e5224 tweezerchef <ltomblock@gmail.com> 1729015541 -0500	reset: moving to HEAD
+7156d64b8a58f563b0319a942cb9c8c36d4e5224 7156d64b8a58f563b0319a942cb9c8c36d4e5224 tweezerchef <ltomblock@gmail.com> 1729015541 -0500	reset: moving to HEAD
+7156d64b8a58f563b0319a942cb9c8c36d4e5224 090754469b33c8b28c338f6e9ea898fb377d42d7 tweezerchef <ltomblock@gmail.com> 1729017806 -0500	commit: fixed currency chart
+090754469b33c8b28c338f6e9ea898fb377d42d7 bd00931746b29bfa463cce96b9e01408be97235b tweezerchef <ltomblock@gmail.com> 1729017944 -0500	commit: removed extra console logs
+bd00931746b29bfa463cce96b9e01408be97235b 328819515b1dc84052ad1e507fa36d97abf37468 tweezerchef <ltomblock@gmail.com> 1729018986 -0500	commit: minor change to nextModal
+328819515b1dc84052ad1e507fa36d97abf37468 6db89d8c8da1dbddc7da80c9959acff053cb116c tweezerchef <ltomblock@gmail.com> 1729019029 -0500	checkout: moving from currDayOfTicker to main
+6db89d8c8da1dbddc7da80c9959acff053cb116c 18df3f26bd39d403fcf12086a86607751fe4b140 tweezerchef <ltomblock@gmail.com> 1729019049 -0500	pull upstream main: Fast-forward
+18df3f26bd39d403fcf12086a86607751fe4b140 18df3f26bd39d403fcf12086a86607751fe4b140 tweezerchef <ltomblock@gmail.com> 1729019147 -0500	checkout: moving from main to dev
+18df3f26bd39d403fcf12086a86607751fe4b140 4632f84d788a27e63d7ae0f393bf1b35d9cf07d9 tweezerchef <ltomblock@gmail.com> 1729033556 -0500	commit: created new logo, created populate route for stocks and populated db
+4632f84d788a27e63d7ae0f393bf1b35d9cf07d9 b39b655e8914111040c81d3dd84982ebf9a693d5 tweezerchef <ltomblock@gmail.com> 1729034451 -0500	commit: added stocks to daily challenge
+b39b655e8914111040c81d3dd84982ebf9a693d5 2c9b3ff2613faf744d7a95054674f03e1b70ea68 tweezerchef <ltomblock@gmail.com> 1729037108 -0500	commit: fectching daily challenge complete
+2c9b3ff2613faf744d7a95054674f03e1b70ea68 5dd683d73ec0af26d37bd4f335346fbf3c6d34cd tweezerchef <ltomblock@gmail.com> 1729096191 -0500	commit: changing branch stock file structure made
+5dd683d73ec0af26d37bd4f335346fbf3c6d34cd 84523a6ed67e7ef38bc5b96e1f12b315417b758e tweezerchef <ltomblock@gmail.com> 1729096209 -0500	commit: changing branch stock file structure made
+84523a6ed67e7ef38bc5b96e1f12b315417b758e 84523a6ed67e7ef38bc5b96e1f12b315417b758e tweezerchef <ltomblock@gmail.com> 1729096220 -0500	checkout: moving from dev to stockFE
+84523a6ed67e7ef38bc5b96e1f12b315417b758e 74afa1d208bd8ac39620223eaee922a9bf862773 tweezerchef <ltomblock@gmail.com> 1729099025 -0500	commit: had to fix more bugs with context and chart data
+74afa1d208bd8ac39620223eaee922a9bf862773 35b24971c7c9052ef854c4e96d5e97d542f74019 tweezerchef <ltomblock@gmail.com> 1729099826 -0500	commit: fixed date issue in currencyDayOfInfo
+35b24971c7c9052ef854c4e96d5e97d542f74019 1118bcc826a2a6773bcada717b961f2c3124474a tweezerchef <ltomblock@gmail.com> 1729107695 -0500	commit: stock pages basic set up needs to tweek
+1118bcc826a2a6773bcada717b961f2c3124474a 22b43aa11742f48c426badd5e9f57f18eddc4721 tweezerchef <ltomblock@gmail.com> 1729108660 -0500	commit: errors in route
+22b43aa11742f48c426badd5e9f57f18eddc4721 ff2fc3825c435b9ccaf6e7358f2b168a6371ab9c tweezerchef <ltomblock@gmail.com> 1729109656 -0500	commit: stockFE and backEnd mostly working need to work out some kinks
+ff2fc3825c435b9ccaf6e7358f2b168a6371ab9c 5f5f495771712949e0819eab471932ac86466955 tweezerchef <ltomblock@gmail.com> 1729110670 -0500	commit: ready to upload to main
+5f5f495771712949e0819eab471932ac86466955 6347f3b692508a44b3e5642bad357966fd5f98f2 tweezerchef <ltomblock@gmail.com> 1729111526 -0500	commit: few small changes, added image for stock, resized logo, added priority tag
+6347f3b692508a44b3e5642bad357966fd5f98f2 18df3f26bd39d403fcf12086a86607751fe4b140 tweezerchef <ltomblock@gmail.com> 1729111809 -0500	checkout: moving from stockFE to main
+18df3f26bd39d403fcf12086a86607751fe4b140 1d01d829c8b68710c67468b4394bfa79d3287da3 tweezerchef <ltomblock@gmail.com> 1729111880 -0500	pull upstream main: Fast-forward
+1d01d829c8b68710c67468b4394bfa79d3287da3 2f977f88fdf6ab4d5575be619de5222c28c4a5a2 tweezerchef <ltomblock@gmail.com> 1729113632 -0500	commit: optimized favicon
+2f977f88fdf6ab4d5575be619de5222c28c4a5a2 a796a5f7f9c7b8bbf4fc8efaf8970acaf4997cde tweezerchef <ltomblock@gmail.com> 1729114236 -0500	commit: updated daily challenge function
+a796a5f7f9c7b8bbf4fc8efaf8970acaf4997cde 94fc2d588029bf0ad0bbb18075a90bb2d13cca4b tweezerchef <ltomblock@gmail.com> 1729114895 -0500	commit: added routing in authenticated game so when nextCatagory = null it reroutes to /game/final
+94fc2d588029bf0ad0bbb18075a90bb2d13cca4b 913bb7ba09beee28a6ab10359d1ba7c7096db745 tweezerchef <ltomblock@gmail.com> 1729117453 -0500	commit: created basic algo for score
+913bb7ba09beee28a6ab10359d1ba7c7096db745 d3381d98391fa4688a8c279bedf9c32f87ad3bb9 tweezerchef <ltomblock@gmail.com> 1729117738 -0500	commit: invoking scoreFunctio on stock guess route when isComplete is true
+d3381d98391fa4688a8c279bedf9c32f87ad3bb9 f9d9887d12cd5d076342070eeb8d4464ddeb8461 tweezerchef <ltomblock@gmail.com> 1729118264 -0500	commit: small changes in scoring function
+f9d9887d12cd5d076342070eeb8d4464ddeb8461 14188ee377be9b907b48a2411190a98744a30927 tweezerchef <ltomblock@gmail.com> 1729122814 -0500	commit: IR pulling from context as well
+14188ee377be9b907b48a2411190a98744a30927 3f2ca70952bf121c24c7b1bdbd30e5fa3c10719d tweezerchef <ltomblock@gmail.com> 1729123818 -0500	commit: optimized login header image
+3f2ca70952bf121c24c7b1bdbd30e5fa3c10719d 3f2ca70952bf121c24c7b1bdbd30e5fa3c10719d tweezerchef <ltomblock@gmail.com> 1729268817 -0500	checkout: moving from main to lbPrisma
+3f2ca70952bf121c24c7b1bdbd30e5fa3c10719d da385443dd5ea3c7d9fa6da6bfab715372126197 tweezerchef <ltomblock@gmail.com> 1729269851 -0500	commit: prisma added for leaderboard and some package updates
+da385443dd5ea3c7d9fa6da6bfab715372126197 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729270366 -0500	commit: added percent close to result catatagory in prisma schema
+0b303f9f534875ec4b8526ac79176aaf4034ad34 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729271834 -0500	reset: moving to HEAD
+0b303f9f534875ec4b8526ac79176aaf4034ad34 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729271834 -0500	reset: moving to HEAD
+0b303f9f534875ec4b8526ac79176aaf4034ad34 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729271926 -0500	reset: moving to HEAD
+0b303f9f534875ec4b8526ac79176aaf4034ad34 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729271926 -0500	reset: moving to HEAD
+0b303f9f534875ec4b8526ac79176aaf4034ad34 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729271969 -0500	reset: moving to HEAD
+0b303f9f534875ec4b8526ac79176aaf4034ad34 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729271969 -0500	reset: moving to HEAD
+0b303f9f534875ec4b8526ac79176aaf4034ad34 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729272043 -0500	reset: moving to HEAD
+0b303f9f534875ec4b8526ac79176aaf4034ad34 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729272043 -0500	reset: moving to HEAD
+0b303f9f534875ec4b8526ac79176aaf4034ad34 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729272114 -0500	reset: moving to HEAD
+0b303f9f534875ec4b8526ac79176aaf4034ad34 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729272114 -0500	reset: moving to HEAD
+0b303f9f534875ec4b8526ac79176aaf4034ad34 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729272179 -0500	reset: moving to HEAD
+0b303f9f534875ec4b8526ac79176aaf4034ad34 0b303f9f534875ec4b8526ac79176aaf4034ad34 tweezerchef <ltomblock@gmail.com> 1729272179 -0500	reset: moving to HEAD
+0b303f9f534875ec4b8526ac79176aaf4034ad34 faec24e88bf658d768e2b027c55362660703b65c tweezerchef <ltomblock@gmail.com> 1729272309 -0500	commit: updated score function to include percent close
+faec24e88bf658d768e2b027c55362660703b65c 601d0172634c4f2e0dd27fb4aeaa1ced3360b68f tweezerchef <ltomblock@gmail.com> 1729272855 -0500	commit: percentclose added to currency
+601d0172634c4f2e0dd27fb4aeaa1ced3360b68f 194d3725a3a64cfb422e42de8bb2a4eca2332c0c tweezerchef <ltomblock@gmail.com> 1729274112 -0500	commit: added percent close to IR
+194d3725a3a64cfb422e42de8bb2a4eca2332c0c a4fb986103c1b8f6e8fcbe5ebf85d59d32cacc8f tweezerchef <ltomblock@gmail.com> 1729274887 -0500	commit: all three catagories should submitting percent close
+a4fb986103c1b8f6e8fcbe5ebf85d59d32cacc8f fbce51a771dcc7e931fcc90f0d4d11568882285b tweezerchef <ltomblock@gmail.com> 1729275166 -0500	commit: updated create daily challenge
+fbce51a771dcc7e931fcc90f0d4d11568882285b 2d3a8439ed787da4552b3ee8060f7587a7fc6a6c tweezerchef <ltomblock@gmail.com> 1729277107 -0500	commit: percent close is working error in how values are being passed to currency chart
+2d3a8439ed787da4552b3ee8060f7587a7fc6a6c f45644bc4e3bc8762337cf35d1d648dc557bf1dc tweezerchef <ltomblock@gmail.com> 1729281622 -0500	commit: all charts seem to be working with correct decimal placement
+f45644bc4e3bc8762337cf35d1d648dc557bf1dc 3f2ca70952bf121c24c7b1bdbd30e5fa3c10719d tweezerchef <ltomblock@gmail.com> 1729281990 -0500	checkout: moving from lbPrisma to main
+3f2ca70952bf121c24c7b1bdbd30e5fa3c10719d afed1e376f8aa679879f2bd61639c5c20a79bda6 tweezerchef <ltomblock@gmail.com> 1729281995 -0500	pull upstream main: Fast-forward
+afed1e376f8aa679879f2bd61639c5c20a79bda6 f45644bc4e3bc8762337cf35d1d648dc557bf1dc tweezerchef <ltomblock@gmail.com> 1729282166 -0500	checkout: moving from main to lbPrisma
+f45644bc4e3bc8762337cf35d1d648dc557bf1dc afed1e376f8aa679879f2bd61639c5c20a79bda6 tweezerchef <ltomblock@gmail.com> 1729282291 -0500	checkout: moving from lbPrisma to main
+afed1e376f8aa679879f2bd61639c5c20a79bda6 60de47749c7ea7a5a6c51a140f1f7da146c953ce tweezerchef <ltomblock@gmail.com> 1729282299 -0500	pull upstream main: Fast-forward
+60de47749c7ea7a5a6c51a140f1f7da146c953ce 60de47749c7ea7a5a6c51a140f1f7da146c953ce tweezerchef <ltomblock@gmail.com> 1729282442 -0500	checkout: moving from main to dev
+60de47749c7ea7a5a6c51a140f1f7da146c953ce 60de47749c7ea7a5a6c51a140f1f7da146c953ce tweezerchef <ltomblock@gmail.com> 1729282840 -0500	checkout: moving from dev to nAuth
+60de47749c7ea7a5a6c51a140f1f7da146c953ce 60de47749c7ea7a5a6c51a140f1f7da146c953ce tweezerchef <ltomblock@gmail.com> 1729285352 -0500	reset: moving to HEAD
+60de47749c7ea7a5a6c51a140f1f7da146c953ce 60de47749c7ea7a5a6c51a140f1f7da146c953ce tweezerchef <ltomblock@gmail.com> 1729285353 -0500	reset: moving to HEAD
+60de47749c7ea7a5a6c51a140f1f7da146c953ce d76dbca7844fa690189f31c7f3c7caa226154201 tweezerchef <ltomblock@gmail.com> 1729287040 -0500	commit: working on building new routes
+d76dbca7844fa690189f31c7f3c7caa226154201 b56f1764fda789e945ebbd0bcd5c10fd94c8e3d4 tweezerchef <ltomblock@gmail.com> 1729291823 -0500	commit: auth somewhat working, need to handle session storage ect on FE
+b56f1764fda789e945ebbd0bcd5c10fd94c8e3d4 9e79ba246e765c420a28847084a5d7529a9e3683 tweezerchef <ltomblock@gmail.com> 1729293203 -0500	commit: loging with guest or regular login seems to be working with session and nextAuth
+9e79ba246e765c420a28847084a5d7529a9e3683 9e79ba246e765c420a28847084a5d7529a9e3683 tweezerchef <ltomblock@gmail.com> 1729379290 -0500	reset: moving to HEAD
+9e79ba246e765c420a28847084a5d7529a9e3683 9e79ba246e765c420a28847084a5d7529a9e3683 tweezerchef <ltomblock@gmail.com> 1729379299 -0500	checkout: moving from nAuth to nAuth
+9e79ba246e765c420a28847084a5d7529a9e3683 60de47749c7ea7a5a6c51a140f1f7da146c953ce tweezerchef <ltomblock@gmail.com> 1729379306 -0500	checkout: moving from nAuth to dev
+60de47749c7ea7a5a6c51a140f1f7da146c953ce 60de47749c7ea7a5a6c51a140f1f7da146c953ce tweezerchef <ltomblock@gmail.com> 1729523406 -0500	reset: moving to HEAD
+60de47749c7ea7a5a6c51a140f1f7da146c953ce 60de47749c7ea7a5a6c51a140f1f7da146c953ce tweezerchef <ltomblock@gmail.com> 1729523406 -0500	reset: moving to HEAD
+60de47749c7ea7a5a6c51a140f1f7da146c953ce ae3c641be2173408b40ed36f9d16491f0722cdb0 tweezerchef <ltomblock@gmail.com> 1729523477 -0500	commit: working on new auth
+ae3c641be2173408b40ed36f9d16491f0722cdb0 2baf7034facacfbb9cbe2c2ca3cde15d39d8bc74 tweezerchef <ltomblock@gmail.com> 1729523488 -0500	commit: working on new auth
+2baf7034facacfbb9cbe2c2ca3cde15d39d8bc74 2baf7034facacfbb9cbe2c2ca3cde15d39d8bc74 tweezerchef <ltomblock@gmail.com> 1729523500 -0500	checkout: moving from dev to newAuth
+2baf7034facacfbb9cbe2c2ca3cde15d39d8bc74 2baf7034facacfbb9cbe2c2ca3cde15d39d8bc74 tweezerchef <ltomblock@gmail.com> 1729525959 -0500	reset: moving to HEAD
+2baf7034facacfbb9cbe2c2ca3cde15d39d8bc74 2baf7034facacfbb9cbe2c2ca3cde15d39d8bc74 tweezerchef <ltomblock@gmail.com> 1729525959 -0500	reset: moving to HEAD
+2baf7034facacfbb9cbe2c2ca3cde15d39d8bc74 3193951d68fe73aa498330ea7384c041c3fcfcf8 tweezerchef <ltomblock@gmail.com> 1729526206 -0500	commit: newAuth begening stages implimented
+3193951d68fe73aa498330ea7384c041c3fcfcf8 d8b6717799c88768c8f0889ba2034b38f8343a0e tweezerchef <ltomblock@gmail.com> 1729528864 -0500	commit: new auth implemented, session ID stored in jwt token
+d8b6717799c88768c8f0889ba2034b38f8343a0e 60de47749c7ea7a5a6c51a140f1f7da146c953ce tweezerchef <ltomblock@gmail.com> 1729529420 -0500	checkout: moving from newAuth to main
+60de47749c7ea7a5a6c51a140f1f7da146c953ce 584c6f6546699e0541c845f7a0495807c046ac6d tweezerchef <ltomblock@gmail.com> 1729529427 -0500	pull upstream main: Fast-forward
+584c6f6546699e0541c845f7a0495807c046ac6d 584c6f6546699e0541c845f7a0495807c046ac6d tweezerchef <ltomblock@gmail.com> 1729531253 -0500	checkout: moving from main to heat
+584c6f6546699e0541c845f7a0495807c046ac6d 4e95c5132e235b99584e8afe7143a9b013687515 tweezerchef <ltomblock@gmail.com> 1729537958 -0500	commit: currency guess display using Heat
+4e95c5132e235b99584e8afe7143a9b013687515 680545e3be110d18aa9f79c014f7e2561116675c tweezerchef <ltomblock@gmail.com> 1729540479 -0500	commit: improved auth and heat
+680545e3be110d18aa9f79c014f7e2561116675c 9bf2273626a8e1e07becabc8928a98f9b111597e tweezerchef <ltomblock@gmail.com> 1729541608 -0500	commit: heat on stock
+9bf2273626a8e1e07becabc8928a98f9b111597e 584c6f6546699e0541c845f7a0495807c046ac6d tweezerchef <ltomblock@gmail.com> 1729543493 -0500	checkout: moving from heat to main
+584c6f6546699e0541c845f7a0495807c046ac6d 2e008e549a14eaa1a553bc9f5b45a54a3178759e tweezerchef <ltomblock@gmail.com> 1729543498 -0500	pull upstream main: Fast-forward
+2e008e549a14eaa1a553bc9f5b45a54a3178759e 2e008e549a14eaa1a553bc9f5b45a54a3178759e tweezerchef <ltomblock@gmail.com> 1729543565 -0500	checkout: moving from main to shorten
+2e008e549a14eaa1a553bc9f5b45a54a3178759e fb484ffae5c5d2c526f85c3a983998a73e990049 tweezerchef <ltomblock@gmail.com> 1729546590 -0500	commit: almost there with currency adjustments
+fb484ffae5c5d2c526f85c3a983998a73e990049 7bed0f164a5eba5f3f0a5078ba69672953344f13 tweezerchef <ltomblock@gmail.com> 1729546919 -0500	commit: currency seems to be working, I'm worried about different decimal places though
+7bed0f164a5eba5f3f0a5078ba69672953344f13 7bed0f164a5eba5f3f0a5078ba69672953344f13 tweezerchef <ltomblock@gmail.com> 1729549709 -0500	reset: moving to HEAD
+7bed0f164a5eba5f3f0a5078ba69672953344f13 7bed0f164a5eba5f3f0a5078ba69672953344f13 tweezerchef <ltomblock@gmail.com> 1729549709 -0500	reset: moving to HEAD
+7bed0f164a5eba5f3f0a5078ba69672953344f13 aed6f45e77301a2eba54f0f7fba050377799be62 tweezerchef <ltomblock@gmail.com> 1729549782 -0500	commit: short works
+aed6f45e77301a2eba54f0f7fba050377799be62 2e008e549a14eaa1a553bc9f5b45a54a3178759e tweezerchef <ltomblock@gmail.com> 1729551320 -0500	checkout: moving from shorten to main
+2e008e549a14eaa1a553bc9f5b45a54a3178759e bf6af13d81e2f213c56fac463f5add48348d4c1a tweezerchef <ltomblock@gmail.com> 1729551331 -0500	pull upstream main: Fast-forward
+bf6af13d81e2f213c56fac463f5add48348d4c1a bf6af13d81e2f213c56fac463f5add48348d4c1a tweezerchef <ltomblock@gmail.com> 1729623245 -0500	checkout: moving from main to google
+bf6af13d81e2f213c56fac463f5add48348d4c1a da190f5d63510d7d2f564c1f5e61018be60e6d6d tweezerchef <ltomblock@gmail.com> 1729627165 -0500	commit: back to NextAuth LOL
+da190f5d63510d7d2f564c1f5e61018be60e6d6d f9bf0cc2ff848ce609cae90da0fea9279c27ef6c tweezerchef <ltomblock@gmail.com> 1729633564 -0500	commit: google auth is working, but need to handle redirect etc
+f9bf0cc2ff848ce609cae90da0fea9279c27ef6c da190f5d63510d7d2f564c1f5e61018be60e6d6d tweezerchef <ltomblock@gmail.com> 1729638971 -0500	reset: moving to HEAD~1
+da190f5d63510d7d2f564c1f5e61018be60e6d6d bf6af13d81e2f213c56fac463f5add48348d4c1a tweezerchef <ltomblock@gmail.com> 1729639002 -0500	reset: moving to HEAD~1
+bf6af13d81e2f213c56fac463f5add48348d4c1a bf6af13d81e2f213c56fac463f5add48348d4c1a tweezerchef <ltomblock@gmail.com> 1729639147 -0500	checkout: moving from google to main
+bf6af13d81e2f213c56fac463f5add48348d4c1a bf6af13d81e2f213c56fac463f5add48348d4c1a tweezerchef <ltomblock@gmail.com> 1729639427 -0500	checkout: moving from main to fuckAuth
+bf6af13d81e2f213c56fac463f5add48348d4c1a bf6af13d81e2f213c56fac463f5add48348d4c1a tweezerchef <ltomblock@gmail.com> 1729639913 -0500	reset: moving to HEAD
+bf6af13d81e2f213c56fac463f5add48348d4c1a bf6af13d81e2f213c56fac463f5add48348d4c1a tweezerchef <ltomblock@gmail.com> 1729639913 -0500	reset: moving to HEAD
+bf6af13d81e2f213c56fac463f5add48348d4c1a bd42c3cfefffd4960fe761cf3682707ef05d9262 tweezerchef <ltomblock@gmail.com> 1729639984 -0500	commit: have to reset computer
+bd42c3cfefffd4960fe761cf3682707ef05d9262 a0a6e4c602e58b385505f4c11b8c4bbf62007fd4 tweezerchef <ltomblock@gmail.com> 1729640745 -0500	commit: google auth working but needs improvments
+a0a6e4c602e58b385505f4c11b8c4bbf62007fd4 0657df2f91497fdb534731635d6161efaf053f36 tweezerchef <ltomblock@gmail.com> 1729641686 -0500	commit: ready to merge, still need to build register
+0657df2f91497fdb534731635d6161efaf053f36 bf6af13d81e2f213c56fac463f5add48348d4c1a tweezerchef <ltomblock@gmail.com> 1729641783 -0500	checkout: moving from fuckAuth to main
+bf6af13d81e2f213c56fac463f5add48348d4c1a 20addde25006e781123b86945b7b857b6dcf8291 tweezerchef <ltomblock@gmail.com> 1729641788 -0500	pull upstream main: Fast-forward
+20addde25006e781123b86945b7b857b6dcf8291 969c2772464c289b7d55231354fdd233fecf3214 tweezerchef <ltomblock@gmail.com> 1729703816 -0500	commit: aligning regular log in route with google log in
+969c2772464c289b7d55231354fdd233fecf3214 969c2772464c289b7d55231354fdd233fecf3214 tweezerchef <ltomblock@gmail.com> 1729703831 -0500	checkout: moving from main to gReg
+969c2772464c289b7d55231354fdd233fecf3214 2ceae63a25994c605651bc15479f9e8257dd0c93 tweezerchef <ltomblock@gmail.com> 1729707282 -0500	commit: google reg working
+2ceae63a25994c605651bc15479f9e8257dd0c93 969c2772464c289b7d55231354fdd233fecf3214 tweezerchef <ltomblock@gmail.com> 1729712915 -0500	checkout: moving from gReg to main
+969c2772464c289b7d55231354fdd233fecf3214 577342621d74620fc393ffdd4727e143b76f9b51 tweezerchef <ltomblock@gmail.com> 1729712923 -0500	pull upstream main: Fast-forward
+577342621d74620fc393ffdd4727e143b76f9b51 577342621d74620fc393ffdd4727e143b76f9b51 tweezerchef <ltomblock@gmail.com> 1729713049 -0500	checkout: moving from main to fixInitializer
+577342621d74620fc393ffdd4727e143b76f9b51 577342621d74620fc393ffdd4727e143b76f9b51 tweezerchef <ltomblock@gmail.com> 1729713811 -0500	reset: moving to HEAD
+577342621d74620fc393ffdd4727e143b76f9b51 577342621d74620fc393ffdd4727e143b76f9b51 tweezerchef <ltomblock@gmail.com> 1729713811 -0500	reset: moving to HEAD
+577342621d74620fc393ffdd4727e143b76f9b51 777daa14d85bb30b982beda4182fc744a3d0064a tweezerchef <ltomblock@gmail.com> 1729713828 -0500	commit: Problem fixed?
+777daa14d85bb30b982beda4182fc744a3d0064a 5673651068e3426cd458c46d829dd0ff22b6b718 tweezerchef <ltomblock@gmail.com> 1729714378 -0500	commit: re-entered daily challenge initializer
+5673651068e3426cd458c46d829dd0ff22b6b718 577342621d74620fc393ffdd4727e143b76f9b51 tweezerchef <ltomblock@gmail.com> 1729714620 -0500	checkout: moving from fixInitializer to main
+577342621d74620fc393ffdd4727e143b76f9b51 72a041e5403b543a0d827a6628faf7d0369ce06c tweezerchef <ltomblock@gmail.com> 1729714626 -0500	pull upstream main: Fast-forward
+72a041e5403b543a0d827a6628faf7d0369ce06c 72a041e5403b543a0d827a6628faf7d0369ce06c tweezerchef <ltomblock@gmail.com> 1729716392 -0500	checkout: moving from main to googleFix
+72a041e5403b543a0d827a6628faf7d0369ce06c 5af0142c370660061e0c818e012824ec3a93e3c5 tweezerchef <ltomblock@gmail.com> 1729717299 -0500	commit: think I may have fixed google issue, adjusted ui in /register
+5af0142c370660061e0c818e012824ec3a93e3c5 72a041e5403b543a0d827a6628faf7d0369ce06c tweezerchef <ltomblock@gmail.com> 1729717438 -0500	checkout: moving from googleFix to main
+72a041e5403b543a0d827a6628faf7d0369ce06c 50a41a3f8a843b671ff7d58ffdb0b29e0d2c7a68 tweezerchef <ltomblock@gmail.com> 1729717444 -0500	pull upstream main: Fast-forward
+50a41a3f8a843b671ff7d58ffdb0b29e0d2c7a68 50a41a3f8a843b671ff7d58ffdb0b29e0d2c7a68 tweezerchef <ltomblock@gmail.com> 1729718213 -0500	checkout: moving from main to simpGoogleFix
+50a41a3f8a843b671ff7d58ffdb0b29e0d2c7a68 8bacaff13e02c0dad55cc699f1c7c8fd4f2626cb tweezerchef <ltomblock@gmail.com> 1729718555 -0500	commit: very simple loading state for sign in
+8bacaff13e02c0dad55cc699f1c7c8fd4f2626cb bc47a70c9827055e4649a794f676cf6f0a27b9f2 tweezerchef <ltomblock@gmail.com> 1729719129 -0500	commit: also added disabled props to buttons when loading
+bc47a70c9827055e4649a794f676cf6f0a27b9f2 50a41a3f8a843b671ff7d58ffdb0b29e0d2c7a68 tweezerchef <ltomblock@gmail.com> 1729719220 -0500	checkout: moving from simpGoogleFix to main
+50a41a3f8a843b671ff7d58ffdb0b29e0d2c7a68 f02392b110bc1d7319a807e471d749ad9dca3b08 tweezerchef <ltomblock@gmail.com> 1729719225 -0500	pull upstream main: Fast-forward
+f02392b110bc1d7319a807e471d749ad9dca3b08 f02392b110bc1d7319a807e471d749ad9dca3b08 tweezerchef <ltomblock@gmail.com> 1729719580 -0500	checkout: moving from main to smallUI
+f02392b110bc1d7319a807e471d749ad9dca3b08 cce954d7a46898accef97aafb2c59e96f13da30f tweezerchef <ltomblock@gmail.com> 1729727396 -0500	commit: work in progress
+cce954d7a46898accef97aafb2c59e96f13da30f f02392b110bc1d7319a807e471d749ad9dca3b08 tweezerchef <ltomblock@gmail.com> 1729727748 -0500	checkout: moving from smallUI to main
+f02392b110bc1d7319a807e471d749ad9dca3b08 c75ce471412ba848116e853d972a9c18f6d183b5 tweezerchef <ltomblock@gmail.com> 1729727753 -0500	pull upstream main: Fast-forward
+c75ce471412ba848116e853d972a9c18f6d183b5 c75ce471412ba848116e853d972a9c18f6d183b5 tweezerchef <ltomblock@gmail.com> 1729783153 -0500	checkout: moving from main to screen
+c75ce471412ba848116e853d972a9c18f6d183b5 7ba0bf6c6e99c293081623b9c8d7b57243a6dc05 tweezerchef <ltomblock@gmail.com> 1729783916 -0500	commit: temp fix for smaller desktop screens
+7ba0bf6c6e99c293081623b9c8d7b57243a6dc05 c75ce471412ba848116e853d972a9c18f6d183b5 tweezerchef <ltomblock@gmail.com> 1729784308 -0500	checkout: moving from screen to main
+c75ce471412ba848116e853d972a9c18f6d183b5 a7a62d330f27400b9d7ac474bdcdd5b314ccd614 tweezerchef <ltomblock@gmail.com> 1729784320 -0500	pull upstream main: Fast-forward
+a7a62d330f27400b9d7ac474bdcdd5b314ccd614 a7a62d330f27400b9d7ac474bdcdd5b314ccd614 tweezerchef <ltomblock@gmail.com> 1729784468 -0500	checkout: moving from main to final
+a7a62d330f27400b9d7ac474bdcdd5b314ccd614 8155127f86a4020bb944c5ff9181f1b0985e87a2 tweezerchef <ltomblock@gmail.com> 1729788088 -0500	commit: updated score function and added a score to each result catagory
+8155127f86a4020bb944c5ff9181f1b0985e87a2 108f7511bdc88c5ba72bc49493cd2780defea8a4 tweezerchef <ltomblock@gmail.com> 1729798880 -0500	commit: score function working on IR
+108f7511bdc88c5ba72bc49493cd2780defea8a4 364de75404f6c79f3eb1aea6aaf389ed768218f2 tweezerchef <ltomblock@gmail.com> 1729800822 -0500	commit: moving onto currency score
+364de75404f6c79f3eb1aea6aaf389ed768218f2 7350ccb0865936590662e570c9028f497ddb48e6 tweezerchef <ltomblock@gmail.com> 1729801496 -0500	commit: currency score completed
+7350ccb0865936590662e570c9028f497ddb48e6 3a7aca7765b9b754ff01cc8b93b638a8b34ad0a7 tweezerchef <ltomblock@gmail.com> 1729802492 -0500	commit: fixed hydration error
+3a7aca7765b9b754ff01cc8b93b638a8b34ad0a7 13ea8819b715c1e7e4e0149b6103058c08717771 tweezerchef <ltomblock@gmail.com> 1729803756 -0500	commit: all three catagories working
+13ea8819b715c1e7e4e0149b6103058c08717771 0ea10889bb7a8ad651dc883c5ba6d3739f5a8c1c tweezerchef <ltomblock@gmail.com> 1729805868 -0500	commit: score is fully working, at end of stock total score is collected
+0ea10889bb7a8ad651dc883c5ba6d3739f5a8c1c a7a62d330f27400b9d7ac474bdcdd5b314ccd614 tweezerchef <ltomblock@gmail.com> 1729806023 -0500	checkout: moving from final to main
+a7a62d330f27400b9d7ac474bdcdd5b314ccd614 b84c1f06b35e5e89219d336583b8b85f3eac1cbb tweezerchef <ltomblock@gmail.com> 1729806029 -0500	pull upstream main: Fast-forward
+b84c1f06b35e5e89219d336583b8b85f3eac1cbb b84c1f06b35e5e89219d336583b8b85f3eac1cbb tweezerchef <ltomblock@gmail.com> 1729806566 -0500	checkout: moving from main to uniformUI
+b84c1f06b35e5e89219d336583b8b85f3eac1cbb bdd69a6a0e2e4266b843f1800712a7910a9a33cc tweezerchef <ltomblock@gmail.com> 1729808938 -0500	commit: uniform UI
+bdd69a6a0e2e4266b843f1800712a7910a9a33cc b84c1f06b35e5e89219d336583b8b85f3eac1cbb tweezerchef <ltomblock@gmail.com> 1729809051 -0500	checkout: moving from uniformUI to main
+b84c1f06b35e5e89219d336583b8b85f3eac1cbb 06701efde0ae4968421c56fe3530b0722f794335 tweezerchef <ltomblock@gmail.com> 1729809059 -0500	pull upstream main: Fast-forward
+06701efde0ae4968421c56fe3530b0722f794335 06701efde0ae4968421c56fe3530b0722f794335 tweezerchef <ltomblock@gmail.com> 1729809880 -0500	checkout: moving from main to moreUI
+06701efde0ae4968421c56fe3530b0722f794335 68ced9df247cdf2506bf2984962423b8f55adcef tweezerchef <ltomblock@gmail.com> 1729809905 -0500	commit: currency + interest css aligned
+68ced9df247cdf2506bf2984962423b8f55adcef 73c6535f9575f4451b63a4604e3ec550d9acda3b tweezerchef <ltomblock@gmail.com> 1729810053 -0500	commit: all aligned
+73c6535f9575f4451b63a4604e3ec550d9acda3b 06701efde0ae4968421c56fe3530b0722f794335 tweezerchef <ltomblock@gmail.com> 1729810126 -0500	checkout: moving from moreUI to main
+06701efde0ae4968421c56fe3530b0722f794335 d45128cc45ad7950e7da57fc6c999c40b5012754 tweezerchef <ltomblock@gmail.com> 1729810136 -0500	pull upstream main: Fast-forward
+d45128cc45ad7950e7da57fc6c999c40b5012754 d45128cc45ad7950e7da57fc6c999c40b5012754 tweezerchef <ltomblock@gmail.com> 1729867276 -0500	checkout: moving from main to guest
+d45128cc45ad7950e7da57fc6c999c40b5012754 d208a5c4f56d2154608d1f1b088d0dc0eec39728 tweezerchef <ltomblock@gmail.com> 1729867884 -0500	commit: guest button working
+d208a5c4f56d2154608d1f1b088d0dc0eec39728 d45128cc45ad7950e7da57fc6c999c40b5012754 tweezerchef <ltomblock@gmail.com> 1729867967 -0500	checkout: moving from guest to main
+d45128cc45ad7950e7da57fc6c999c40b5012754 e9575bd98e7278f2645a180b077a4d0042c04ea8 tweezerchef <ltomblock@gmail.com> 1729867973 -0500	pull upstream main: Fast-forward
+e9575bd98e7278f2645a180b077a4d0042c04ea8 e9575bd98e7278f2645a180b077a4d0042c04ea8 tweezerchef <ltomblock@gmail.com> 1729868937 -0500	checkout: moving from main to currencyError
+e9575bd98e7278f2645a180b077a4d0042c04ea8 acd9bdea08a63dd8d1baa3dd752bb5c20842c115 tweezerchef <ltomblock@gmail.com> 1729870342 -0500	commit: fixed truncated function, moving on to small ui changes
+acd9bdea08a63dd8d1baa3dd752bb5c20842c115 a4835feed20295485aa90365c8e442da497921eb tweezerchef <ltomblock@gmail.com> 1729871191 -0500	commit: moved IR ui to same centralized location
+a4835feed20295485aa90365c8e442da497921eb 1075c23009184da04af7ed1e70cfa55e6c081e7a tweezerchef <ltomblock@gmail.com> 1729873192 -0500	commit: forgot to start new branch but score is in conext and working for IR
+1075c23009184da04af7ed1e70cfa55e6c081e7a e9575bd98e7278f2645a180b077a4d0042c04ea8 tweezerchef <ltomblock@gmail.com> 1729873870 -0500	checkout: moving from currencyError to main
+e9575bd98e7278f2645a180b077a4d0042c04ea8 7389513ee78533c3c5a760159802a499596a8344 tweezerchef <ltomblock@gmail.com> 1729873877 -0500	pull upstream main: Fast-forward
+7389513ee78533c3c5a760159802a499596a8344 7389513ee78533c3c5a760159802a499596a8344 tweezerchef <ltomblock@gmail.com> 1729875463 -0500	checkout: moving from main to score
+7389513ee78533c3c5a760159802a499596a8344 af0edf45564bf8c00e1b102c4aafc18e5b901c25 tweezerchef <ltomblock@gmail.com> 1729876346 -0500	commit: all scores done
+af0edf45564bf8c00e1b102c4aafc18e5b901c25 af0edf45564bf8c00e1b102c4aafc18e5b901c25 tweezerchef <ltomblock@gmail.com> 1729884615 -0500	reset: moving to HEAD
+af0edf45564bf8c00e1b102c4aafc18e5b901c25 af0edf45564bf8c00e1b102c4aafc18e5b901c25 tweezerchef <ltomblock@gmail.com> 1729884615 -0500	reset: moving to HEAD
+af0edf45564bf8c00e1b102c4aafc18e5b901c25 a09e336bc61bd01229578b7dfeb2fbeab8997da7 tweezerchef <ltomblock@gmail.com> 1729884820 -0500	commit: refresh of score context working
+a09e336bc61bd01229578b7dfeb2fbeab8997da7 a89eafbfd07727a9e1f267fc851c13838240ac1a tweezerchef <ltomblock@gmail.com> 1729965691 -0500	commit: average working for IR
+a89eafbfd07727a9e1f267fc851c13838240ac1a 4cac7a8bdc3493acebcaa09f8e5a0aa87922d6d1 tweezerchef <ltomblock@gmail.com> 1729966868 -0500	commit: interestRate Avergage workign
+4cac7a8bdc3493acebcaa09f8e5a0aa87922d6d1 7389513ee78533c3c5a760159802a499596a8344 tweezerchef <ltomblock@gmail.com> 1729966966 -0500	checkout: moving from score to main
+7389513ee78533c3c5a760159802a499596a8344 d1685c40a7b6a518531bea8094977e8aed2c7fda tweezerchef <ltomblock@gmail.com> 1729966971 -0500	pull upstream main: Fast-forward
+d1685c40a7b6a518531bea8094977e8aed2c7fda d1685c40a7b6a518531bea8094977e8aed2c7fda tweezerchef <ltomblock@gmail.com> 1729967328 -0500	checkout: moving from main to average
+d1685c40a7b6a518531bea8094977e8aed2c7fda 5bb8b23f653bca64fdd16e1ca8de99499702649c tweezerchef <ltomblock@gmail.com> 1729973725 -0500	commit: fixed bug when stock or currency is 3 whole int's
+5bb8b23f653bca64fdd16e1ca8de99499702649c d1685c40a7b6a518531bea8094977e8aed2c7fda tweezerchef <ltomblock@gmail.com> 1729973977 -0500	checkout: moving from average to main
+d1685c40a7b6a518531bea8094977e8aed2c7fda b1a1eb87852e221922dc751447c177486e506576 tweezerchef <ltomblock@gmail.com> 1729973982 -0500	pull upstream main: Fast-forward
+b1a1eb87852e221922dc751447c177486e506576 b1a1eb87852e221922dc751447c177486e506576 tweezerchef <ltomblock@gmail.com> 1729974053 -0500	checkout: moving from main to moreAvandBack
+b1a1eb87852e221922dc751447c177486e506576 6ddb472bf34e3909e28bff44e6fddd49b791aa99 tweezerchef <ltomblock@gmail.com> 1729974846 -0500	commit: baby got back(round)
+6ddb472bf34e3909e28bff44e6fddd49b791aa99 103cd25992695c89f2226ce076614b597e82df59 tweezerchef <ltomblock@gmail.com> 1729976909 -0500	commit: small visual changes in flip box
+103cd25992695c89f2226ce076614b597e82df59 8ecb96f273a9a133cad3fb40067902d6b50e7c65 tweezerchef <ltomblock@gmail.com> 1729978826 -0500	commit: all averages getting retrieved and displayed on final page
+8ecb96f273a9a133cad3fb40067902d6b50e7c65 b1a1eb87852e221922dc751447c177486e506576 tweezerchef <ltomblock@gmail.com> 1729979290 -0500	checkout: moving from moreAvandBack to main
+b1a1eb87852e221922dc751447c177486e506576 ad09272b1d98f2c561c5551e24294bc331b98093 tweezerchef <ltomblock@gmail.com> 1729979296 -0500	pull upstream main: Fast-forward
+ad09272b1d98f2c561c5551e24294bc331b98093 ad09272b1d98f2c561c5551e24294bc331b98093 tweezerchef <ltomblock@gmail.com> 1729980820 -0500	checkout: moving from main to randomUI
+ad09272b1d98f2c561c5551e24294bc331b98093 3e9d4086efd316de5a60209a60bb0037765443a5 tweezerchef <ltomblock@gmail.com> 1729985168 -0500	commit: twiter share test
+3e9d4086efd316de5a60209a60bb0037765443a5 e7b037ea0b5ee56077c315c377b7889da6adf634 tweezerchef <ltomblock@gmail.com> 1729985405 -0500	commit: twiter share test
+e7b037ea0b5ee56077c315c377b7889da6adf634 12803d059e5230d83e8aa03de47572f1ac7f768d tweezerchef <ltomblock@gmail.com> 1729985541 -0500	commit: twiter share test v3
+12803d059e5230d83e8aa03de47572f1ac7f768d 2fb01a14d15ce36017da627bc3f931b4c9b92593 tweezerchef <ltomblock@gmail.com> 1729985679 -0500	commit: twiter share test v4
+2fb01a14d15ce36017da627bc3f931b4c9b92593 049391ce5f5f9e59f07b6dd404f1f3f12b2c66c3 tweezerchef <ltomblock@gmail.com> 1729985832 -0500	commit: twiter share test v5
+049391ce5f5f9e59f07b6dd404f1f3f12b2c66c3 bbcbe861235710da392e189c6cbb5c9b8c198c3a tweezerchef <ltomblock@gmail.com> 1729986031 -0500	commit: twiter share test no TS hack
+bbcbe861235710da392e189c6cbb5c9b8c198c3a 199316f4e070ad387f99c676e27ba8dc0937d6dc tweezerchef <ltomblock@gmail.com> 1730048039 -0500	commit: stopped working on Twitter for now small UI changes
+199316f4e070ad387f99c676e27ba8dc0937d6dc ad09272b1d98f2c561c5551e24294bc331b98093 tweezerchef <ltomblock@gmail.com> 1730049457 -0500	checkout: moving from randomUI to main
+ad09272b1d98f2c561c5551e24294bc331b98093 74651e36c4fe1a64ec97cc3a7335c15cacfd39c9 tweezerchef <ltomblock@gmail.com> 1730049462 -0500	pull upstream main: Fast-forward
+74651e36c4fe1a64ec97cc3a7335c15cacfd39c9 74651e36c4fe1a64ec97cc3a7335c15cacfd39c9 tweezerchef <ltomblock@gmail.com> 1730051002 -0500	checkout: moving from main to leaderBoard
+74651e36c4fe1a64ec97cc3a7335c15cacfd39c9 9258d9306698bf18acd5cc9d0970fa0499acb642 tweezerchef <ltomblock@gmail.com> 1730062857 -0500	commit: basic leaderboard
+9258d9306698bf18acd5cc9d0970fa0499acb642 4924b795a6b4d310219b4f2ff4e08ec07f6cfe4b tweezerchef <ltomblock@gmail.com> 1730127940 -0500	commit: leaderBoard optimizations
+4924b795a6b4d310219b4f2ff4e08ec07f6cfe4b 32a038a7403f1dd6157bd56a68a9e1d45d9524c2 tweezerchef <ltomblock@gmail.com> 1730129508 -0500	commit: basic basic leaderboard done
+32a038a7403f1dd6157bd56a68a9e1d45d9524c2 1debc32ce5b335bc85d93b6cce9d041350ec7978 tweezerchef <ltomblock@gmail.com> 1730130792 -0500	commit: generic avi for guest or no avi also uploaded all image files to s3 but have not implemented across app
+1debc32ce5b335bc85d93b6cce9d041350ec7978 74651e36c4fe1a64ec97cc3a7335c15cacfd39c9 tweezerchef <ltomblock@gmail.com> 1730130921 -0500	checkout: moving from leaderBoard to main
+74651e36c4fe1a64ec97cc3a7335c15cacfd39c9 0e252ddc38f0c581d05723ee3aac11caf07c8bae tweezerchef <ltomblock@gmail.com> 1730130929 -0500	pull upstream main: Fast-forward
+0e252ddc38f0c581d05723ee3aac11caf07c8bae 0e252ddc38f0c581d05723ee3aac11caf07c8bae tweezerchef <ltomblock@gmail.com> 1730136260 -0500	checkout: moving from main to leaderboardUI
+0e252ddc38f0c581d05723ee3aac11caf07c8bae 8e8d093d04f32c514e0462c75f13478f88de42cf tweezerchef <ltomblock@gmail.com> 1730137754 -0500	commit: improved slightly leaderboard
+8e8d093d04f32c514e0462c75f13478f88de42cf e3cc91696fbcda962134d14fde0ca64ee5750f35 tweezerchef <ltomblock@gmail.com> 1730145148 -0500	commit: cant get UI right in Final Page
+e3cc91696fbcda962134d14fde0ca64ee5750f35 eb6c30297babf2d947ff8ce234df3279e56d735a tweezerchef <ltomblock@gmail.com> 1730158936 -0500	commit: very beta version of final but overcame some obsticles
+eb6c30297babf2d947ff8ce234df3279e56d735a 099514f3254498e7bbdd93f6873dc40a7458e7ae tweezerchef <ltomblock@gmail.com> 1730159402 -0500	commit: huh?2
+099514f3254498e7bbdd93f6873dc40a7458e7ae 897a9c6a0d672d5ef5d463a5f3772bf4b4f6e941 tweezerchef <ltomblock@gmail.com> 1730159610 -0500	commit: huh?23
+897a9c6a0d672d5ef5d463a5f3772bf4b4f6e941 c5f09dac3c9cc0145c9503ee1350fe33f5c62d1c tweezerchef <ltomblock@gmail.com> 1730159853 -0500	commit: huh?23
+c5f09dac3c9cc0145c9503ee1350fe33f5c62d1c 0e252ddc38f0c581d05723ee3aac11caf07c8bae tweezerchef <ltomblock@gmail.com> 1730160197 -0500	checkout: moving from leaderboardUI to main
+0e252ddc38f0c581d05723ee3aac11caf07c8bae a3404effa17571ca40ad01f0752e5d677462a646 tweezerchef <ltomblock@gmail.com> 1730160202 -0500	pull upstream main: Fast-forward
+a3404effa17571ca40ad01f0752e5d677462a646 a3404effa17571ca40ad01f0752e5d677462a646 tweezerchef <ltomblock@gmail.com> 1730160242 -0500	checkout: moving from main to update
+a3404effa17571ca40ad01f0752e5d677462a646 19ccedfde9a9091d22abee17f99dffd853e4b1ce tweezerchef <ltomblock@gmail.com> 1730160251 -0500	commit: update
+19ccedfde9a9091d22abee17f99dffd853e4b1ce a3404effa17571ca40ad01f0752e5d677462a646 tweezerchef <ltomblock@gmail.com> 1730160530 -0500	checkout: moving from update to main
+a3404effa17571ca40ad01f0752e5d677462a646 09547312a41f5f5bb9e8ed4635cfa437953563f9 tweezerchef <ltomblock@gmail.com> 1730160535 -0500	pull upstream main: Fast-forward
+09547312a41f5f5bb9e8ed4635cfa437953563f9 09547312a41f5f5bb9e8ed4635cfa437953563f9 tweezerchef <ltomblock@gmail.com> 1730238027 -0500	checkout: moving from main to aviPicker
+09547312a41f5f5bb9e8ed4635cfa437953563f9 9d075799c50563cbc726a6bc09506505b2b39624 tweezerchef <ltomblock@gmail.com> 1730240629 -0500	commit: basic picker set up, need to update prisma
+9d075799c50563cbc726a6bc09506505b2b39624 2a73b9b1ebccc506e51ad71de2794bffd1febe51 tweezerchef <ltomblock@gmail.com> 1730245005 -0500	commit: working on final errors in email/pw reg
+2a73b9b1ebccc506e51ad71de2794bffd1febe51 7512c2b9856e2569dc3c8e4994a142e414a6a385 tweezerchef <ltomblock@gmail.com> 1730251180 -0500	commit: new picker and routes seem to be working, context needs to be updated to retrieve new avatar columns
+7512c2b9856e2569dc3c8e4994a142e414a6a385 44def7204d3e23be93821419caa8f401c27e6c64 tweezerchef <ltomblock@gmail.com> 1730307309 -0500	commit: trying to optimize IR animation and route to see if performance improves on deployed instance
+44def7204d3e23be93821419caa8f401c27e6c64 98b5987c5939f0059a1a6d7d87509f28639b0043 tweezerchef <ltomblock@gmail.com> 1730309027 -0500	commit: updated all catagories for route and animation optimization
+98b5987c5939f0059a1a6d7d87509f28639b0043 09547312a41f5f5bb9e8ed4635cfa437953563f9 tweezerchef <ltomblock@gmail.com> 1730309160 -0500	checkout: moving from aviPicker to main
+09547312a41f5f5bb9e8ed4635cfa437953563f9 d18db795b5d23948c4df144a183e552729e9aca1 tweezerchef <ltomblock@gmail.com> 1730309843 -0500	pull upstream main: Fast-forward
+d18db795b5d23948c4df144a183e552729e9aca1 d18db795b5d23948c4df144a183e552729e9aca1 tweezerchef <ltomblock@gmail.com> 1730309877 -0500	checkout: moving from main to dummyUsers
+d18db795b5d23948c4df144a183e552729e9aca1 bde3a930d39c5a9e9af3c4948260dd6004412c7c tweezerchef <ltomblock@gmail.com> 1730315009 -0500	commit: fixed some errors with the leaderboard added seeded users, created new cron job to generate scores for fake users every day
+bde3a930d39c5a9e9af3c4948260dd6004412c7c d18db795b5d23948c4df144a183e552729e9aca1 tweezerchef <ltomblock@gmail.com> 1730315951 -0500	checkout: moving from dummyUsers to main
+d18db795b5d23948c4df144a183e552729e9aca1 44ae836ecace1e905a423071d4cff84ff3458e76 tweezerchef <ltomblock@gmail.com> 1730315960 -0500	pull upstream main: Fast-forward
+44ae836ecace1e905a423071d4cff84ff3458e76 44ae836ecace1e905a423071d4cff84ff3458e76 tweezerchef <ltomblock@gmail.com> 1730324087 -0500	checkout: moving from main to keyboard
+44ae836ecace1e905a423071d4cff84ff3458e76 fa1ae620dac648ae6130e317ed6354f406eed4eb tweezerchef <ltomblock@gmail.com> 1730324105 -0500	commit: in progress keyboard UI
+fa1ae620dac648ae6130e317ed6354f406eed4eb ff768dd174191f0fa9f5c387eeb397d4007170dc tweezerchef <ltomblock@gmail.com> 1730325423 -0500	commit: further keyboard improvements
+ff768dd174191f0fa9f5c387eeb397d4007170dc 9cf500fe034fb224bd2002fd16fb0a1fdf6d4c48 tweezerchef <ltomblock@gmail.com> 1730401469 -0500	commit: new daily challenge implimented
+9cf500fe034fb224bd2002fd16fb0a1fdf6d4c48 d0ece8d29c0eb7d795baee808cdde28a7550ab3a tweezerchef <ltomblock@gmail.com> 1730402228 -0500	commit: keyboard improvements
+d0ece8d29c0eb7d795baee808cdde28a7550ab3a c1e2a929c45fdbbb4a3a18760b916263f2a923a5 tweezerchef <ltomblock@gmail.com> 1730402613 -0500	commit: improved backround of keyboard
+c1e2a929c45fdbbb4a3a18760b916263f2a923a5 44ae836ecace1e905a423071d4cff84ff3458e76 tweezerchef <ltomblock@gmail.com> 1730403727 -0500	checkout: moving from keyboard to main
+44ae836ecace1e905a423071d4cff84ff3458e76 81d28d4682e37c15d4649691104fe45b9cefdda5 tweezerchef <ltomblock@gmail.com> 1730403733 -0500	pull upstream main: Fast-forward
+81d28d4682e37c15d4649691104fe45b9cefdda5 81d28d4682e37c15d4649691104fe45b9cefdda5 tweezerchef <ltomblock@gmail.com> 1730403899 -0500	checkout: moving from main to metaData
+81d28d4682e37c15d4649691104fe45b9cefdda5 ec5cd7ed50bbde8c4bd91e44c2807354c05c525c tweezerchef <ltomblock@gmail.com> 1730410644 -0500	commit: temp fix
+ec5cd7ed50bbde8c4bd91e44c2807354c05c525c ec5cd7ed50bbde8c4bd91e44c2807354c05c525c tweezerchef <ltomblock@gmail.com> 1730477108 -0500	reset: moving to HEAD
+ec5cd7ed50bbde8c4bd91e44c2807354c05c525c ec5cd7ed50bbde8c4bd91e44c2807354c05c525c tweezerchef <ltomblock@gmail.com> 1730477108 -0500	reset: moving to HEAD
+ec5cd7ed50bbde8c4bd91e44c2807354c05c525c 63732e769f6c5562bb707bc75c9a27f16c5c252a tweezerchef <ltomblock@gmail.com> 1730477419 -0500	commit: Think all the date stuff is fixed
+63732e769f6c5562bb707bc75c9a27f16c5c252a 81d28d4682e37c15d4649691104fe45b9cefdda5 tweezerchef <ltomblock@gmail.com> 1730477773 -0500	checkout: moving from metaData to main
+81d28d4682e37c15d4649691104fe45b9cefdda5 9ad039adc1923660e7cd7c71650d45a5fc224456 tweezerchef <ltomblock@gmail.com> 1730477777 -0500	pull upstream main: Fast-forward
+9ad039adc1923660e7cd7c71650d45a5fc224456 9ad039adc1923660e7cd7c71650d45a5fc224456 tweezerchef <ltomblock@gmail.com> 1730477980 -0500	checkout: moving from main to dateFix
+9ad039adc1923660e7cd7c71650d45a5fc224456 c24b4bb7b479ed9d4b8bf748a88e13629822bc70 tweezerchef <ltomblock@gmail.com> 1730479353 -0500	commit: more fixes
+c24b4bb7b479ed9d4b8bf748a88e13629822bc70 85e8d398d3c68a2e9a23a101e28d6db5a64f17d9 tweezerchef <ltomblock@gmail.com> 1730501017 -0500	commit: tried to optimize image
+85e8d398d3c68a2e9a23a101e28d6db5a64f17d9 52ba6edb833e4501eecd937a5338af65907b9425 tweezerchef <ltomblock@gmail.com> 1730503556 -0500	commit: updated packages removed unnecisary
+52ba6edb833e4501eecd937a5338af65907b9425 52ba6edb833e4501eecd937a5338af65907b9425 tweezerchef <ltomblock@gmail.com> 1730507647 -0500	reset: moving to HEAD
+52ba6edb833e4501eecd937a5338af65907b9425 52ba6edb833e4501eecd937a5338af65907b9425 tweezerchef <ltomblock@gmail.com> 1730507647 -0500	reset: moving to HEAD
+52ba6edb833e4501eecd937a5338af65907b9425 0f4d0fa373a43bcaea19aae70d62932568d06477 tweezerchef <ltomblock@gmail.com> 1730508479 -0500	commit: lots o' small changes
+0f4d0fa373a43bcaea19aae70d62932568d06477 9ad039adc1923660e7cd7c71650d45a5fc224456 tweezerchef <ltomblock@gmail.com> 1730509308 -0500	checkout: moving from dateFix to main
+9ad039adc1923660e7cd7c71650d45a5fc224456 e6e4522a097761b4a0e72cc1999c6b63a43a7062 tweezerchef <ltomblock@gmail.com> 1730509314 -0500	pull upstream main: Fast-forward
+e6e4522a097761b4a0e72cc1999c6b63a43a7062 e6e4522a097761b4a0e72cc1999c6b63a43a7062 tweezerchef <ltomblock@gmail.com> 1730573706 -0500	checkout: moving from main to seconds
+e6e4522a097761b4a0e72cc1999c6b63a43a7062 347194832f554f1da30fe8b8f716f1655780265d tweezerchef <ltomblock@gmail.com> 1730583825 -0500	commit: thank you god
+347194832f554f1da30fe8b8f716f1655780265d 6ba7a987384818db5f9b37badc733ee2142a9a48 tweezerchef <ltomblock@gmail.com> 1730673929 -0600	commit: pre correcting date error for update
+6ba7a987384818db5f9b37badc733ee2142a9a48 6759536fc2248ea8dc790be0d520a0c016624380 tweezerchef <ltomblock@gmail.com> 1730678246 -0600	commit: fixed users time to complete, issues with keys on the leaderboard, and breaking error problems with date
+6759536fc2248ea8dc790be0d520a0c016624380 7f89bfe6c37e1ba5098e6be244c83aed2df7c86b tweezerchef <ltomblock@gmail.com> 1730678340 -0600	commit: removed route copy
+7f89bfe6c37e1ba5098e6be244c83aed2df7c86b e6e4522a097761b4a0e72cc1999c6b63a43a7062 tweezerchef <ltomblock@gmail.com> 1730735993 -0600	checkout: moving from seconds to main
+e6e4522a097761b4a0e72cc1999c6b63a43a7062 04350b25c2a919653dff1663c11b6edea74fc429 tweezerchef <ltomblock@gmail.com> 1730736007 -0600	pull upstream main: Fast-forward
+04350b25c2a919653dff1663c11b6edea74fc429 04350b25c2a919653dff1663c11b6edea74fc429 tweezerchef <ltomblock@gmail.com> 1730736115 -0600	checkout: moving from main to dailyCDates
+04350b25c2a919653dff1663c11b6edea74fc429 04350b25c2a919653dff1663c11b6edea74fc429 tweezerchef <ltomblock@gmail.com> 1730738667 -0600	reset: moving to HEAD
+04350b25c2a919653dff1663c11b6edea74fc429 04350b25c2a919653dff1663c11b6edea74fc429 tweezerchef <ltomblock@gmail.com> 1730738667 -0600	reset: moving to HEAD
+04350b25c2a919653dff1663c11b6edea74fc429 04350b25c2a919653dff1663c11b6edea74fc429 tweezerchef <ltomblock@gmail.com> 1730738841 -0600	reset: moving to HEAD
+04350b25c2a919653dff1663c11b6edea74fc429 04350b25c2a919653dff1663c11b6edea74fc429 tweezerchef <ltomblock@gmail.com> 1730738841 -0600	reset: moving to HEAD
+04350b25c2a919653dff1663c11b6edea74fc429 04350b25c2a919653dff1663c11b6edea74fc429 tweezerchef <ltomblock@gmail.com> 1730740327 -0600	reset: moving to HEAD
+04350b25c2a919653dff1663c11b6edea74fc429 04350b25c2a919653dff1663c11b6edea74fc429 tweezerchef <ltomblock@gmail.com> 1730740327 -0600	reset: moving to HEAD
+04350b25c2a919653dff1663c11b6edea74fc429 04350b25c2a919653dff1663c11b6edea74fc429 tweezerchef <ltomblock@gmail.com> 1730740573 -0600	reset: moving to HEAD
+04350b25c2a919653dff1663c11b6edea74fc429 04350b25c2a919653dff1663c11b6edea74fc429 tweezerchef <ltomblock@gmail.com> 1730740573 -0600	reset: moving to HEAD
+04350b25c2a919653dff1663c11b6edea74fc429 02a7b2837cd8f25051893d6b99a503b82b6a8827 tweezerchef <ltomblock@gmail.com> 1730740679 -0600	commit: dates fixed for google route
+02a7b2837cd8f25051893d6b99a503b82b6a8827 b9e6a59284acb670b9b1617aa3096cf83a1183b9 tweezerchef <ltomblock@gmail.com> 1730745690 -0600	commit: corrected all dates for all login types
+b9e6a59284acb670b9b1617aa3096cf83a1183b9 04350b25c2a919653dff1663c11b6edea74fc429 tweezerchef <ltomblock@gmail.com> 1730746709 -0600	checkout: moving from dailyCDates to main
+04350b25c2a919653dff1663c11b6edea74fc429 1693fe10d41dc89dccab5ed82d4eae9d0d64b1da tweezerchef <ltomblock@gmail.com> 1730746715 -0600	pull upstream main: Fast-forward
+1693fe10d41dc89dccab5ed82d4eae9d0d64b1da 1693fe10d41dc89dccab5ed82d4eae9d0d64b1da tweezerchef <ltomblock@gmail.com> 1730746895 -0600	checkout: moving from main to anal
+1693fe10d41dc89dccab5ed82d4eae9d0d64b1da 1693fe10d41dc89dccab5ed82d4eae9d0d64b1da tweezerchef <ltomblock@gmail.com> 1730747046 -0600	reset: moving to HEAD
+1693fe10d41dc89dccab5ed82d4eae9d0d64b1da 1693fe10d41dc89dccab5ed82d4eae9d0d64b1da tweezerchef <ltomblock@gmail.com> 1730747046 -0600	reset: moving to HEAD
+1693fe10d41dc89dccab5ed82d4eae9d0d64b1da 80d47f4757e9477bf8610c857231e969f1ff543c tweezerchef <ltomblock@gmail.com> 1730747096 -0600	commit: added analytics
+80d47f4757e9477bf8610c857231e969f1ff543c 1693fe10d41dc89dccab5ed82d4eae9d0d64b1da tweezerchef <ltomblock@gmail.com> 1730747674 -0600	checkout: moving from anal to main
+1693fe10d41dc89dccab5ed82d4eae9d0d64b1da aa05920ab6df63d39e49dc76658bfff926a3b0cb tweezerchef <ltomblock@gmail.com> 1730747678 -0600	pull upstream main: Fast-forward
+aa05920ab6df63d39e49dc76658bfff926a3b0cb aa05920ab6df63d39e49dc76658bfff926a3b0cb tweezerchef <ltomblock@gmail.com> 1730754878 -0600	checkout: moving from main to UI
+aa05920ab6df63d39e49dc76658bfff926a3b0cb a002f7bac3ff3cf458b1f132fa0c89de8e62bdba tweezerchef <ltomblock@gmail.com> 1730757099 -0600	commit: adjusted size of single display and animation UI
+a002f7bac3ff3cf458b1f132fa0c89de8e62bdba a002f7bac3ff3cf458b1f132fa0c89de8e62bdba tweezerchef <ltomblock@gmail.com> 1730758084 -0600	reset: moving to HEAD
+a002f7bac3ff3cf458b1f132fa0c89de8e62bdba aa05920ab6df63d39e49dc76658bfff926a3b0cb tweezerchef <ltomblock@gmail.com> 1730758088 -0600	checkout: moving from UI to main
+aa05920ab6df63d39e49dc76658bfff926a3b0cb 3402d28b358edd8e01b496e98af8891fdaa0d291 tweezerchef <ltomblock@gmail.com> 1730758094 -0600	pull upstream main: Fast-forward
+3402d28b358edd8e01b496e98af8891fdaa0d291 3402d28b358edd8e01b496e98af8891fdaa0d291 tweezerchef <ltomblock@gmail.com> 1730758123 -0600	checkout: moving from main to header
+3402d28b358edd8e01b496e98af8891fdaa0d291 1bd7b31f20fa15e3815deae39a6c56ec063a45d4 tweezerchef <ltomblock@gmail.com> 1730762161 -0600	commit: reformated sub header aka day of info
+1bd7b31f20fa15e3815deae39a6c56ec063a45d4 3402d28b358edd8e01b496e98af8891fdaa0d291 tweezerchef <ltomblock@gmail.com> 1730762504 -0600	checkout: moving from header to main
+3402d28b358edd8e01b496e98af8891fdaa0d291 b41d582d43231373dba3d23ab2b3121ae14736ba tweezerchef <ltomblock@gmail.com> 1730762511 -0600	pull upstream main: Fast-forward
+b41d582d43231373dba3d23ab2b3121ae14736ba b41d582d43231373dba3d23ab2b3121ae14736ba tweezerchef <ltomblock@gmail.com> 1730763736 -0600	checkout: moving from main to banner
+b41d582d43231373dba3d23ab2b3121ae14736ba 5d4555ff01f0e23aa2173caf452ba08e09e2ed95 tweezerchef <ltomblock@gmail.com> 1730763848 -0600	commit: updated banner to all components
+5d4555ff01f0e23aa2173caf452ba08e09e2ed95 b41d582d43231373dba3d23ab2b3121ae14736ba tweezerchef <ltomblock@gmail.com> 1730763913 -0600	checkout: moving from banner to main
+b41d582d43231373dba3d23ab2b3121ae14736ba d67c7dbfed070d3dfa2f955eb86d2c17b2fa9d66 tweezerchef <ltomblock@gmail.com> 1730763919 -0600	pull upstream main: Fast-forward
+d67c7dbfed070d3dfa2f955eb86d2c17b2fa9d66 d67c7dbfed070d3dfa2f955eb86d2c17b2fa9d66 tweezerchef <ltomblock@gmail.com> 1730766798 -0600	checkout: moving from main to fcp
+d67c7dbfed070d3dfa2f955eb86d2c17b2fa9d66 d67c7dbfed070d3dfa2f955eb86d2c17b2fa9d66 tweezerchef <ltomblock@gmail.com> 1730838623 -0600	reset: moving to HEAD
+d67c7dbfed070d3dfa2f955eb86d2c17b2fa9d66 d67c7dbfed070d3dfa2f955eb86d2c17b2fa9d66 tweezerchef <ltomblock@gmail.com> 1730838623 -0600	reset: moving to HEAD
+d67c7dbfed070d3dfa2f955eb86d2c17b2fa9d66 b2f1020f1abdf11c99968e81a9eb250618184207 tweezerchef <ltomblock@gmail.com> 1730838887 -0600	commit: tried to fix some potential errors with userser logging in right around midnight EST, fixed issue for leaderboard fakes
+b2f1020f1abdf11c99968e81a9eb250618184207 d67c7dbfed070d3dfa2f955eb86d2c17b2fa9d66 tweezerchef <ltomblock@gmail.com> 1730838957 -0600	checkout: moving from fcp to main
+d67c7dbfed070d3dfa2f955eb86d2c17b2fa9d66 0a92a6ae53c89f7a24f87a2550ff28f459906c83 tweezerchef <ltomblock@gmail.com> 1730838963 -0600	pull upstream main: Fast-forward
+0a92a6ae53c89f7a24f87a2550ff28f459906c83 0a92a6ae53c89f7a24f87a2550ff28f459906c83 tweezerchef <ltomblock@gmail.com> 1730839544 -0600	checkout: moving from main to leaderB
+0a92a6ae53c89f7a24f87a2550ff28f459906c83 0a92a6ae53c89f7a24f87a2550ff28f459906c83 tweezerchef <ltomblock@gmail.com> 1730843976 -0600	reset: moving to HEAD
+0a92a6ae53c89f7a24f87a2550ff28f459906c83 0a92a6ae53c89f7a24f87a2550ff28f459906c83 tweezerchef <ltomblock@gmail.com> 1730843976 -0600	reset: moving to HEAD
+0a92a6ae53c89f7a24f87a2550ff28f459906c83 0a92a6ae53c89f7a24f87a2550ff28f459906c83 tweezerchef <ltomblock@gmail.com> 1730844129 -0600	reset: moving to HEAD
+0a92a6ae53c89f7a24f87a2550ff28f459906c83 0a92a6ae53c89f7a24f87a2550ff28f459906c83 tweezerchef <ltomblock@gmail.com> 1730844129 -0600	reset: moving to HEAD
+0a92a6ae53c89f7a24f87a2550ff28f459906c83 0a92a6ae53c89f7a24f87a2550ff28f459906c83 tweezerchef <ltomblock@gmail.com> 1730845065 -0600	reset: moving to HEAD
+0a92a6ae53c89f7a24f87a2550ff28f459906c83 0a92a6ae53c89f7a24f87a2550ff28f459906c83 tweezerchef <ltomblock@gmail.com> 1730845065 -0600	reset: moving to HEAD
+0a92a6ae53c89f7a24f87a2550ff28f459906c83 0a92a6ae53c89f7a24f87a2550ff28f459906c83 tweezerchef <ltomblock@gmail.com> 1730845172 -0600	reset: moving to HEAD
+0a92a6ae53c89f7a24f87a2550ff28f459906c83 0a92a6ae53c89f7a24f87a2550ff28f459906c83 tweezerchef <ltomblock@gmail.com> 1730845172 -0600	reset: moving to HEAD
+0a92a6ae53c89f7a24f87a2550ff28f459906c83 788f23ffc6d22b5d6d7043b4384fe1cca2ba36dd tweezerchef <ltomblock@gmail.com> 1730845192 -0600	commit: results fix
+788f23ffc6d22b5d6d7043b4384fe1cca2ba36dd 0a92a6ae53c89f7a24f87a2550ff28f459906c83 tweezerchef <ltomblock@gmail.com> 1730845338 -0600	checkout: moving from leaderB to main
+0a92a6ae53c89f7a24f87a2550ff28f459906c83 3521ec520229c7e263b90ff7ad021b3a6b47d57e tweezerchef <ltomblock@gmail.com> 1730845342 -0600	pull upstream main: Fast-forward
+3521ec520229c7e263b90ff7ad021b3a6b47d57e 3521ec520229c7e263b90ff7ad021b3a6b47d57e tweezerchef <ltomblock@gmail.com> 1730847425 -0600	checkout: moving from main to final
+3521ec520229c7e263b90ff7ad021b3a6b47d57e 8788e08c1c03ea1adc3b8c56f93eb3554db3f171 tweezerchef <ltomblock@gmail.com> 1730849032 -0600	commit: changed chart UI a little
+8788e08c1c03ea1adc3b8c56f93eb3554db3f171 3521ec520229c7e263b90ff7ad021b3a6b47d57e tweezerchef <ltomblock@gmail.com> 1730849107 -0600	checkout: moving from final to main
+3521ec520229c7e263b90ff7ad021b3a6b47d57e 6eb769cbe45a80258f4cc64c80de51488f104ce1 tweezerchef <ltomblock@gmail.com> 1730849119 -0600	pull upstream main: Fast-forward
+6eb769cbe45a80258f4cc64c80de51488f104ce1 6eb769cbe45a80258f4cc64c80de51488f104ce1 tweezerchef <ltomblock@gmail.com> 1730849357 -0600	checkout: moving from main to ldrB
+6eb769cbe45a80258f4cc64c80de51488f104ce1 b2f1a43fc5024ce0cbe2ed7ee2d3e1776275ac62 tweezerchef <ltomblock@gmail.com> 1730849816 -0600	commit: changed speed insights
+b2f1a43fc5024ce0cbe2ed7ee2d3e1776275ac62 33826b14d1dadd174494799946bd4e4b5de1eca5 tweezerchef <ltomblock@gmail.com> 1730853100 -0600	commit: lots of changes in final
+33826b14d1dadd174494799946bd4e4b5de1eca5 6eb769cbe45a80258f4cc64c80de51488f104ce1 tweezerchef <ltomblock@gmail.com> 1730853237 -0600	checkout: moving from ldrB to main
+6eb769cbe45a80258f4cc64c80de51488f104ce1 29e40c0ed0a7dda7af5b416e97f057cf7929d713 tweezerchef <ltomblock@gmail.com> 1730853242 -0600	pull upstream main: Fast-forward
+29e40c0ed0a7dda7af5b416e97f057cf7929d713 29e40c0ed0a7dda7af5b416e97f057cf7929d713 tweezerchef <ltomblock@gmail.com> 1730941936 -0600	checkout: moving from main to ssr
+29e40c0ed0a7dda7af5b416e97f057cf7929d713 2a74ad7483acf924dc76922feadc89aa2cfa7b7c tweezerchef <ltomblock@gmail.com> 1730945713 -0600	commit: added ssr to front/login page
+2a74ad7483acf924dc76922feadc89aa2cfa7b7c 29e40c0ed0a7dda7af5b416e97f057cf7929d713 tweezerchef <ltomblock@gmail.com> 1730945818 -0600	checkout: moving from ssr to main
+29e40c0ed0a7dda7af5b416e97f057cf7929d713 2b5ea57a05320b9e3062e6e1267ec04bf29b75ee tweezerchef <ltomblock@gmail.com> 1730945834 -0600	pull upstream main: Fast-forward
+2b5ea57a05320b9e3062e6e1267ec04bf29b75ee 1debc32ce5b335bc85d93b6cce9d041350ec7978 tweezerchef <ltomblock@gmail.com> 1730946710 -0600	checkout: moving from main to leaderboard
+1debc32ce5b335bc85d93b6cce9d041350ec7978 2b5ea57a05320b9e3062e6e1267ec04bf29b75ee tweezerchef <ltomblock@gmail.com> 1730946788 -0600	checkout: moving from leaderboard to main
+2b5ea57a05320b9e3062e6e1267ec04bf29b75ee 2b5ea57a05320b9e3062e6e1267ec04bf29b75ee tweezerchef <ltomblock@gmail.com> 1730946849 -0600	checkout: moving from main to soround
+2b5ea57a05320b9e3062e6e1267ec04bf29b75ee 584d1cf41f1873580f83d8b5fbe6f2a6cffab304 tweezerchef <ltomblock@gmail.com> 1731015111 -0600	commit: updated meta data, and looks like sorounding is working
+584d1cf41f1873580f83d8b5fbe6f2a6cffab304 8799e8012d80aa610fca4822b6d5942896e31a47 tweezerchef <ltomblock@gmail.com> 1731015786 -0600	commit: added highlight to leaderboard entry if it is current user
+8799e8012d80aa610fca4822b6d5942896e31a47 8799e8012d80aa610fca4822b6d5942896e31a47 tweezerchef <ltomblock@gmail.com> 1731016206 -0600	checkout: moving from soround to soround
+8799e8012d80aa610fca4822b6d5942896e31a47 2b5ea57a05320b9e3062e6e1267ec04bf29b75ee tweezerchef <ltomblock@gmail.com> 1731016213 -0600	checkout: moving from soround to main
+2b5ea57a05320b9e3062e6e1267ec04bf29b75ee 3682c1d762208ad8b64cf0295b33d4ca0291fdc8 tweezerchef <ltomblock@gmail.com> 1731016219 -0600	pull upstream main: Fast-forward
+3682c1d762208ad8b64cf0295b33d4ca0291fdc8 3682c1d762208ad8b64cf0295b33d4ca0291fdc8 tweezerchef <ltomblock@gmail.com> 1731016288 -0600	checkout: moving from main to deskTop
+3682c1d762208ad8b64cf0295b33d4ca0291fdc8 6593a5a0892bb23fc8a317c7c7f55304ae51cd3e tweezerchef <ltomblock@gmail.com> 1731017041 -0600	commit: quick change to og route
+6593a5a0892bb23fc8a317c7c7f55304ae51cd3e 3682c1d762208ad8b64cf0295b33d4ca0291fdc8 tweezerchef <ltomblock@gmail.com> 1731017155 -0600	checkout: moving from deskTop to main
+3682c1d762208ad8b64cf0295b33d4ca0291fdc8 919ea4374a8aa2d09656ee834edc3256a576a46c tweezerchef <ltomblock@gmail.com> 1731017161 -0600	pull upstream main: Fast-forward
+919ea4374a8aa2d09656ee834edc3256a576a46c 919ea4374a8aa2d09656ee834edc3256a576a46c tweezerchef <ltomblock@gmail.com> 1731017183 -0600	checkout: moving from main to dTop
+919ea4374a8aa2d09656ee834edc3256a576a46c 13c8500fa0126511345226755f6eb229143e7dde tweezerchef <ltomblock@gmail.com> 1731019854 -0600	commit: desktop adjustments
+13c8500fa0126511345226755f6eb229143e7dde 919ea4374a8aa2d09656ee834edc3256a576a46c tweezerchef <ltomblock@gmail.com> 1731019967 -0600	checkout: moving from dTop to main
+919ea4374a8aa2d09656ee834edc3256a576a46c 4363c7e11ce1d2fb7ff3a83baad523a7291541d1 tweezerchef <ltomblock@gmail.com> 1731019974 -0600	pull upstream main: Fast-forward
+4363c7e11ce1d2fb7ff3a83baad523a7291541d1 4363c7e11ce1d2fb7ff3a83baad523a7291541d1 tweezerchef <ltomblock@gmail.com> 1731020184 -0600	checkout: moving from main to shareFinal
+4363c7e11ce1d2fb7ff3a83baad523a7291541d1 d64d5d7cea19887bfe7f28caaed293831cac3c8b tweezerchef <ltomblock@gmail.com> 1731022432 -0600	commit: share to twitter test
+d64d5d7cea19887bfe7f28caaed293831cac3c8b 4363c7e11ce1d2fb7ff3a83baad523a7291541d1 tweezerchef <ltomblock@gmail.com> 1731022510 -0600	checkout: moving from shareFinal to main
+4363c7e11ce1d2fb7ff3a83baad523a7291541d1 96c770976978e514954306ebec215fadcfea8a98 tweezerchef <ltomblock@gmail.com> 1731022515 -0600	pull upstream main: Fast-forward
+96c770976978e514954306ebec215fadcfea8a98 96c770976978e514954306ebec215fadcfea8a98 tweezerchef <ltomblock@gmail.com> 1731022633 -0600	checkout: moving from main to tryTwitter
+96c770976978e514954306ebec215fadcfea8a98 0848230e11255975885e57c2e5fddda79678b765 tweezerchef <ltomblock@gmail.com> 1731022701 -0600	commit: tryTwitter again
+0848230e11255975885e57c2e5fddda79678b765 b74befdfb6847edf77d2e4cbe735a998acfef859 tweezerchef <ltomblock@gmail.com> 1731023238 -0600	commit: resolved build errors
+b74befdfb6847edf77d2e4cbe735a998acfef859 96c770976978e514954306ebec215fadcfea8a98 tweezerchef <ltomblock@gmail.com> 1731023402 -0600	checkout: moving from tryTwitter to main
+96c770976978e514954306ebec215fadcfea8a98 ea799f73b4a03c509a437d6f0bf5b883b1bab3d8 tweezerchef <ltomblock@gmail.com> 1731023411 -0600	pull upstream main: Fast-forward
+ea799f73b4a03c509a437d6f0bf5b883b1bab3d8 ea799f73b4a03c509a437d6f0bf5b883b1bab3d8 tweezerchef <ltomblock@gmail.com> 1731024039 -0600	checkout: moving from main to twitterFix
+ea799f73b4a03c509a437d6f0bf5b883b1bab3d8 1f04c461fc54c534f067cff0db50e316743ef2b1 tweezerchef <ltomblock@gmail.com> 1731024739 -0600	commit: fixed button
+1f04c461fc54c534f067cff0db50e316743ef2b1 ea799f73b4a03c509a437d6f0bf5b883b1bab3d8 tweezerchef <ltomblock@gmail.com> 1731025019 -0600	checkout: moving from twitterFix to main
+ea799f73b4a03c509a437d6f0bf5b883b1bab3d8 af8c60d598bcba48e9825793772bcfcf9c4c1584 tweezerchef <ltomblock@gmail.com> 1731025024 -0600	pull upstream main: Fast-forward
+af8c60d598bcba48e9825793772bcfcf9c4c1584 af8c60d598bcba48e9825793772bcfcf9c4c1584 tweezerchef <ltomblock@gmail.com> 1731025313 -0600	checkout: moving from main to UI
+af8c60d598bcba48e9825793772bcfcf9c4c1584 af8c60d598bcba48e9825793772bcfcf9c4c1584 tweezerchef <ltomblock@gmail.com> 1731094600 -0600	reset: moving to HEAD
+af8c60d598bcba48e9825793772bcfcf9c4c1584 af8c60d598bcba48e9825793772bcfcf9c4c1584 tweezerchef <ltomblock@gmail.com> 1731094605 -0600	checkout: moving from UI to main
+af8c60d598bcba48e9825793772bcfcf9c4c1584 af8c60d598bcba48e9825793772bcfcf9c4c1584 tweezerchef <ltomblock@gmail.com> 1731095087 -0600	reset: moving to HEAD
+af8c60d598bcba48e9825793772bcfcf9c4c1584 af8c60d598bcba48e9825793772bcfcf9c4c1584 tweezerchef <ltomblock@gmail.com> 1731095097 -0600	checkout: moving from main to final
+af8c60d598bcba48e9825793772bcfcf9c4c1584 af8c60d598bcba48e9825793772bcfcf9c4c1584 tweezerchef <ltomblock@gmail.com> 1731099539 -0600	reset: moving to HEAD
+af8c60d598bcba48e9825793772bcfcf9c4c1584 af8c60d598bcba48e9825793772bcfcf9c4c1584 tweezerchef <ltomblock@gmail.com> 1731099549 -0600	checkout: moving from final to main
+af8c60d598bcba48e9825793772bcfcf9c4c1584 af8c60d598bcba48e9825793772bcfcf9c4c1584 tweezerchef <ltomblock@gmail.com> 1731099640 -0600	checkout: moving from main to so
+af8c60d598bcba48e9825793772bcfcf9c4c1584 8d07c191b78fbe560b2a94f819fcd1c7995f2ea4 tweezerchef <ltomblock@gmail.com> 1731102290 -0600	commit: sourounding fixed
+8d07c191b78fbe560b2a94f819fcd1c7995f2ea4 f1a41db3a55aa592ac66e58b1b8caa725c6a1aa4 tweezerchef <ltomblock@gmail.com> 1731102518 -0600	commit: updated stocks switch
+f1a41db3a55aa592ac66e58b1b8caa725c6a1aa4 af8c60d598bcba48e9825793772bcfcf9c4c1584 tweezerchef <ltomblock@gmail.com> 1731102710 -0600	checkout: moving from so to main
+af8c60d598bcba48e9825793772bcfcf9c4c1584 0c07a0219aa800dccb42cf797218c2a13f5a7220 tweezerchef <ltomblock@gmail.com> 1731102715 -0600	pull upstream main: Fast-forward
+0c07a0219aa800dccb42cf797218c2a13f5a7220 0c07a0219aa800dccb42cf797218c2a13f5a7220 tweezerchef <ltomblock@gmail.com> 1731103221 -0600	checkout: moving from main to stockErr
+0c07a0219aa800dccb42cf797218c2a13f5a7220 034cdb23f3bd33ab1e84e484ba716c571a866425 tweezerchef <ltomblock@gmail.com> 1731108279 -0600	commit: guest button removed and registration changed
+034cdb23f3bd33ab1e84e484ba716c571a866425 a13ec7105d2ea1e0bbe5777ace6518c17799c785 tweezerchef <ltomblock@gmail.com> 1731109510 -0600	commit: guest button removed, some small ui in final
+a13ec7105d2ea1e0bbe5777ace6518c17799c785 0c07a0219aa800dccb42cf797218c2a13f5a7220 tweezerchef <ltomblock@gmail.com> 1731109644 -0600	checkout: moving from stockErr to main
+0c07a0219aa800dccb42cf797218c2a13f5a7220 8a754f2354ca2151e77f8527bebe73724b401603 tweezerchef <ltomblock@gmail.com> 1731109656 -0600	pull upstream main: Fast-forward
+8a754f2354ca2151e77f8527bebe73724b401603 8a754f2354ca2151e77f8527bebe73724b401603 tweezerchef <ltomblock@gmail.com> 1731110450 -0600	checkout: moving from main to share
+8a754f2354ca2151e77f8527bebe73724b401603 f26dcf18eb1ef3326d1f0e0a2724ad39cfbe344c tweezerchef <ltomblock@gmail.com> 1731111354 -0600	commit: updated share
+f26dcf18eb1ef3326d1f0e0a2724ad39cfbe344c 8a754f2354ca2151e77f8527bebe73724b401603 tweezerchef <ltomblock@gmail.com> 1731111467 -0600	checkout: moving from share to main
+8a754f2354ca2151e77f8527bebe73724b401603 17bb1e9052825e9d99d820160e3936ab6971050e tweezerchef <ltomblock@gmail.com> 1731111477 -0600	pull upstream main: Fast-forward
+17bb1e9052825e9d99d820160e3936ab6971050e 17bb1e9052825e9d99d820160e3936ab6971050e tweezerchef <ltomblock@gmail.com> 1731115423 -0600	checkout: moving from main to share
+17bb1e9052825e9d99d820160e3936ab6971050e 9ee8a062f3872576e336b6aa40ac047e19c6af6f tweezerchef <ltomblock@gmail.com> 1731119381 -0600	commit: privAndSecure
+9ee8a062f3872576e336b6aa40ac047e19c6af6f 17bb1e9052825e9d99d820160e3936ab6971050e tweezerchef <ltomblock@gmail.com> 1731119523 -0600	checkout: moving from share to main
+17bb1e9052825e9d99d820160e3936ab6971050e e58fe484e03a231dd70894f9805efa41eb62c85b tweezerchef <ltomblock@gmail.com> 1731119529 -0600	pull upstream main: Fast-forward
+e58fe484e03a231dd70894f9805efa41eb62c85b e58fe484e03a231dd70894f9805efa41eb62c85b tweezerchef <ltomblock@gmail.com> 1731167306 -0600	checkout: moving from main to desktop
+e58fe484e03a231dd70894f9805efa41eb62c85b fef79fcf44679fc1c5697a720cedd1f7c40ddd00 tweezerchef <ltomblock@gmail.com> 1731168924 -0600	commit: root layout and page.tsx
+fef79fcf44679fc1c5697a720cedd1f7c40ddd00 9d3feaf8a287b92ac7788dc642e5833de2302d58 tweezerchef <ltomblock@gmail.com> 1731169165 -0600	commit: removed AuthenticatedGame and added routing logic to game/page.tsx
+9d3feaf8a287b92ac7788dc642e5833de2302d58 a79aee203f7d4a70affa53d800ab0a42fff68576 tweezerchef <ltomblock@gmail.com> 1731173693 -0600	commit: much better dTop
+a79aee203f7d4a70affa53d800ab0a42fff68576 e58fe484e03a231dd70894f9805efa41eb62c85b tweezerchef <ltomblock@gmail.com> 1731173887 -0600	checkout: moving from desktop to main
+e58fe484e03a231dd70894f9805efa41eb62c85b d6f5ef0b4e94d9c1c178884e8901413987f16d11 tweezerchef <ltomblock@gmail.com> 1731173893 -0600	pull upstream main: Fast-forward
+d6f5ef0b4e94d9c1c178884e8901413987f16d11 d6f5ef0b4e94d9c1c178884e8901413987f16d11 tweezerchef <ltomblock@gmail.com> 1731174622 -0600	checkout: moving from main to meta
+d6f5ef0b4e94d9c1c178884e8901413987f16d11 d6f5ef0b4e94d9c1c178884e8901413987f16d11 tweezerchef <ltomblock@gmail.com> 1731177063 -0600	reset: moving to HEAD
+d6f5ef0b4e94d9c1c178884e8901413987f16d11 d6f5ef0b4e94d9c1c178884e8901413987f16d11 tweezerchef <ltomblock@gmail.com> 1731177063 -0600	reset: moving to HEAD
+d6f5ef0b4e94d9c1c178884e8901413987f16d11 22622366e0509e3e47e934260973e0e9a7279a0a tweezerchef <ltomblock@gmail.com> 1731177374 -0600	commit: meta data much improved
+22622366e0509e3e47e934260973e0e9a7279a0a 5b5adce67657a359a9a608b3f9cf44edcdb68d06 tweezerchef <ltomblock@gmail.com> 1731177593 -0600	commit: slight change to dayOfInfo for desktop
+5b5adce67657a359a9a608b3f9cf44edcdb68d06 d6f5ef0b4e94d9c1c178884e8901413987f16d11 tweezerchef <ltomblock@gmail.com> 1731177756 -0600	checkout: moving from meta to main
+d6f5ef0b4e94d9c1c178884e8901413987f16d11 61952ded2857bdd8523fdb5b4fb88a130948d5ae tweezerchef <ltomblock@gmail.com> 1731177762 -0600	pull upstream main: Fast-forward
+61952ded2857bdd8523fdb5b4fb88a130948d5ae 61952ded2857bdd8523fdb5b4fb88a130948d5ae tweezerchef <ltomblock@gmail.com> 1731178457 -0600	checkout: moving from main to loginDesktop
+61952ded2857bdd8523fdb5b4fb88a130948d5ae d096dd7cb9c723fb83fd59489d6de805a9b22d97 tweezerchef <ltomblock@gmail.com> 1731178735 -0600	commit: updated robots.txt
+d096dd7cb9c723fb83fd59489d6de805a9b22d97 af7ba201d462f93a1ebe345c968481c429acc709 tweezerchef <ltomblock@gmail.com> 1731179148 -0600	commit: updated robots.txt times 2
+af7ba201d462f93a1ebe345c968481c429acc709 fb849934d6304a32893c4cc12b1a870b3b2c4f71 tweezerchef <ltomblock@gmail.com> 1731180341 -0600	commit: switched card to static image
+fb849934d6304a32893c4cc12b1a870b3b2c4f71 4a8327cc9184c212ae6cfd9ee313d08cf4a10875 tweezerchef <ltomblock@gmail.com> 1731180956 -0600	commit: google site ID
+4a8327cc9184c212ae6cfd9ee313d08cf4a10875 54dcc6b6e49205d8790f55fb5be1721e1f1f5a21 tweezerchef <ltomblock@gmail.com> 1731181288 -0600	commit: updated google
+54dcc6b6e49205d8790f55fb5be1721e1f1f5a21 60eb265732660e1018109ef0a5097ca497cd498b tweezerchef <ltomblock@gmail.com> 1731183363 -0600	commit: login looking better on desktop still need to work on registration
+60eb265732660e1018109ef0a5097ca497cd498b 44c72fdf85b8fc9e0c3c463d005db7b3c48502c2 tweezerchef <ltomblock@gmail.com> 1731183929 -0600	commit: registration improved on desktop
+44c72fdf85b8fc9e0c3c463d005db7b3c48502c2 61952ded2857bdd8523fdb5b4fb88a130948d5ae tweezerchef <ltomblock@gmail.com> 1731183987 -0600	checkout: moving from loginDesktop to main
+61952ded2857bdd8523fdb5b4fb88a130948d5ae a05e606140eca5bb5163ae99a23edae0eaa253cd tweezerchef <ltomblock@gmail.com> 1731183992 -0600	pull upstream main: Fast-forward
+a05e606140eca5bb5163ae99a23edae0eaa253cd a05e606140eca5bb5163ae99a23edae0eaa253cd tweezerchef <ltomblock@gmail.com> 1731184943 -0600	checkout: moving from main to siteName
+a05e606140eca5bb5163ae99a23edae0eaa253cd 4b7a644879ffd257cacfa54cf525115ee2ec3757 tweezerchef <ltomblock@gmail.com> 1731184952 -0600	commit: sitename
+4b7a644879ffd257cacfa54cf525115ee2ec3757 a05e606140eca5bb5163ae99a23edae0eaa253cd tweezerchef <ltomblock@gmail.com> 1731184992 -0600	checkout: moving from siteName to main
+a05e606140eca5bb5163ae99a23edae0eaa253cd a2093a238e76d1b3925b316a0b6d8e528e147d37 tweezerchef <ltomblock@gmail.com> 1731185004 -0600	pull upstream main: Fast-forward
+a2093a238e76d1b3925b316a0b6d8e528e147d37 a2093a238e76d1b3925b316a0b6d8e528e147d37 tweezerchef <ltomblock@gmail.com> 1731186246 -0600	checkout: moving from main to displayNum
+a2093a238e76d1b3925b316a0b6d8e528e147d37 56e94830800d131e409b8b4ff1a965e4dc5c200a tweezerchef <ltomblock@gmail.com> 1731186684 -0600	commit: number smaller max on desktop
+56e94830800d131e409b8b4ff1a965e4dc5c200a a2093a238e76d1b3925b316a0b6d8e528e147d37 tweezerchef <ltomblock@gmail.com> 1731186783 -0600	checkout: moving from displayNum to main
+a2093a238e76d1b3925b316a0b6d8e528e147d37 96f28dad44404f4358213842e42fde1149616090 tweezerchef <ltomblock@gmail.com> 1731186787 -0600	pull upstream main: Fast-forward
+96f28dad44404f4358213842e42fde1149616090 6cfc47c566bae30da047d9e01c0668dbc23da0d5 tweezerchef <ltomblock@gmail.com> 1731274020 -0600	checkout: moving from main to login
+6cfc47c566bae30da047d9e01c0668dbc23da0d5 6cfc47c566bae30da047d9e01c0668dbc23da0d5 tweezerchef <ltomblock@gmail.com> 1731274433 -0600	reset: moving to HEAD
+6cfc47c566bae30da047d9e01c0668dbc23da0d5 96f28dad44404f4358213842e42fde1149616090 tweezerchef <ltomblock@gmail.com> 1731274439 -0600	checkout: moving from login to main
+96f28dad44404f4358213842e42fde1149616090 96f28dad44404f4358213842e42fde1149616090 tweezerchef <ltomblock@gmail.com> 1731274477 -0600	checkout: moving from main to Log
+96f28dad44404f4358213842e42fde1149616090 96f28dad44404f4358213842e42fde1149616090 tweezerchef <ltomblock@gmail.com> 1731279493 -0600	reset: moving to HEAD
+96f28dad44404f4358213842e42fde1149616090 96f28dad44404f4358213842e42fde1149616090 tweezerchef <ltomblock@gmail.com> 1731279493 -0600	reset: moving to HEAD
+96f28dad44404f4358213842e42fde1149616090 1b512e397a96fb21b0b208e0cfbb6f1a02df877e tweezerchef <ltomblock@gmail.com> 1731279516 -0600	commit: working on login
+1b512e397a96fb21b0b208e0cfbb6f1a02df877e 1b512e397a96fb21b0b208e0cfbb6f1a02df877e tweezerchef <ltomblock@gmail.com> 1731368894 -0600	reset: moving to HEAD
+1b512e397a96fb21b0b208e0cfbb6f1a02df877e 1b512e397a96fb21b0b208e0cfbb6f1a02df877e tweezerchef <ltomblock@gmail.com> 1731368894 -0600	reset: moving to HEAD
+1b512e397a96fb21b0b208e0cfbb6f1a02df877e b9b2e8889040a325ad881dd0322ce4f8501cc661 tweezerchef <ltomblock@gmail.com> 1731368947 -0600	commit: updated IR enum in prisma
+b9b2e8889040a325ad881dd0322ce4f8501cc661 b5a277de1cb991eda6dac817b8e487fef7e1349a tweezerchef <ltomblock@gmail.com> 1731369699 -0600	commit: IR added
+b5a277de1cb991eda6dac817b8e487fef7e1349a c48966b865b6a6abaf26d456c8b2e8ec5e867800 tweezerchef <ltomblock@gmail.com> 1731370385 -0600	commit: login on mobile looks better
+c48966b865b6a6abaf26d456c8b2e8ec5e867800 88c10536cd3aa798856032c07e5ac7493727d2f7 tweezerchef <ltomblock@gmail.com> 1731372893 -0600	commit: improved login page
+88c10536cd3aa798856032c07e5ac7493727d2f7 96f28dad44404f4358213842e42fde1149616090 tweezerchef <ltomblock@gmail.com> 1731373050 -0600	checkout: moving from Log to main
+96f28dad44404f4358213842e42fde1149616090 6d3b37b96dbc6557427fe4c4fa0881d254d2e56c tweezerchef <ltomblock@gmail.com> 1731373061 -0600	pull upstream main: Fast-forward
+6d3b37b96dbc6557427fe4c4fa0881d254d2e56c 6d3b37b96dbc6557427fe4c4fa0881d254d2e56c tweezerchef <ltomblock@gmail.com> 1731523381 -0600	checkout: moving from main to moreLogin
+6d3b37b96dbc6557427fe4c4fa0881d254d2e56c 6d3b37b96dbc6557427fe4c4fa0881d254d2e56c tweezerchef <ltomblock@gmail.com> 1731524647 -0600	reset: moving to HEAD
+6d3b37b96dbc6557427fe4c4fa0881d254d2e56c 6d3b37b96dbc6557427fe4c4fa0881d254d2e56c tweezerchef <ltomblock@gmail.com> 1731524940 -0600	reset: moving to HEAD
+6d3b37b96dbc6557427fe4c4fa0881d254d2e56c 6d3b37b96dbc6557427fe4c4fa0881d254d2e56c tweezerchef <ltomblock@gmail.com> 1731524940 -0600	reset: moving to HEAD
+6d3b37b96dbc6557427fe4c4fa0881d254d2e56c c59aa98210f25b48fe1a39bf8bd91e6c3b5d55a0 tweezerchef <ltomblock@gmail.com> 1731524957 -0600	commit: removed description from login
+c59aa98210f25b48fe1a39bf8bd91e6c3b5d55a0 57125d8edff56d4d429a23d9a105153cea178086 tweezerchef <ltomblock@gmail.com> 1731527539 -0600	commit: login looks better and more clear on mobile and desktop
+57125d8edff56d4d429a23d9a105153cea178086 6d3b37b96dbc6557427fe4c4fa0881d254d2e56c tweezerchef <ltomblock@gmail.com> 1731527629 -0600	checkout: moving from moreLogin to main
+6d3b37b96dbc6557427fe4c4fa0881d254d2e56c 18219709351df42bbbf159821d2859358df1b064 tweezerchef <ltomblock@gmail.com> 1731527635 -0600	pull upstream main: Fast-forward
+18219709351df42bbbf159821d2859358df1b064 18219709351df42bbbf159821d2859358df1b064 tweezerchef <ltomblock@gmail.com> 1731527733 -0600	checkout: moving from main to register
+18219709351df42bbbf159821d2859358df1b064 7a6afa83760209263b2f3b0893a0ea222031eb27 tweezerchef <ltomblock@gmail.com> 1731528041 -0600	commit: quickFixRegister
+7a6afa83760209263b2f3b0893a0ea222031eb27 ac93f3db4f02f98dfeb59384f8ed73e31b2bba74 tweezerchef <ltomblock@gmail.com> 1731528590 -0600	commit: registration fixed
+ac93f3db4f02f98dfeb59384f8ed73e31b2bba74 18219709351df42bbbf159821d2859358df1b064 tweezerchef <ltomblock@gmail.com> 1731528732 -0600	checkout: moving from register to main
+18219709351df42bbbf159821d2859358df1b064 886cadbae04a754c23dd4dbb63881363f78312e2 tweezerchef <ltomblock@gmail.com> 1731528737 -0600	pull upstream main: Fast-forward
+886cadbae04a754c23dd4dbb63881363f78312e2 886cadbae04a754c23dd4dbb63881363f78312e2 tweezerchef <ltomblock@gmail.com> 1731705935 -0600	checkout: moving from main to imageChange
+886cadbae04a754c23dd4dbb63881363f78312e2 59fb5ff24b5900c5302e284b0c8d8b9cc8307059 tweezerchef <ltomblock@gmail.com> 1731705960 -0600	commit: changed logo
+59fb5ff24b5900c5302e284b0c8d8b9cc8307059 886cadbae04a754c23dd4dbb63881363f78312e2 tweezerchef <ltomblock@gmail.com> 1731706103 -0600	checkout: moving from imageChange to main
+886cadbae04a754c23dd4dbb63881363f78312e2 49f8d9e4454f38a33036bc97023177acab494925 tweezerchef <ltomblock@gmail.com> 1731706115 -0600	pull upstream main: Fast-forward
+49f8d9e4454f38a33036bc97023177acab494925 49f8d9e4454f38a33036bc97023177acab494925 tweezerchef <ltomblock@gmail.com> 1731708718 -0600	checkout: moving from main to share
+49f8d9e4454f38a33036bc97023177acab494925 e33a767248fd329e661174fb131a9e1119b45a00 tweezerchef <ltomblock@gmail.com> 1731714009 -0600	commit: guest added, final page changed a little
+e33a767248fd329e661174fb131a9e1119b45a00 0682f730acd413648fa20e7dde25e90e47b271a3 tweezerchef <ltomblock@gmail.com> 1731714115 -0600	commit: guest added, final page changed a little
+0682f730acd413648fa20e7dde25e90e47b271a3 b66447a7762ed393d0846e91787fb784d941a988 tweezerchef <ltomblock@gmail.com> 1731714350 -0600	commit: chore: ignore large SQL files
+b66447a7762ed393d0846e91787fb784d941a988 46e31d54c26f25494cb91eab8bc3683bc53a51e9 tweezerchef <ltomblock@gmail.com> 1731714454 -0600	commit: try again
+46e31d54c26f25494cb91eab8bc3683bc53a51e9 86e83b84766e906383a90672ae3f577c7289b9f1 tweezerchef <ltomblock@gmail.com> 1731714549 -0600	commit: remove SQL files from tracking
+86e83b84766e906383a90672ae3f577c7289b9f1 84f586e0b8fe7c2906dfc1ab4729a1e3f6b545f3 tweezerchef <ltomblock@gmail.com> 1731714890 -0600	commit: guest added
