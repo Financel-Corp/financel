@@ -1,9 +1,11 @@
+
 .shareButton {
   flex-shrink: 0;
   color: black !important;
   fill: black;
   font-weight: 500;
 }
+
 
 .chartContainer {
   background-color: #000000;

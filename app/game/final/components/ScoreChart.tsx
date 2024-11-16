@@ -78,6 +78,7 @@ export function ScoreChart() {
     responsive: true,
     maintainAspectRatio: true,
     aspectRatio: window?.innerWidth >= 768 ? 3 : 2,
+
     plugins: {
       legend: {
         labels: {
@@ -148,15 +149,19 @@ export function ScoreChart() {
 
           if (!uploadResponse.ok) throw new Error('Chart upload failed')
 
+
           const { chartId } = await uploadResponse.json()
+
 
           if (!chartId) throw new Error('chartId is undefined in the response')
 
           // Construct the URL to the chart page
           const chartPageUrl = `${window.location.origin}/chartShare/${chartId}`
 
+
           // Construct the Twitter share URL with the final score
           const tweetText = `I scored ${finalScore} points in Financle! Can you beat my score?`
+
           const twitterShareUrl = `https://x.com/intent/tweet?url=${encodeURIComponent(chartPageUrl)}&text=${encodeURIComponent(tweetText)}`
 
           // Redirect to the Twitter share URL

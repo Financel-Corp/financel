@@ -1,6 +1,8 @@
 import { Title } from '@mantine/core'
 import Image from 'next/image'
+
 import { GuestButtonWrapper } from './GuestButtonWrapper'
+
 import classes from './ui/Header.module.css'
 
 export function Header() {
@@ -29,6 +31,7 @@ export function Header() {
 
       <div className={classes.inner}>
         <Title className={classes.title}>Financle</Title>
+
         <div className={classes.buttonContainer}>
           <GuestButtonWrapper />
         </div>

@@ -2,6 +2,7 @@
 
 import { ScoreChart } from './components/ScoreChart'
 import { LeaderBoard } from './components/Leaderboard'
+
 import { useScoreContext } from '../../context/user/ScoreContext'
 import classes from './ui/FinalPage.module.css'
 
